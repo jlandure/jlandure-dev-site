@@ -1,13 +1,6 @@
 # Mon CV
 
-> CTO Zenika<br>
-> Google Developer Expert Cloud<br>
-> Organisateur du Google Developer Group Nantes<br>
-> Google Developer Expert sur la partie Cloud<br>
-> Membre du Skill Matters Technical Advisory Board<br>
-> 15 ans d'expérience<br>
-> Gallup Strengths : Strategic, Relator, Futuristic, Individualization, Communication<br>
-> julien.landure@zenika.com • https://jlandure.dev
+[filename](../bio/README.md ':include')
 
 ## CTO • Zenika Nantes <small>(depuis Octobre 2012)</small>
 - Veille technologique, définition du radar technologique Zenika
@@ -18,8 +11,8 @@
 - Participation aux conférences (Google I/O et diverses conférences françaises comme Devoxx, Breizhcamp, DevFest Nantes, DevFest Lille, JugSummerCamp etc.)
 - Organisation de Learning Expedition (10 personnes pendant 1 semaine dans la Silicon Valley pour s'inspirer des géants du Web Google, Facebook, GitHub, AirBnB, Docker, Pivotal etc.)
 - Avant-Vente & Accompagnement sur des audits
-- Organisation du bootcamp des nouveaux arrivants 
-- Organisation nos conférences internes Technozaure et nos sessions de formations.
+- Organisation de bootcamp des nouveaux arrivants 
+- Organisation de nos conférences internes Technozaure et nos sessions de formations.
 
 ## Consulting / CTO As A Service <small>(2017-2021)</small>
 
@@ -124,10 +117,16 @@ navires.
 
 - Vente de matériels et logiciels informatiques
 
+# Certifications
+
+[filename](../certifications/README.md ':include')
+
 # Formation
 
 - Formation professionnelle « Animer une équipe » par Cegios Formation (4j) <small>effectué en 2011</small>
 - Master 2 ALMA à l’université de Nantes <small>obtenu en 2006</small>
+
+> Master’s Degree in Engineering in computer science specialized in « Software Architecture » in the university of Nantes.<br>UML Design and MDA learning with M. Bézivin : use of UML2, model transformations, DSL approach.<br>Component oriented design learning with M. Oussalah : introduction to the EJB, N-tier architecture.
 - DUT à l’IUT de Nantes <small>obtenu en 2003</small>
 - Bac S <small>obtenu en 2001</small>
 
