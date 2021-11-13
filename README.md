@@ -4,15 +4,15 @@
 
 ### 🇬🇧 In English
 
-[filename](bio/bio-en.md ':include')
+[bio-en file](bio/bio-en.md ':include')
 
 ### 🇫🇷 En Français 
 
-[filename](bio/bio-fr.md ':include')
+[bio-fr file](bio/bio-fr.md ':include')
 
 ### 📝 Experience
 
-[filename](bio/README.md ':include')
+[bio file](bio/README.md ':include')
 
 [🇫🇷 Mon CV complet ici](./cv/) ou sur [Linkedin](https://www.linkedin.com/in/jlandure/)
 
@@ -27,11 +27,11 @@
 
 ### 🏅 Certifications
 
-[filename](certifications/README.md ':include')
+[certifications file](certifications/README.md ':include')
 
 ## 💻 OpenSource
 
-[See listing here](./opensource/README.md ':include')
+[opensource file](./opensource/README.md ':include')
 
 ## 📣 Conferences
 
