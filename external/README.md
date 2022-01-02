@@ -1,4 +1,4 @@
-During interviews or events!
+Stories with/about me
 
 - 2021-06-11 [TV France 3](/external/2021-06-11-france3.md)
 <span class="detail-tag">Television</span>
@@ -12,3 +12,4 @@ During interviews or events!
 - 2017-10-19 [Radio Europe 1](/external/2017-10-19-europe1-radio.md) -- [Direct Link](https://www.europe1.fr/emissions/ca-se-passe-chez-vous/ca-se-passe-chez-vous-19102017-3468221)
 <span class="detail-tag">Radio</span>
 - 2016-09-01 [Externatic Interview](/external/2016-09-01-externatic.md) -- [Direct Link](https://www.externatic.fr/blog/interview-tech-2-julien-landure-822/)
+- 2011-10-26 [Euriware Interview](/external/2011-10-26-euriware.md)
