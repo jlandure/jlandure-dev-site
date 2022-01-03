@@ -18,13 +18,13 @@
 
 ### 💚 Hobbies
 
+- 💬 Organizer and speaker as a volunteer in different tech Communities
 - ⚽ Football (soccer)
   - 🌐 France
   - 🇫🇷 Ligue 1  (Nantes)
   - 🇬🇧 Premier league  (Liverpool)
-  - Currently 15 years at [Societe Generale (Foot Entreprise)](https://foot44.fff.fr/recherche-clubs/?scl=27776)
+  - Currently playing at [U.A. STE GENERALE (Foot Entreprise)](https://foot44.fff.fr/recherche-clubs/?scl=27776) _since 2008_
 - ✈️ Travel
-- 💬 Organizer and speaker as a volunteer in different tech Communities
 
 ### 📝 Links & Profiles
 
