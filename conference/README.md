@@ -629,7 +629,7 @@ https://twitter.com/benjifontaine5/status/1189110405420986368
 - _2019 Sept_ Firebase Summit 2019 - 🇪🇸 Madrid, Spain (2d) 
 <span class="detail-tag">Attendee</span>
 <br>[Blog "Retour sur le Firebase Summit 2019"](https://blog.zenika.com/2019/10/04/retour-sur-le-firebase-summit-2019/)
-- _2019 Sep_ [Jug Summer Camp](https://www.jugsummercamp.org/edition/10/presentations/GhHS1WVBLFnbRz4lkTkR) - 🇫🇷 La Rochelle, France
+- _2019 Sep_ [Jug Summer Camp 2019](https://www.jugsummercamp.org/edition/10/presentations/GhHS1WVBLFnbRz4lkTkR) - 🇫🇷 La Rochelle, France
 <span class="detail-tag">Speaker</span>
 <br><details><summary>Self-Marketing for Developers / [Slides](https://speakerdeck.com/jlandure/self-marketing-for-developers-ab8e0dff-67e8-4782-a0f2-c6b6c641a11b) / [Video](https://www.youtube.com/watch?v=MEQXY3dv2dg&list=PLdVDu8iO6zrMurVwGrFR23uw5OtGh4vFx&index=11)
 </summary>
@@ -659,7 +659,7 @@ https://twitter.com/jlandure/status/1144241382439161856
 <img src="https://sfo2.digitaloceanspaces.com/advocu/gde/activity-photos/2019/07/01/d8a8610868e9240d2807.jpg">
 </span>
 </details>
-- _2019 Apr_ Google I/O 2019 - 🇺🇸 San Francisco, CA, USA (3d) 
+- _2019 Apr_ Google I/O 2019 - 🇺🇸 Mountain View, CA, USA (3d) 
 <span class="detail-tag">Attendee</span>
 <br>[Blog "Retour sur le Google I/O 2019"](https://blog.zenika.com/2019/05/20/retour-sur-le-google-i-o-2019/)
 - _2019 Apr_ [GDG Cloud Nantes](https://www.meetup.com/fr-FR/GDG-Cloud-Nantes/events/259817562/) - 🇫🇷 Nantes, France
@@ -858,7 +858,7 @@ During Next London, I made a lightning talk on the community booth. It was an in
 <img src="https://sfo2.digitaloceanspaces.com/advocu/gde/activity-photos/2018/10/13/333e5f8c7333bb6ee49d.jpg">
 </span>
 </details>
-- _2018 Sep_ [Jug Summer Camp](https://www.jugsummercamp.org/edition/9) - 🇫🇷 La Rochelle, France (1d)
+- _2018 Sep_ [Jug Summer Camp 2018](https://www.jugsummercamp.org/edition/9) - 🇫🇷 La Rochelle, France (1d)
 <span class="detail-tag">Speaker</span>
 <br><details><summary>La CNCF et son écosystème / [Slides](https://speakerdeck.com/jlandure/la-cncf-et-son-ecosysteme) / [Video](https://www.youtube.com/watch?v=nJsEJ3JouPE&list=PLdVDu8iO6zrMurVwGrFR23uw5OtGh4vFx&index=15)
 </summary>
@@ -869,7 +869,7 @@ On parle beaucoup de Kubernetes mais tout ce projet est supporté par la fameuse
 <img src="https://sfo2.digitaloceanspaces.com/advocu/gde/activity-photos/2018/09/16/f7dec61cd4d302f7c3d6.jpg">
 </span>
 </details>
-- _2018 Sep_ [Jug Summer Camp](https://www.jugsummercamp.org/edition/9) - 🇫🇷 La Rochelle, France (1d)
+- _2018 Sep_ [Jug Summer Camp 2018](https://www.jugsummercamp.org/edition/9) - 🇫🇷 La Rochelle, France (1d)
 <span class="detail-tag">Speaker</span>
 <br><details><summary>Playing with Skaffold & Container Structure Test / [Slides](https://speakerdeck.com/jlandure/jouons-avec-skaffold-and-container-structure-test) / [Video](https://www.youtube.com/watch?v=CMVTEqLpOxY&list=PLdVDu8iO6zrMurVwGrFR23uw5OtGh4vFx&index=14)
 </summary>
@@ -896,7 +896,10 @@ It was about the evolution of DevFest Nantes and why we created a new CFP to get
 <img src="https://sfo2.digitaloceanspaces.com/advocu/gde/activity-photos/2018/10/13/802fa2cdaa9fd0b788ac.jpg">
 </span>
 </details>
-- _2018 Apr_ U LEARN by IMIE - 🇫🇷 Nantes, France (1d)
+- _2018 May_ Google I/O 2018 - 🇺🇸 Mountain View, CA, USA (3d) 
+<span class="detail-tag">Attendee</span>
+<br>[Blog "Retour sur le Google I/O 2018"](https://blog.zenika.com/2018/05/25/retour-sur-le-google-i-o-2018/)
+- _2018 Apr_ U LEARN by IMIE - 🇫🇷 Nantes, France
 <span class="detail-tag">Speaker</span>
 <br><details><summary>Premiers pas dans la Silicon Valley with [Benjamin Petetot](https://twitter.com/bpetetot) [Éric Briand](https://twitter.com/eric_briand) / [Slides](https://speakerdeck.com/jlandure/premiers-pas-dans-la-silicon-valley)
 </summary>
@@ -911,11 +914,239 @@ Nous profiterons également de cette conférence pour faire un retour sur le Goo
 <img src="https://pbs.twimg.com/media/DaHV4_gXcAA2T4_?format=jpg&name=medium">
 </span>
 </details>
+- _2018 Jan_ [GDG Nantes & Docker Nantes](https://www.meetup.com/fr-FR/GDG-Nantes/events/246037066/) - Cloud Study Jam : Codelab Kubernetes - 🇫🇷 Nantes, France
+<span class="detail-tag">Meetup Speaker</span>
+<br>_Attendees: 55_
+
+## 2017
+
+- _2017 Nov_ [dotGo 2017](https://2017.dotgo.eu/) - 🇫🇷 Paris, France (1d)
+<span class="detail-tag">Attendee</span>
+- _2017 Oct_ [DevFest Nantes 2017](https://devfest2017.gdgnantes.com) - 🇫🇷 Nantes, France (2d)
+<span class="detail-tag">DevFest Organizer</span>
+<span class="detail-tag">Speaker</span>
+- _2017 Sep_ Docker - 🇫🇷 Nantes, France 
+<span class="detail-tag">Enterprise</span>
+<span class="detail-tag">Speaker</span>
+<br>_Attendees: 30_
+- _2017 Sep_ DevOps - 🇫🇷 Nantes, France 
+<span class="detail-tag">Enterprise</span>
+<span class="detail-tag">Speaker</span>
+<br>_Attendees: 10_
+- _2017 Jun_ [DevFest Lille 2017](https://devfest-2018.gdglille.org/archives/2017/index.html#/speakers) - 🇫🇷 Lille, France
+<span class="detail-tag">Speaker</span>
+<br><details><summary>Serverless, just a buzzword with [Éric Briand](https://twitter.com/eric_briand) / [Slides](https://speakerdeck.com/jlandure/serverless-just-a-buzzword)
+</summary>
+<span><em>
+Attendees: 39<br>
+https://twitter.com/frafac/status/873132396098592768
+https://twitter.com/ZenikaLille/status/873131709591629825
+https://twitter.com/sebastienfriess/status/873151819333193729
+Les conteneurs se généralisent depuis maintenant quelques temps. Et un nouveau concept est déjà en train de pointer le bout de son nez : le serverless. Qu’est-ce que c’est ? Est-ce un buzz ou une réelle évolution ? Est-ce que l’on doit déjà mettre à la poubelle les conteneurs ? Au cours de cette présentation, nous présenterons les principes du serverless et nous ferons une mise en application avec AWS Lambda, Google Cloud Functions et le framework serverless. Nous essaierons d’apporter un éclairage sur l’intérêt de cette technologie à travers des exemples d’utilisation.
+</em>
+<img src="https://pbs.twimg.com/media/DB38nRCXoAAwYVl?format=jpg&name=large">
+</span>
+</details>
+- _2017 Jun_ Web2Day 2017 - 🇫🇷 Nantes, France
+<span class="detail-tag">Speaker</span>
+<br><details><summary>Cloud Patterns - Writing applications that scale / [Slides](https://speakerdeck.com/jlandure/cloud-patterns-writing-applications-that-scale) / [Video](https://www.youtube.com/watch?v=vxofZQFwtUI&list=PLdVDu8iO6zrMurVwGrFR23uw5OtGh4vFx&index=19)
+</summary>
+<span><em>
+Attendees: 38<br>
+Connaissez-vous les 12-factor apps ? Au travers de ce talk, nous expliquerons les différents patterns pour réaliser une application moderne 'Cloud Ready' en 2016.
+</em>
+</span>
+</details>
+- _2017 Jun_ Web2Day 2017 - 🇫🇷 Nantes, France
+<span class="detail-tag">Speaker</span>
+<br><details><summary>Serverless, just a buzzword with [Éric Briand](https://twitter.com/eric_briand) / [Slides](https://speakerdeck.com/jlandure/serverless-just-a-buzzword) / [Video](https://www.youtube.com/watch?v=P8pCWhPl9B4&list=PLdVDu8iO6zrMurVwGrFR23uw5OtGh4vFx&index=18)
+</summary>
+<span><em>
+Attendees: 45<br>
+https://twitter.com/legoliobod/status/872376276962734080
+https://twitter.com/YvonnickFrin/status/872375925530296321
+https://twitter.com/a_bouchama/status/872376196419514368
+https://twitter.com/EditionsENI/status/872382308006977536
+Les conteneurs se généralisent depuis maintenant quelques temps. Et un nouveau concept est déjà en train de pointer le bout de son nez : le serverless. Qu’est-ce que c’est ? Est-ce un buzz ou une réelle évolution ? Est-ce que l’on doit déjà mettre à la poubelle les conteneurs ? Au cours de cette présentation, nous présenterons les principes du serverless et nous ferons une mise en application avec AWS Lambda, Google Cloud Functions et le framework serverless. Nous essaierons d’apporter un éclairage sur l’intérêt de cette technologie à travers des exemples d’utilisation.
+</em>
+<img src="https://pbs.twimg.com/media/DBtNaYrXYAEVulu?format=jpg&name=4096x4096">
+</span>
+</details>
+- _2017 May_ [Learning Expedition with Zenika](https://zenikalearningexpedition.wordpress.com/) - 🇺🇸 San Francisco, CA, USA (5d) 
+<span class="detail-tag">Enterprise</span>
+<span class="detail-tag">Organizer</span>
+- _2017 May_ Google I/O 2017 - 🇺🇸 Mountain View, CA, USA (3d) 
+<span class="detail-tag">Attendee</span>
+<br>[Blog "Retour sur le Google I/O 2017"](https://blog.zenika.com/2017/05/30/retour-sur-le-google-io-2017/)
+- _2017 Apr_ [ADN Ouest]() - 🇫🇷 Nantes, France
+<span class="detail-tag">Meetup Speaker</span>
+<br><details><summary>Things you can learn from big players with [Antoine Bonneau](https://twitter.com/CallMeGoodWater)
+</summary>
+<span><em>
+Attendees: 40<br>
+https://twitter.com/SylvainRedondie/status/850058692624093188
+https://twitter.com/ChantalBAZIRE/status/850044748916240384
+https://twitter.com/JeanLouRACINE/status/850057784817324032
+GAFA, NATU... nous connaissons ces noms mais connaissons-nous vraiment leurs pratiques disruptives ? Ce talk vous présentera différentes pratiques auxquelles ils ont recours et donnera quelques faits marquants concernants ces géants du Web.
+C'est un tour d'horizon des bonnes pratiques des géants du web agrémentées d'histoires plus ou moins connues. L'idée est de faire un panorama de ce qui se fait chez ses géants et d'ouvrir les esprits sur des concepts autant techniques qu'organisationnelles.
+</em>
+<img src="https://pbs.twimg.com/media/C8v3HrxXcAA2kI1?format=jpg&name=4096x4096">
+</span>
+</details>
+- _2017 Mar_ [Remixjobs Day Nantes](https://www.maddyness.com/evenement/remixjobs-day-levenement-debarque-a-nantes/) - 🇫🇷 Nantes, France
+<span class="detail-tag">Meetup Speaker</span>
+<br><details><summary>Serverless, just a buzzword with [Éric Briand](https://twitter.com/eric_briand)
+</summary>
+<span><em>
+Attendees: 10<br>
+https://twitter.com/ZenikaNantes/status/843820537763807232
+Les conteneurs se généralisent depuis maintenant quelques temps. Et un nouveau concept est déjà en train de pointer le bout de son nez : le serverless. Qu’est-ce que c’est ? Est-ce un buzz ou une réelle évolution ? Est-ce que l’on doit déjà mettre à la poubelle les conteneurs ? Au cours de cette présentation, nous présenterons les principes du serverless et nous ferons une mise en application avec AWS Lambda, Google Cloud Functions et le framework serverless. Nous essaierons d’apporter un éclairage sur l’intérêt de cette technologie à travers des exemples d’utilisation.
+</em>
+<img src="https://pbs.twimg.com/media/C7XaQ5fXgAIJTEU?format=jpg&name=small">
+</span>
+</details>
+
+## 2016
+
+- _2016 Nov_ [DevFest Nantes 2016](https://devfest2016.gdgnantes.com/session.html?id=995) - 🇫🇷 Nantes, France (2d)
+<span class="detail-tag">DevFest Organizer</span>
+<span class="detail-tag">Speaker</span>
+<br><details><summary>Cloud Patterns with [Didier Girard](https://twitter.com/DidierGirard) / [Slides](https://speakerdeck.com/jlandure/cloud-patterns-to-serverless-and-beyond) / [Video](https://www.youtube.com/watch?v=Jv5LmQOXmjU&list=PLdVDu8iO6zrMurVwGrFR23uw5OtGh4vFx&index=20)
+</summary>
+<span><em>
+Attendees: 200<br>
+https://twitter.com/eric_briand/status/796294550000123904
+https://twitter.com/rlespinasse/status/796294740203438080
+https://twitter.com/o_Pl_D/status/796302000430415873
+https://twitter.com/sebastienfriess/status/796296553879191552
+Au travers de ce talk, nous expliquons les différents patterns pour réaliser une application moderne 'Cloud Ready' en 2016. Nous exposons les différentes entre IaaS, CaaS, PaaS, FaaS avec une démo sous Kubernetes. Enfin, toute une partie sur les concepts de Métrique, de CI/CD, d'API, de robustesse est abordée pour amener le développeur à utiliser des services managés et se concentrer uniquement sur la valeur ajoutée : le code qu'il produit.
+</em>
+<img src="https://pbs.twimg.com/media/Cw0BqcTXAAAYJn2?format=jpg&name=4096x4096">
+</span>
+</details>
+- _2016 Oct_ [dotGo](https://www.dotconferences.com/conference/dotgo-2016) - 🇫🇷 Paris, France (1d)
+<span class="detail-tag">Attendee</span>
+- _2016 Sep_ [Nantes Digital Week & GDG Nantes](https://www.meetup.com/fr-FR/GDG-Nantes/events/233202275/) - 🇫🇷 Nantes, France
+<span class="detail-tag">Meetup Speaker</span>
+<br><details><summary>Things you can learn from big players with [Antoine Bonneau](https://twitter.com/CallMeGoodWater)
+</summary>
+<span><em>
+Attendees: 57<br>
+https://twitter.com/medyBelmokhtar/status/778282872063025152
+https://twitter.com/AntoineCellier_/status/778294760859664384
+https://twitter.com/jlandure/status/777899008861798400
+GAFA, NATU... nous connaissons ces noms mais connaissons-nous vraiment leurs pratiques disruptives ? Ce talk vous présentera différentes pratiques auxquelles ils ont recours et donnera quelques faits marquants concernants ces géants du Web.
+C'est un tour d'horizon des bonnes pratiques des géants du web agrémentées d'histoires plus ou moins connues. L'idée est de faire un panorama de ce qui se fait chez ses géants et d'ouvrir les esprits sur des concepts autant techniques qu'organisationnelles.
+</em>
+<img src="https://pbs.twimg.com/media/Cs0EIa_XEAAei3H?format=jpg&name=large">
+</span>
+</details>
+- _2016 Sep_ [Jug Summer Camp 2016](https://www.jugsummercamp.org/edition/7/presentations/1151) - 🇫🇷 La Rochelle, France (1d)
+<span class="detail-tag">Speaker</span>
+<br><details><summary>HTTP2, ce qui va changer ! / [Slides](https://speakerdeck.com/jlandure/http2-ce-qui-va-changer) / [Video](https://www.youtube.com/watch?v=3yPUjl_KFOA&list=PLdVDu8iO6zrMurVwGrFR23uw5OtGh4vFx&index=21)
+</summary>
+<span><em>
+Attendees: 30<br>
+https://twitter.com/fsznajderman/status/776730548081426432
+HTTP1 est omniprésent en 2016 et HTTP2 est pourtant "sorti" le 15 mai 2015.
+Qu'est-ce qu'on y gagne, nous développeurs ?
+Les principes d'optimisation Web seront-ils toujours d'actualités ?
+Venez découvrir HTTP2, le futur protocole du Web !
+</em>
+<img src="https://pbs.twimg.com/media/CseATb5XEAAoZ3U?format=jpg&name=large">
+</span>
+</details>
+- _2016 Jun_ [Nantes JUG](https://nantesjug.org/#/events/2016_06_14) - 🇫🇷 Nantes, France
+<span class="detail-tag">Meetup Speaker</span>
+<br><details><summary>HTTP2, ce qui va changer ! / [Slides](https://speakerdeck.com/jlandure/http2-ce-qui-va-changer)
+</summary>
+<span><em>
+Attendees: 40<br>
+https://twitter.com/nantesjug/status/742772284977479682
+https://twitter.com/eric_briand/status/742772265935351808
+HTTP1 est omniprésent en 2016 et HTTP2 est pourtant "sorti" le 15 mai 2015.
+Qu'est-ce qu'on y gagne, nous développeurs ?
+Les principes d'optimisation Web seront-ils toujours d'actualités ?
+Venez découvrir HTTP2, le futur protocole du Web !
+</em>
+<img src="https://pbs.twimg.com/media/Ck7bbHCWEAMlDa2?format=jpg&name=4096x4096">
+</span>
+</details>
+- _2016 Mar_ Web2Day 2016 - 🇫🇷 Nantes, France (3d)
+<span class="detail-tag">Speaker</span>
+<br><details><summary>HTTP2, ce qui va changer ! / [Slides](https://speakerdeck.com/jlandure/http2-ce-qui-va-changer) / [Video](https://www.youtube.com/watch?v=39ER9F4mBvc&list=PLdVDu8iO6zrMurVwGrFR23uw5OtGh4vFx&index=22)
+</summary>
+<span><em>
+Attendees: 30<br>
+https://twitter.com/YvonnickFrin/status/743031589593059328
+https://twitter.com/EricHoresnyi/status/743032643307077632
+HTTP1 est omniprésent en 2016 et HTTP2 est pourtant "sorti" le 15 mai 2015.
+Qu'est-ce qu'on y gagne, nous développeurs ?
+Les principes d'optimisation Web seront-ils toujours d'actualités ?
+Venez découvrir HTTP2, le futur protocole du Web !
+</em>
+<img src="https://pbs.twimg.com/media/Ck_HRrOWEAAtQEI?format=jpg&name=large">
+</span>
+</details>
+- _2016 Mar_ [Breizhcamp 2016](http://2016.breizhcamp.org/) - 🇫🇷 Rennes, France (2d)
+<span class="detail-tag">Speaker</span>
+<br><details><summary>HTTP2, ce qui va changer ! / [Slides](https://speakerdeck.com/jlandure/http2-ce-qui-va-changer)
+</summary>
+<span><em>
+Attendees: 25<br>
+HTTP1 est omniprésent en 2016 et HTTP2 est pourtant "sorti" le 15 mai 2015.
+Qu'est-ce qu'on y gagne, nous développeurs ?
+Les principes d'optimisation Web seront-ils toujours d'actualités ?
+Venez découvrir HTTP2, le futur protocole du Web !
+</em>
+</span>
+</details>
+- _2016 Feb_ Zenika - 🇫🇷 Paris, France
+<span class="detail-tag">Speaker</span>
+<br><details><summary>HTTP2, ce qui va changer ! / [Slides](https://speakerdeck.com/jlandure/http2-ce-qui-va-changer)
+</summary>
+<span><em>
+Attendees: 40<br>
+https://twitter.com/ZenikaIT/status/700307056432193536
+HTTP1 est omniprésent en 2016 et HTTP2 est pourtant "sorti" le 15 mai 2015.
+Qu'est-ce qu'on y gagne, nous développeurs ?
+Les principes d'optimisation Web seront-ils toujours d'actualités ?
+Venez découvrir HTTP2, le futur protocole du Web !
+</em>
+<img src="https://pbs.twimg.com/media/Cbf9jK8W4AMxcj1?format=jpg&name=medium">
+</span>
+</details>
+- _2016 Feb_ DevFest Paris - 🇫🇷 Paris, France
+<span class="detail-tag">Speaker</span>
+<br><details><summary>HTTP2, ce qui va changer ! / [Slides](https://speakerdeck.com/jlandure/http2-ce-qui-va-changer)
+</summary>
+<span><em>
+Attendees: 75<br>
+https://twitter.com/mariolet/status/695599224138944512
+https://twitter.com/ZenikaIT/status/695599418184232961
+https://twitter.com/bpetetot/status/695594784245882880
+https://twitter.com/n_larousse/status/695656159332724737
+https://twitter.com/tibodevil/status/695609708007268352
+https://twitter.com/devfestnantes/status/695600455708250112
+https://blog.zenika.com/2016/02/23/retour-sur-le-devfest-paris-2016/
+HTTP1 est omniprésent en 2016 et HTTP2 est pourtant "sorti" le 15 mai 2015.
+Qu'est-ce qu'on y gagne, nous développeurs ?
+Les principes d'optimisation Web seront-ils toujours d'actualités ?
+Venez découvrir HTTP2, le futur protocole du Web !
+</em>
+<img src="https://pbs.twimg.com/media/CadDzbPXIAAdinc?format=jpg&name=medium">
+</span>
+</details>
 
 ## 2015
 
+- _2015 Nov_ [DevFest Nantes 2015](https://devfest2015.gdgnantes.com) - 🇫🇷 Nantes, France (1d)
+<span class="detail-tag">DevFest Organizer</span>
 - _2015 Oct_ GDG Summit FR - 🇫🇷 Paris, France (2d)
 <span class="detail-tag">Attendee</span>
+<span class="detail-tag">Speaker</span>
+<br>Les étapes clés pour valoriser votre sponsoring ! / [Slides](https://speakerdeck.com/jlandure/les-etapes-cles-pour-valoriser-votre-sponsoring
+)
 - _2015 Oct_ Microsoft Rebuild - 🇫🇷 Nantes, France (1d)
 <span class="detail-tag">Attendee</span>
 - _2015 Apr_ GDG Nantes - Soirée Google X et ATAP - 🇫🇷 Nantes, France
@@ -971,7 +1202,7 @@ Session communautaire pour les GDG de France à Devoxx
 
 ## 2014
 
-- _2014 Nov_ DevFest Nantes 2014 - 🇫🇷 Nantes, France (1d)
+- _2014 Nov_ [DevFest Nantes 2014](https://devfest2014.gdgnantes.com/) - 🇫🇷 Nantes, France (1d)
 <span class="detail-tag">DevFest Organizer</span>
 - _2014 Sep_ GDG Nantes - Dart Flight School - 🇫🇷 Nantes, France
 <span class="detail-tag">Meetup Organizer</span>
@@ -1001,7 +1232,7 @@ Session communautaire pour les GDG de France à Devoxx
 
 ## 2012
 
-- _2012 Nov_ DevFest Nantes 2012 - 🇫🇷 Nantes, France (1d)
+- _2012 Nov_ [DevFest Nantes 2012](http://devfest2012.gdgnantes.com/) - 🇫🇷 Nantes, France (1d)
 <span class="detail-tag">DevFest Organizer</span>
 - _2012 Oct_ GDG Barcamp - 🇫🇷 Paris, France (1d)
 <span class="detail-tag">Attendee</span>

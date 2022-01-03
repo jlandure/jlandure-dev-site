@@ -32,6 +32,8 @@
 <br>Attendees: 9
 - _2017 Jul_ Docker Training Introduction - 🇫🇷 Nantes, France (1d)
 <br>Attendees: 5
+- _2017 Jun_ Web & API Training - 🇫🇷 Nantes, France (2d)
+<br>Attendees: 7
 - _2017 May_ Docker Training - 🇫🇷 Nantes, France (4d)
 <br>Attendees: 4
 - _2017 Feb_ Docker Training - 🇫🇷 Nantes, France (4d)
