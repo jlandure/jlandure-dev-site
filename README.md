@@ -10,11 +10,11 @@
 
 [bio-fr file](bio/bio-fr.md ':include')
 
-### 📝 Experience
+### 📝 Experience & Resume
 
 [bio file](bio/README.md ':include')
 
-[🇫🇷 Mon CV complet ici](cv/) ou sur [Linkedin](https://www.linkedin.com/in/jlandure/)
+[🇫🇷 Mon CV complet ici / My full Resume in french](cv/) or visit [Linkedin](https://www.linkedin.com/in/jlandure/)
 
 ### 💚 Hobbies
 

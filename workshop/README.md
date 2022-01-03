@@ -42,14 +42,18 @@
 <br>Attendees: 5
 - _2016 Nov_ AppEngine Course at IMT Atlantique School - 🇫🇷 Nantes, France (2d)
 <br>Attendees: 31
-- _2016 Oct_ Cloud Foundry for Developers - 🇫🇷 Paris, France (1d)
-<br>Attendees: 2
-- _2017 Sept_ Docker Training - 🇫🇷 Nantes, France (4d)
+- _2016 Sept_ Docker Training - 🇫🇷 Nantes, France (4d)
 <br>Attendees: 7
 - _2016 Jul_ Docker Training Introduction - 🇫🇷 Nantes, France (1d)
 <br>Attendees: 3
-- _2016 Jul_ Docker Training Introduction - 🇫🇷 Nantes, France (1d)
-<br>Attendees: 3
+- _2016 Jul_ Go - 🇫🇷 Nantes, France (1d)
+<br>Attendees: 1
+- _2016 Jun_ Cloud Foundry for Developers - 🇫🇷 Paris, France (1d)
+<br>Attendees: 2
+- _2016 Apr_ AngularJS - 🇫🇷 La Roche / Yon, France (3d)
+<br>Attendees: 7
+- _2016 Apr_ Javascript Introduction - 🇫🇷 La Roche / Yon, France (2d)
+<br>Attendees: 7
 - _2015 Dec_ Docker Training Introduction - 🇫🇷 Nantes, France (1d)
 <br>Attendees: 5
 - _2015 Nov_ Javascript Introduction - 🇫🇷 Nantes, France (2d)

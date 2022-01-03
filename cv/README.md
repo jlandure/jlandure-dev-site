@@ -123,13 +123,16 @@ navires.
 
 # Formation
 
-- Formation « Train The Trainer » par Zenika (1j) <small>effectué en 2013</small>
-- Formation professionnelle « Animer une équipe » par Cegios Formation (4j) <small>effectué en 2011</small>
-- Master 2 ALMA à l’université de Nantes <small>obtenu en 2006</small>
+- Bootcamp « Management 3.0 » par Rupture21 / Zenika <small>effectué en Mars 2017</small> - 🇫🇷 Nantes, France (2j) 
+- Formation « Docker » par Docker / Zenika <small>effectué en Novembre 2015</small> - 🇫🇷 Nantes, France (2d)
+- Formation « Cloud Foundry for Developers » par Skillsmatter / Zenika <small>effectué en Janvier 2015</small> - 🇬🇧 London, England (3j) 
+- Formation « Train The Trainer » par Zenika (1j) <small>effectué en 2013</small>  - 🇫🇷 Rennes, France (2j) 
+- Formation « Animer une équipe » par Cegios Formation (4j) <small>effectué en 2011</small>  - 🇫🇷 Nantes, France (2j) 
+- Master 2 ALMA à l’université de Nantes <small>obtenu en 2006</small>  - 🇫🇷 Nantes, France (3y) 
 
 > Master’s Degree in Engineering in computer science specialized in « Software Architecture » in the university of Nantes.<br>UML Design and MDA learning with M. Bézivin : use of UML2, model transformations, DSL approach.<br>Component oriented design learning with M. Oussalah : introduction to the EJB, N-tier architecture.
-- DUT à l’IUT de Nantes <small>obtenu en 2003</small>
-- Bac S <small>obtenu en 2001</small>
+- DUT à l’IUT de Nantes <small>obtenu en 2003</small>  - 🇫🇷 Nantes, France (2y)
+- Bac S <small>obtenu en 2001</small>  - 🇫🇷 Orvault, France
 
 # Langues
 

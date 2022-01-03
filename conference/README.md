@@ -103,7 +103,7 @@ Nous vous proposons un tour d'horizon de ces nouveaux géants afin de mieux comp
 <img src="https://sfo2.digitaloceanspaces.com/advocu/gde/activity-photos/2021/11/27/f76f3394-7409-4322-acc4-d2363fb5b0ea.jpg">
 </span>
 </details>
-- _2021 Oct_ [DevFest Nantes 2021](https://devfest2021.gdgnantes.com/) - 🇫🇷 Nantes, France (2j)
+- _2021 Oct_ [DevFest Nantes 2021](https://devfest2021.gdgnantes.com/) - 🇫🇷 Nantes, France (2d)
 <span class="detail-tag">Speaker</span>
 <span class="detail-tag">Organizer</span>
 <br><details><summary>Introduction with [Annabelle Koster](https://twitter.com/AnnabelleKoster)
@@ -152,7 +152,7 @@ Twitter: https://twitter.com/jlandure/status/1446027097605033986
 <span class="detail-tag">Enterprise</span>
 <span class="detail-tag">Speaker</span>
 <br>_Attendees: 40_
-- _2021 Sep_ [Serverless Days Paris 2021](https://paris.serverlessdays.io/fr/#talks) - 🇫🇷 Paris, France (1j)
+- _2021 Sep_ [Serverless Days Paris 2021](https://paris.serverlessdays.io/fr/#talks) - 🇫🇷 Paris, France (1d)
 <span class="detail-tag">Speaker</span>
 <br><details><summary>Cloud Run... everything you need without K8S / [Slides](https://speakerdeck.com/jlandure/cloud-run-dot-dot-dot-everything-you-need-without-k8s) / [Video](https://www.youtube.com/watch?v=Sj22ioXHchE&list=PLdVDu8iO6zrMurVwGrFR23uw5OtGh4vFx&index=2)
 </summary>
@@ -626,7 +626,7 @@ https://twitter.com/benjifontaine5/status/1189110405420986368
 <span class="detail-tag">Enterprise</span>
 <span class="detail-tag">Speaker</span>
 <br>_Attendees: 45_
-- _2019 Sept_ Firebase Summit 2019 - 🇪🇸 Madrid, Spain (2j) 
+- _2019 Sept_ Firebase Summit 2019 - 🇪🇸 Madrid, Spain (2d) 
 <span class="detail-tag">Attendee</span>
 <br>[Blog "Retour sur le Firebase Summit 2019"](https://blog.zenika.com/2019/10/04/retour-sur-le-firebase-summit-2019/)
 - _2019 Sep_ [Jug Summer Camp](https://www.jugsummercamp.org/edition/10/presentations/GhHS1WVBLFnbRz4lkTkR) - 🇫🇷 La Rochelle, France
@@ -642,7 +642,7 @@ L'idée est de présenter quelques concepts du Self-Marketing et d'imaginer ense
 <img src="https://sfo2.digitaloceanspaces.com/advocu/gde/activity-photos/2019/09/13/305fd8db5ab93e50b0e5.jpeg">
 </span>
 </details>
-- _2019 Jun_ [Sunny Tech](https://2019.sunny-tech.io/) - 🇫🇷 Montpellier, France (2j)
+- _2019 Jun_ [Sunny Tech](https://2019.sunny-tech.io/) - 🇫🇷 Montpellier, France (2d)
 <span class="detail-tag">Speaker</span>
 <br><details><summary>Playing with Skaffold & Container Structure Test & Cloud Run & Cloud Code / [Slides](https://speakerdeck.com/jlandure/jouons-avec-skaffold-and-container-structure-test-dot-dot-dot-and-cloud-code-and-cloud-run)
 </summary>
@@ -659,7 +659,7 @@ https://twitter.com/jlandure/status/1144241382439161856
 <img src="https://sfo2.digitaloceanspaces.com/advocu/gde/activity-photos/2019/07/01/d8a8610868e9240d2807.jpg">
 </span>
 </details>
-- _2019 Apr_ Google I/O 2019 - 🇺🇸 San Francisco, CA, USA (3j) 
+- _2019 Apr_ Google I/O 2019 - 🇺🇸 San Francisco, CA, USA (3d) 
 <span class="detail-tag">Attendee</span>
 <br>[Blog "Retour sur le Google I/O 2019"](https://blog.zenika.com/2019/05/20/retour-sur-le-google-i-o-2019/)
 - _2019 Apr_ [GDG Cloud Nantes](https://www.meetup.com/fr-FR/GDG-Cloud-Nantes/events/259817562/) - 🇫🇷 Nantes, France
@@ -684,7 +684,7 @@ https://twitter.com/gdgnantes/status/1121436995581034496
 <img src="https://sfo2.digitaloceanspaces.com/advocu/gde/activity-photos/2019/05/28/65eb2409011e1f1de43e.jpg">
 </span>
 </details>
-- _2019 Apr_ Cloud Next 2019 - 🇺🇸 San Francisco, CA, USA (3j) 
+- _2019 Apr_ Cloud Next 2019 - 🇺🇸 San Francisco, CA, USA (3d) 
 <span class="detail-tag">Attendee</span>
 <br>[Blog "Retour sur Google Cloud Next 2019"](https://blog.zenika.com/2019/04/15/retour-sur-google-cloud-next-2019-zenika/)
 - _2019 Mar_ New Big Players with [Antoine Bonneau](https://twitter.com/CallMeGoodWater) - 🇫🇷 Nantes, France 
@@ -721,7 +721,7 @@ https://twitter.com/nantesjug/status/1100832919961116672
 <img src="https://sfo2.digitaloceanspaces.com/advocu/gde/activity-photos/2019/03/08/450b2a637eee965815ee.jpg">
 </span>
 </details>
-- _2019 Feb_ [DevFest du bout du monde](https://devfest.duboutdumonde.bzh/speakers/julien_landure/) - 🇫🇷 Brest, France (1j)
+- _2019 Feb_ [DevFest du bout du monde](https://devfest.duboutdumonde.bzh/speakers/julien_landure/) - 🇫🇷 Brest, France (1d)
 <span class="detail-tag">Speaker</span>
 <br><details><summary>La CNCF et son écosystème / [Slides](https://speakerdeck.com/jlandure/la-cncf-et-son-ecosysteme-81eadbce-9f2b-4511-99db-5cdadc4dafc2) / [Video](https://www.youtube.com/watch?v=mkC_kFN14oQ&list=PLdVDu8iO6zrMurVwGrFR23uw5OtGh4vFx&index=12)
 </summary>
@@ -790,7 +790,7 @@ Speechless Live like the one at Google I/O Tweets : https://twitter.com/gdgnante
 <img src="https://sfo2.digitaloceanspaces.com/advocu/gde/activity-photos/2018/12/12/f905630572cdcedafbc4.jpg">
 </span>
 </details>
-- _2018 Nov_ [Devoxx Marocco](https://cfp.devoxx.ma/schedule/day/tuesday) - 🇲🇦 Marrakesh, Morocco (3j)
+- _2018 Nov_ [Devoxx Marocco](https://cfp.devoxx.ma/schedule/day/tuesday) - 🇲🇦 Marrakesh, Morocco (3d)
 <span class="detail-tag">Speaker</span>
 <br><details><summary>La CNCF et son écosystème
 </summary>
@@ -802,7 +802,7 @@ https://twitter.com/ZenikaNantes/status/1067357469880537088
 <img src="https://sfo2.digitaloceanspaces.com/advocu/gde/activity-photos/2018/12/12/66c0608d2f7c02b2dc80.jpg">
 </span>
 </details>
-- _2018 Nov_ [Devoxx Marocco](https://cfp.devoxx.ma/schedule/day/wednesday) - 🇲🇦 Marrakesh, Morocco (3j)
+- _2018 Nov_ [Devoxx Marocco](https://cfp.devoxx.ma/schedule/day/wednesday) - 🇲🇦 Marrakesh, Morocco (3d)
 <span class="detail-tag">Speaker</span>
 <br><details><summary>Things you can learn from Big Players with [Antoine Bonneau](https://twitter.com/CallMeGoodWater) / [Slides](https://speakerdeck.com/jlandure/things-you-can-learn-from-big-players)
 </summary>
@@ -813,7 +813,7 @@ Talk about IT and disruption (GAFAM) and fun facts https://twitter.com/laurentgr
 <img src="https://sfo2.digitaloceanspaces.com/advocu/gde/activity-photos/2018/12/12/76264d5ea68a4926abb2.jpg">
 </span>
 </details>
-- _2018 Nov_ [Devops D-Day]() - 🇫🇷 Marseille, France (1j)
+- _2018 Nov_ [Devops D-Day]() - 🇫🇷 Marseille, France (1d)
 <span class="detail-tag">Speaker</span>
 <br><details><summary>Playing with Skaffold & Container Structure Test / [Slides](https://speakerdeck.com/jlandure/playing-with-skaffold-and-container-structure-test) / [Video](https://www.youtube.com/watch?v=eeUOL0838Hg&list=PLdVDu8iO6zrMurVwGrFR23uw5OtGh4vFx&index=13)
 </summary>
@@ -824,7 +824,7 @@ Vous développez des images Docker ? Vous les déployez sur K8S ? L’un permet 
 <img src="https://sfo2.digitaloceanspaces.com/advocu/gde/activity-photos/2018/11/30/b7da126bcd6678000ad1.jpg">
 </span>
 </details>
-- _2018 Nov_ [GDE Summit - Google Developers Expert](https://events.withgoogle.com/experts-summit-2018/summit-agenda-18/#content) - 🇺🇸 Sunnyvale, CA, USA (2j)
+- _2018 Nov_ [GDE Summit - Google Developers Expert](https://events.withgoogle.com/experts-summit-2018/summit-agenda-18/#content) - 🇺🇸 Sunnyvale, CA, USA (2d)
 <span class="detail-tag">Speaker</span>
 <br><details><summary>Playing with Skaffold & Container Structure Test / [Slides](https://speakerdeck.com/jlandure/playing-with-skaffold-and-container-structure-test)
 </summary>
@@ -846,7 +846,7 @@ On parle beaucoup de Kubernetes mais tout ce projet est supporté par la fameuse
 <img src="https://sfo2.digitaloceanspaces.com/advocu/gde/activity-photos/2018/10/25/a99427584b88f186d53c.jpg">
 </span>
 </details>
-- _2018 Oct_ Cloud Next London - 🇬🇧 London, UK (2j)
+- _2018 Oct_ Cloud Next London - 🇬🇧 London, UK (2d)
 <span class="detail-tag">Attendee</span>
 <span class="detail-tag">Speaker</span>
 <br><details><summary>What's the Google Developer Expert program? / [Slides](https://speakerdeck.com/jlandure/what-is-the-google-developer-expert-program)
@@ -858,7 +858,7 @@ During Next London, I made a lightning talk on the community booth. It was an in
 <img src="https://sfo2.digitaloceanspaces.com/advocu/gde/activity-photos/2018/10/13/333e5f8c7333bb6ee49d.jpg">
 </span>
 </details>
-- _2018 Sep_ [Jug Summer Camp](https://www.jugsummercamp.org/edition/9) - 🇫🇷 La Rochelle, France (1j)
+- _2018 Sep_ [Jug Summer Camp](https://www.jugsummercamp.org/edition/9) - 🇫🇷 La Rochelle, France (1d)
 <span class="detail-tag">Speaker</span>
 <br><details><summary>La CNCF et son écosystème / [Slides](https://speakerdeck.com/jlandure/la-cncf-et-son-ecosysteme) / [Video](https://www.youtube.com/watch?v=nJsEJ3JouPE&list=PLdVDu8iO6zrMurVwGrFR23uw5OtGh4vFx&index=15)
 </summary>
@@ -869,7 +869,7 @@ On parle beaucoup de Kubernetes mais tout ce projet est supporté par la fameuse
 <img src="https://sfo2.digitaloceanspaces.com/advocu/gde/activity-photos/2018/09/16/f7dec61cd4d302f7c3d6.jpg">
 </span>
 </details>
-- _2018 Sep_ [Jug Summer Camp](https://www.jugsummercamp.org/edition/9) - 🇫🇷 La Rochelle, France (1j)
+- _2018 Sep_ [Jug Summer Camp](https://www.jugsummercamp.org/edition/9) - 🇫🇷 La Rochelle, France (1d)
 <span class="detail-tag">Speaker</span>
 <br><details><summary>Playing with Skaffold & Container Structure Test / [Slides](https://speakerdeck.com/jlandure/jouons-avec-skaffold-and-container-structure-test) / [Video](https://www.youtube.com/watch?v=CMVTEqLpOxY&list=PLdVDu8iO6zrMurVwGrFR23uw5OtGh4vFx&index=14)
 </summary>
@@ -884,7 +884,7 @@ Vous développez des images Docker ? Vous les déployez sur K8S ? Venez découvr
 <span class="detail-tag">Enterprise</span>
 <span class="detail-tag">Speaker</span>
 <br>_Attendees: 25_
-- _2018 Jul_ Cloud Next San Francisco - 🇺🇸 San Francisco, CA, USA (3j)
+- _2018 Jul_ Cloud Next San Francisco - 🇺🇸 San Francisco, CA, USA (3d)
 <span class="detail-tag">Attendee</span>
 <span class="detail-tag">Speaker</span>
 <br><details><summary>The perfect CFP for your community / [Slides](https://speakerdeck.com/jlandure/the-perfect-cfp-for-your-community)
@@ -896,7 +896,7 @@ It was about the evolution of DevFest Nantes and why we created a new CFP to get
 <img src="https://sfo2.digitaloceanspaces.com/advocu/gde/activity-photos/2018/10/13/802fa2cdaa9fd0b788ac.jpg">
 </span>
 </details>
-- _2018 Apr_ U LEARN by IMIE - 🇫🇷 Nantes, France (1j)
+- _2018 Apr_ U LEARN by IMIE - 🇫🇷 Nantes, France (1d)
 <span class="detail-tag">Speaker</span>
 <br><details><summary>Premiers pas dans la Silicon Valley with [Benjamin Petetot](https://twitter.com/bpetetot) [Éric Briand](https://twitter.com/eric_briand) / [Slides](https://speakerdeck.com/jlandure/premiers-pas-dans-la-silicon-valley)
 </summary>
@@ -914,57 +914,113 @@ Nous profiterons également de cette conférence pour faire un retour sur le Goo
 
 ## 2015
 
-- _2015 May_ Google I/O 2015 - 🇺🇸 San Francisco, CA, USA (2j) 
+- _2015 Oct_ GDG Summit FR - 🇫🇷 Paris, France (2d)
+<span class="detail-tag">Attendee</span>
+- _2015 Oct_ Microsoft Rebuild - 🇫🇷 Nantes, France (1d)
+<span class="detail-tag">Attendee</span>
+- _2015 Apr_ GDG Nantes - Soirée Google X et ATAP - 🇫🇷 Nantes, France
+<span class="detail-tag">Meetup Speaker</span>
+<span class="detail-tag">Meetup Organizer</span>
+<br><details><summary>Projets Google [X] avec [Jean-François Garreau](https://twitter.com/jefbinomed) / [Slides](https://speakerdeck.com/jlandure/gdg-at-devoxx-paris-2015)
+</summary>
+<span><em>
+Attendees: 25<br>
+Présentation des projets R&D Google [X]
+</em>
+</span>
+</details>
+- _2015 May_ Google I/O 2015 - 🇺🇸 San Francisco, CA, USA (2d) 
 <span class="detail-tag">Attendee</span>
 <br>[Blog "Retour sur le Google I/O 2015"](https://blog.zenika.com/2015/06/10/retour-sur-le-google-io-2015/)
+- _2015 Apr_ Web2Day 2015 - 🇫🇷 Nantes, France (3d) 
+<span class="detail-tag">Speaker</span>
+<br><details><summary>Tour d’horizon des outils pour être un développeur web productif avec [Jean-François Garreau](https://twitter.com/jefbinomed) / [Slides](https://speakerdeck.com/jlandure/tour-dhorizon-des-outils-pour-etre-un-developpeur-web-productif)
+</summary>
+<span><em>
+Attendees: 55<br>
+https://twitter.com/web2day/status/606006947150725120
+https://twitter.com/web2day/status/605996680006275072
+On sait tous aujourd’hui quelles sont les préconisations pour faire des beaux sites (applications web) responsives, maintenables, disponibles dans les plus brefs délais. Mais savez vous comment nos navigateurs peuvent nous aider à optimiser ces applications ? Ce tools in Action sera fait sous forme de live coding et nous vous montrerons comment Chrome ou Firefox peuvent vous aider à optimiser / tester vos sites / applications.
+</em>
+<img src="https://pbs.twimg.com/media/CGj4FQEWgAANuYf?format=jpg&name=medium">
+</span>
+</details>
+- _2015 Apr_ Devoxx France 2015 - 🇫🇷 Paris, France (3d)
+<span class="detail-tag">Speaker</span>
+<br><details><summary>Tour d’horizon des outils pour être un développeur web productif avec [Jean-François Garreau](https://twitter.com/jefbinomed) / [Video](https://www.youtube.com/watch?v=iOZFFCOVgrA&list=PLdVDu8iO6zrMurVwGrFR23uw5OtGh4vFx&index=24)
+</summary>
+<span><em>
+Attendees: 40<br>
+On sait tous aujourd’hui quelles sont les préconisations pour faire des beaux sites (applications web) responsives, maintenables, disponibles dans les plus brefs délais. Mais savez vous comment nos navigateurs peuvent nous aider à optimiser ces applications ? Ce tools in Action sera fait sous forme de live coding et nous vous montrerons comment Chrome ou Firefox peuvent vous aider à optimiser / tester vos sites / applications.
+</em>
+<img src="https://i.ytimg.com/vi/iOZFFCOVgrA/hqdefault.jpg">
+</span>
+</details>
+- _2015 Apr_ Devoxx France 2015 - 🇫🇷 Paris, France (3d)
+<span class="detail-tag">Speaker</span>
+<br><details><summary>Projets Google [X] avec [Jean-François Garreau](https://twitter.com/jefbinomed) / [Slides](https://speakerdeck.com/jlandure/gdg-at-devoxx-paris-2015)
+</summary>
+<span><em>
+Attendees: 10<br>
+Session communautaire pour les GDG de France à Devoxx
+</em>
+</span>
+</details>
+- _2015 Feb_ Eclipse DemoCamps Winter 2015 - 🇫🇷 Nantes, France
+<span class="detail-tag">Attendee</span>
 
 ## 2014
 
-- _2014 Jun_ Google I/O 2014 - 🇺🇸 San Francisco, CA, USA (2j) 
+- _2014 Nov_ DevFest Nantes 2014 - 🇫🇷 Nantes, France (1d)
+<span class="detail-tag">DevFest Organizer</span>
+- _2014 Sep_ GDG Nantes - Dart Flight School - 🇫🇷 Nantes, France
+<span class="detail-tag">Meetup Organizer</span>
+<span class="detail-tag">Meetup Speaker</span>
+- _2014 Jun_ Google I/O 2014 - 🇺🇸 San Francisco, CA, USA (2d) 
 <span class="detail-tag">Attendee</span>
 <br>[Blog "Retour sur le Google I/O 2014"](https://blog.zenika.com/2014/07/08/retour-sur-le-google-io-2014/)
 
 ## 2013
 
-- _2013 Nov_ [DevFest Nantes 2013](https://devfest2013.gdgnantes.com/) - 🇫🇷 Nantes, France (1j)
+- _2013 Nov_ [DevFest Nantes 2013](https://devfest2013.gdgnantes.com/) - 🇫🇷 Nantes, France (1d)
 <span class="detail-tag">DevFest Organizer</span>
 <span class="detail-tag">Speaker</span>
 <br>[Go & AppEngine](./conference/2013-11-08%20Devfest.md) / [Slides](https://speakerdeck.com/jlandure/go-and-appengine) / [Video](https://www.youtube.com/watch?v=DXMYZLMHfqI&list=PLuZ_sYdawLiWFwTzvodAr6VU0zBs7Hz2z&index=11)
-- _2013 Oct_ [SEO Camp Day Nantes 2013](https://www.miss-seo-girl.com/le-seo-camp-day-de-nantes-26-octobre-2013/) - 🇫🇷 Nantes, France (1j)
+- _2013 Oct_ [SEO Camp Day Nantes 2013](https://www.miss-seo-girl.com/le-seo-camp-day-de-nantes-26-octobre-2013/) - 🇫🇷 Nantes, France (1d)
 <span class="detail-tag">Speaker</span>
 <br>[Optimiser son site web avec PageSpeed](./conference/2013-10-26%20SEOCamp.md) / [Slides](https://speakerdeck.com/jlandure/optimiser-son-site-web-avec-pagespeed)
-- _2013 Jun_ [BreizhCamp 2013](http://2013.breizhcamp.org/) - 🇫🇷 Rennes, France (1j)
+- _2013 Jun_ [BreizhCamp 2013](http://2013.breizhcamp.org/) - 🇫🇷 Rennes, France (1d)
 <span class="detail-tag">Speaker</span>
 <br>[Tour de la plateforme Cloud de Google](./conference/2013-06-13%20Breizhcamp.md) / [Slides](https://speakerdeck.com/jlandure/tour-de-la-plateforme-cloud-de-google) / [Video](https://www.infoq.com/fr/presentations/plateforme-cloud-google/)
 - _2013 Jun_ DevParty - 🇫🇷 Nantes, France
 <span class="detail-tag">Meetup Organizer</span>
-- _2013 May_ Google I/O 2013 - 🇺🇸 San Francisco, CA, USA (3j) 
+- _2013 May_ Google I/O 2013 - 🇺🇸 San Francisco, CA, USA (3d) 
 <span class="detail-tag">Attendee</span>
 <br>[Blog "Retour sur le Google I/O 2013"](https://blog.zenika.com/2013/05/27/after-io-resume-du-google-io/)
 
 
 ## 2012
 
-- _2012 Nov_ DevFest Nantes 2012 - 🇫🇷 Nantes, France (1j)
+- _2012 Nov_ DevFest Nantes 2012 - 🇫🇷 Nantes, France (1d)
 <span class="detail-tag">DevFest Organizer</span>
-- _2012 Oct_ GDG Barcamp - 🇫🇷 Paris, France (1j)
+- _2012 Oct_ GDG Barcamp - 🇫🇷 Paris, France (1d)
 <span class="detail-tag">Attendee</span>
 - _2012 Sep_ Retour Google I/O - 🇫🇷 Nantes, France
 <span class="detail-tag">Meetup Organizer</span>
-- _2012 Jun_ Google I/O 2012 - 🇺🇸 San Francisco, CA, USA (4j)
+- _2012 Jun_ Google I/O 2012 - 🇺🇸 San Francisco, CA, USA (4d)
 <span class="detail-tag">Attendee</span>
-- _2012 Jun_ Breizhcamp 2012 - 🇫🇷 Rennes, France (2j)
+- _2012 Jun_ Breizhcamp 2012 - 🇫🇷 Rennes, France (2d)
 <span class="detail-tag">Attendee</span>
-- _2012 Jun_ Web2Day 2012 - 🇫🇷 Nantes, France (2j)
+- _2012 Jun_ Web2Day 2012 - 🇫🇷 Nantes, France (2d)
 <span class="detail-tag">Attendee</span>
 
 ## 2011
 
-- _2011 Nov_ Google Developer Day 2011 - 🇩🇪 Berlin, Germany (1j)
+- _2011 Nov_ Google Developer Day 2011 - 🇩🇪 Berlin, Germany (1d)
 <span class="detail-tag">Attendee</span>
-- _2011 Jun_ BreizhCamp 2011 - 🇫🇷 Rennes, France (1j)
+- _2011 Jun_ BreizhCamp 2011 - 🇫🇷 Rennes, France (1d)
 <span class="detail-tag">Attendee</span>
-- _2011 May_ Google I/O 2011 - 🇺🇸 San Francisco, CA, USA (3j) 
+- _2011 May_ Google I/O 2011 - 🇺🇸 San Francisco, CA, USA (3d) 
 <span class="detail-tag">Attendee</span>
 
 ## 2007
