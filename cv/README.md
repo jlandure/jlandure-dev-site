@@ -123,6 +123,7 @@ navires.
 
 # Formation
 
+- Formation « Train The Trainer » par Zenika (1j) <small>effectué en 2013</small>
 - Formation professionnelle « Animer une équipe » par Cegios Formation (4j) <small>effectué en 2011</small>
 - Master 2 ALMA à l’université de Nantes <small>obtenu en 2006</small>
 

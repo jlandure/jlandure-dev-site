@@ -887,13 +887,28 @@ Vous développez des images Docker ? Vous les déployez sur K8S ? Venez découvr
 - _2018 Jul_ Cloud Next San Francisco - 🇺🇸 San Francisco, CA, USA (3j)
 <span class="detail-tag">Attendee</span>
 <span class="detail-tag">Speaker</span>
-<br><details><summary>The perfect CFP for your community
+<br><details><summary>The perfect CFP for your community / [Slides](https://speakerdeck.com/jlandure/the-perfect-cfp-for-your-community)
 </summary>
 <span><em>
 Attendees: 10<br>
 It was about the evolution of DevFest Nantes and why we created a new CFP to get proposals, review it, make decision and share the platform in a OpenSource way.
 </em>
 <img src="https://sfo2.digitaloceanspaces.com/advocu/gde/activity-photos/2018/10/13/802fa2cdaa9fd0b788ac.jpg">
+</span>
+</details>
+- _2018 Apr_ U LEARN by IMIE - 🇫🇷 Nantes, France (1j)
+<span class="detail-tag">Speaker</span>
+<br><details><summary>Premiers pas dans la Silicon Valley with [Benjamin Petetot](https://twitter.com/bpetetot) [Éric Briand](https://twitter.com/eric_briand) / [Slides](https://speakerdeck.com/jlandure/premiers-pas-dans-la-silicon-valley)
+</summary>
+<span><em>
+Attendees: 100<br>
+https://twitter.com/liassem_mc/status/982301375320256512
+GAFA, NATU... nous connaissons ces noms mais connaissons-nous vraiment leurs pratiques disruptives ?
+Cette conférence vous présentera différentes pratiques auxquelles ils ont recours et donnera quelques faits marquants concernants ces géants du Web au travers de différents témoignages.
+Le rêve de la Silicon Valley ? Zenika l’a fait en créant sa Learning Expedition : 8 personnes pendant une semaine parties découvrir le berceau de l’IT. De Google à Facebook, en passant par Docker et Github, nos consultants sont revenus avec des idées plein la tête, à mettre en place et pourquoi pas chez vous.
+Nous profiterons également de cette conférence pour faire un retour sur le Google I/O, la grande messe de Google, qui a lieu chaque année au mois de Mai. Venez découvrir les nouvelles technologies poussées par Google et les nouveaux usages que vous pouvez imaginer mettre en place dans votre société.
+</em>
+<img src="https://pbs.twimg.com/media/DaHV4_gXcAA2T4_?format=jpg&name=medium">
 </span>
 </details>
 
