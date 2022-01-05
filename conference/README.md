@@ -2,6 +2,8 @@
 
 ## 2021
 
+- _2021 Dec_ [Tech.Rocks Summit 2021](https://events.tech.rocks/summit-2021/)
+<span class="detail-tag">Attendee</span>
 - _2021 Dec_ [DevFest Cloud Abidjan](https://gdg.community.dev/events/details/google-gdg-cloud-abidjan-presents-devfest-cloud-abidjan-2021/)
 <span class="detail-tag">Remote</span>
 <span class="detail-tag">Speaker</span>
@@ -441,6 +443,8 @@ Que ce soit pour découvrir GCP ou bien préparer la certification, vous pourrez
 <span class="detail-tag">Enterprise</span>
 <span class="detail-tag">Speaker</span>
 <br>_Attendees: 210_
+_ _2020 Dec_ [Tech.Rocks Summit 2020](https://events.tech.rocks/summit-2020/)
+<span class="detail-tag">Attendee</span>
 - _2020 Dec_ [Zenika](https://twitter.com/ZenikaNantes/status/1334808425079959553)
 <span class="detail-tag">Remote</span>
 <span class="detail-tag">Speaker</span>
@@ -633,7 +637,7 @@ https://twitter.com/benjifontaine5/status/1189110405420986368
 <span class="detail-tag">Enterprise</span>
 <span class="detail-tag">Speaker</span>
 <br>_Attendees: 45_
-- _2019 Sept_ Firebase Summit 2019 - 🇪🇸 Madrid, Spain (2d) 
+- _2019 Sept_ [Firebase Summit 2019](http://firebase.googleblog.com/2019/09/Whats-new-at-Firebase-Summit-2019.html) - 🇪🇸 Madrid, Spain (2d) 
 <span class="detail-tag">Attendee</span>
 <br>[Blog "Retour sur le Firebase Summit 2019"](https://blog.zenika.com/2019/10/04/retour-sur-le-firebase-summit-2019/)
 - _2019 Sep_ [Jug Summer Camp 2019](https://www.jugsummercamp.org/edition/10/presentations/GhHS1WVBLFnbRz4lkTkR) - 🇫🇷 La Rochelle, France
@@ -668,7 +672,9 @@ https://twitter.com/jlandure/status/1144241382439161856
 </details>
 - _2019 Jun_ [Google Cloud Summit Paris 2019](https://twitter.com/i/events/1139184050231533569) - 🇫🇷 Paris, France (1d)
 <span class="detail-tag">Attendee</span>
-- _2019 Apr_ Google I/O 2019 - 🇺🇸 Mountain View, CA, USA (3d) 
+- _2019 Jun_ [Web2Day 2019](https://www.youtube.com/watch?v=RKqC4KoAj8o) - 🇫🇷 Nantes, France (3d)
+<span class="detail-tag">Attendee</span>
+- _2019 Apr_ [Google I/O 2019](https://events.google.com/io2019/recap/) - 🇺🇸 Mountain View, CA, USA (3d) 
 <span class="detail-tag">Attendee</span>
 <br>[Blog "Retour sur le Google I/O 2019"](https://blog.zenika.com/2019/05/20/retour-sur-le-google-i-o-2019/)
 - _2019 Apr_ [GDG Cloud Nantes](https://www.meetup.com/fr-FR/GDG-Cloud-Nantes/events/259817562/) - 🇫🇷 Nantes, France
@@ -933,6 +939,8 @@ Nous profiterons également de cette conférence pour faire un retour sur le Goo
 <img src="https://pbs.twimg.com/media/DaHV4_gXcAA2T4_?format=jpg&name=medium">
 </span>
 </details>
+- _2018 Mar_ [BreizhCamp 2018](http://2018.breizhcamp.org/) - 🇫🇷 Rennes, France
+<span class="detail-tag">Attendee</span>
 - _2018 Mar_ [Google Cloud Developer Community Conference](https://sites.google.com/view/gcdc-conf-2018/agenda) - 🇺🇸 Sunnyvale, CA, USA (2d)
 <span class="detail-tag">Meetup Speaker</span>
 - _2018 Jan_ [GDG Nantes & Docker Nantes](https://www.meetup.com/fr-FR/GDG-Nantes/events/246037066/) - Cloud Study Jam : Codelab Kubernetes - 🇫🇷 Nantes, France
@@ -941,6 +949,10 @@ Nous profiterons également de cette conférence pour faire un retour sur le Goo
 
 ## 2017
 
+- _2017 Dec_ Séminaire IA ADN Ouest - 🇫🇷 Nantes, France (1d)
+<span class="detail-tag">Attendee</span>
+- _2017 Nov_ [AWS Transformation Day](https://pages.awscloud.com/emea-fr-tday-nantes.html) - 🇫🇷 Nantes, France (1d)
+<span class="detail-tag">Attendee</span>
 - _2017 Nov_ [dotGo 2017](https://2017.dotgo.eu/) - 🇫🇷 Paris, France (1d)
 <span class="detail-tag">Attendee</span>
 - _2017 Oct_ [DevFest Nantes 2017](https://devfest2017.gdgnantes.com) - 🇫🇷 Nantes, France (2d)
@@ -954,6 +966,8 @@ Nous profiterons également de cette conférence pour faire un retour sur le Goo
 <span class="detail-tag">Enterprise</span>
 <span class="detail-tag">Speaker</span>
 <br>_Attendees: 10_
+- _2017 Sep_ Salon Data - 🇫🇷 Nantes, France 
+<span class="detail-tag">Attendee</span>
 - _2017 Jun_ [DevFest Lille 2017](https://devfest-2018.gdglille.org/archives/2017/index.html#/speakers) - 🇫🇷 Lille, France
 <span class="detail-tag">Speaker</span>
 <br><details><summary>Serverless, just a buzzword with [Éric Briand](https://twitter.com/eric_briand) / [Slides](https://speakerdeck.com/jlandure/serverless-just-a-buzzword)
@@ -1045,7 +1059,11 @@ Au travers de ce talk, nous expliquons les différents patterns pour réaliser u
 <img src="https://pbs.twimg.com/media/Cw0BqcTXAAAYJn2?format=jpg&name=4096x4096">
 </span>
 </details>
+- _2016 Oct_ Agile Tour Nantes - 🇫🇷 Nantes, France 
+<span class="detail-tag">Attendee</span>
 - _2016 Oct_ [dotGo](https://www.dotconferences.com/conference/dotgo-2016) - 🇫🇷 Paris, France (1d)
+<span class="detail-tag">Attendee</span>
+- _2016 Sep_ Nantes Digital Week & ADN Ouest - Séminaire sur l'agilité - 🇫🇷 Nantes, France
 <span class="detail-tag">Attendee</span>
 - _2016 Sep_ [Nantes Digital Week & GDG Nantes](https://www.meetup.com/fr-FR/GDG-Nantes/events/233202275/) - 🇫🇷 Nantes, France
 <span class="detail-tag">Meetup Speaker</span>
@@ -1109,7 +1127,7 @@ Venez découvrir HTTP2, le futur protocole du Web !
 <img src="https://pbs.twimg.com/media/Ck_HRrOWEAAtQEI?format=jpg&name=large">
 </span>
 </details>
-- _2016 Mar_ [Breizhcamp 2016](http://2016.breizhcamp.org/) - 🇫🇷 Rennes, France (2d)
+- _2016 Mar_ [BreizhCamp 2016](http://2016.breizhcamp.org/) - 🇫🇷 Rennes, France (2d)
 <span class="detail-tag">Speaker</span>
 <br><details><summary>HTTP2, ce qui va changer ! / [Slides](https://speakerdeck.com/jlandure/http2-ce-qui-va-changer)
 </summary>
@@ -1263,7 +1281,7 @@ Session communautaire pour les GDG de France à Devoxx
 <span class="detail-tag">Meetup Organizer</span>
 - _2012 Jun_ Google I/O 2012 - 🇺🇸 San Francisco, CA, USA (4d)
 <span class="detail-tag">Attendee</span>
-- _2012 Jun_ Breizhcamp 2012 - 🇫🇷 Rennes, France (2d)
+- _2012 Jun_ BreizhCamp 2012 - 🇫🇷 Rennes, France (2d)
 <span class="detail-tag">Attendee</span>
 - _2012 Jun_ Web2Day 2012 - 🇫🇷 Nantes, France (2d)
 <span class="detail-tag">Attendee</span>
