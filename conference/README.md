@@ -601,11 +601,18 @@ We've done two codelabs together on StackDriver with qwiklabs
 <img src="https://sfo2.digitaloceanspaces.com/advocu/gde/activity-photos/2019/12/17/d55b59f89b622bcffee0.jpg">
 </span>
 </details>
+- _2019 Nov_ [GDG Summit Europe - Google Developers Groups](https://www.crunchbase.com/event/google-developers-expert-summit-2019) - 🇵🇹 Lisbon, Portugal (2d)
+<span class="detail-tag">Attendee</span>
+- _2019 Oct_ [GDE Summit - Google Developers Expert](https://www.crunchbase.com/event/google-developers-expert-summit-2019) - 🇺🇸 Sunnyvale, CA, USA (2d)
+<span class="detail-tag">Attendee</span>
+- _2019 Oct_ [DevFest Nantes 2019](https://devfest2019.gdgnantes.com) - 🇫🇷 Nantes, France (2d)
+<span class="detail-tag">DevFest Organizer</span>
+<span class="detail-tag">Speaker</span>
 - _2019 Oct_ API Management - 🇫🇷 Nantes, France 
 <span class="detail-tag">Enterprise</span>
 <span class="detail-tag">Speaker</span>
 <br>_Attendees: 50_
-- _2019 Nov_ Agile Tour Nantes - 🇫🇷 Nantes, France 
+- _2019 Oct_ Agile Tour Nantes - 🇫🇷 Nantes, France 
 <span class="detail-tag">Speaker</span>
 <br><details><summary>New Big Players with [Antoine Bonneau](https://twitter.com/CallMeGoodWater) / [Slides](https://speakerdeck.com/jlandure/les-nouveaux-geants-du-web)
 </summary>
@@ -659,6 +666,8 @@ https://twitter.com/jlandure/status/1144241382439161856
 <img src="https://sfo2.digitaloceanspaces.com/advocu/gde/activity-photos/2019/07/01/d8a8610868e9240d2807.jpg">
 </span>
 </details>
+- _2019 Jun_ [Google Cloud Summit Paris 2019](https://twitter.com/i/events/1139184050231533569) - 🇫🇷 Paris, France (1d)
+<span class="detail-tag">Attendee</span>
 - _2019 Apr_ Google I/O 2019 - 🇺🇸 Mountain View, CA, USA (3d) 
 <span class="detail-tag">Attendee</span>
 <br>[Blog "Retour sur le Google I/O 2019"](https://blog.zenika.com/2019/05/20/retour-sur-le-google-i-o-2019/)
@@ -705,6 +714,8 @@ Le meilleur de tous les commerciaux du monde, c'est vous-même : comment initier
 <img src="https://sfo2.digitaloceanspaces.com/advocu/gde/activity-photos/2019/04/24/6cb60aad0e267213778f.jpg">
 </span>
 </details>
+- _2019 Mar_ GDG Summit FR - Google Developers Groups - 🇫🇷 Paris, France (2d)
+<span class="detail-tag">Attendee</span>
 - _2019 Feb_ [Nantes JUG](https://www.meetup.com/fr-FR/Nantes-Java-User-Group/events/258556304/) - 🇫🇷 Nantes, France
 <span class="detail-tag">Meetup Speaker</span>
 <br><details><summary>La CNCF et son écosystème
@@ -813,7 +824,7 @@ Talk about IT and disruption (GAFAM) and fun facts https://twitter.com/laurentgr
 <img src="https://sfo2.digitaloceanspaces.com/advocu/gde/activity-photos/2018/12/12/76264d5ea68a4926abb2.jpg">
 </span>
 </details>
-- _2018 Nov_ [Devops D-Day]() - 🇫🇷 Marseille, France (1d)
+- _2018 Nov_ [Devops D-Day](https://devopsdday2018.sched.com/) - 🇫🇷 Marseille, France (1d)
 <span class="detail-tag">Speaker</span>
 <br><details><summary>Playing with Skaffold & Container Structure Test / [Slides](https://speakerdeck.com/jlandure/playing-with-skaffold-and-container-structure-test) / [Video](https://www.youtube.com/watch?v=eeUOL0838Hg&list=PLdVDu8iO6zrMurVwGrFR23uw5OtGh4vFx&index=13)
 </summary>
@@ -835,6 +846,8 @@ The talk is about DX (Developer Experience) and the way to test and deploy on K8
 <img src="https://sfo2.digitaloceanspaces.com/advocu/gde/activity-photos/2018/11/12/fb0572f1177ccf0bbd6d.jpg">
 </span>
 </details>
+- _2018 Nov_ [Web Summit 2018](https://twitter.com/CantineNantes/status/1060470954554462208) - 🇵🇹 Lisbon, Portugal (3d)
+<span class="detail-tag">Attendee</span>
 - _2018 Oct_ [CNCF Nantes](https://www.meetup.com/fr-FR/Cloud-Native-Computing-Nantes/events/255263214/) - 🇫🇷 Nantes, France
 <span class="detail-tag">Meetup Speaker</span>
 <br><details><summary>La CNCF et son écosystème
@@ -846,6 +859,9 @@ On parle beaucoup de Kubernetes mais tout ce projet est supporté par la fameuse
 <img src="https://sfo2.digitaloceanspaces.com/advocu/gde/activity-photos/2018/10/25/a99427584b88f186d53c.jpg">
 </span>
 </details>
+- _2018 Oct_ [DevFest Nantes 2018](https://devfest2018.gdgnantes.com) - 🇫🇷 Nantes, France (2d)
+<span class="detail-tag">DevFest Organizer</span>
+<span class="detail-tag">Speaker</span>
 - _2018 Oct_ Cloud Next London - 🇬🇧 London, UK (2d)
 <span class="detail-tag">Attendee</span>
 <span class="detail-tag">Speaker</span>
@@ -896,6 +912,9 @@ It was about the evolution of DevFest Nantes and why we created a new CFP to get
 <img src="https://sfo2.digitaloceanspaces.com/advocu/gde/activity-photos/2018/10/13/802fa2cdaa9fd0b788ac.jpg">
 </span>
 </details>
+- _2018 Jun_ [Google Cloud Summit Paris 2018](https://twitter.com/i/events/1001481976501690368) - 🇫🇷 Paris, France (1d)
+<span class="detail-tag">Attendee</span>
+<br>[Blog "Adoption de la plateforme Cloud de Google"](https://blog.zenika.com/2018/06/14/adoption-de-la-plateforme-cloud-de-google/)
 - _2018 May_ Google I/O 2018 - 🇺🇸 Mountain View, CA, USA (3d) 
 <span class="detail-tag">Attendee</span>
 <br>[Blog "Retour sur le Google I/O 2018"](https://blog.zenika.com/2018/05/25/retour-sur-le-google-i-o-2018/)
@@ -914,6 +933,8 @@ Nous profiterons également de cette conférence pour faire un retour sur le Goo
 <img src="https://pbs.twimg.com/media/DaHV4_gXcAA2T4_?format=jpg&name=medium">
 </span>
 </details>
+- _2018 Mar_ [Google Cloud Developer Community Conference](https://sites.google.com/view/gcdc-conf-2018/agenda) - 🇺🇸 Sunnyvale, CA, USA (2d)
+<span class="detail-tag">Meetup Speaker</span>
 - _2018 Jan_ [GDG Nantes & Docker Nantes](https://www.meetup.com/fr-FR/GDG-Nantes/events/246037066/) - Cloud Study Jam : Codelab Kubernetes - 🇫🇷 Nantes, France
 <span class="detail-tag">Meetup Speaker</span>
 <br>_Attendees: 55_
@@ -1142,7 +1163,7 @@ Venez découvrir HTTP2, le futur protocole du Web !
 
 - _2015 Nov_ [DevFest Nantes 2015](https://devfest2015.gdgnantes.com) - 🇫🇷 Nantes, France (1d)
 <span class="detail-tag">DevFest Organizer</span>
-- _2015 Oct_ GDG Summit FR - 🇫🇷 Paris, France (2d)
+- _2015 Oct_ GDG Summit FR - Google Developers Groups - 🇫🇷 Paris, France (2d)
 <span class="detail-tag">Attendee</span>
 <span class="detail-tag">Speaker</span>
 <br>Les étapes clés pour valoriser votre sponsoring ! / [Slides](https://speakerdeck.com/jlandure/les-etapes-cles-pour-valoriser-votre-sponsoring
@@ -1220,6 +1241,8 @@ Session communautaire pour les GDG de France à Devoxx
 - _2013 Oct_ [SEO Camp Day Nantes 2013](https://www.miss-seo-girl.com/le-seo-camp-day-de-nantes-26-octobre-2013/) - 🇫🇷 Nantes, France (1d)
 <span class="detail-tag">Speaker</span>
 <br>[Optimiser son site web avec PageSpeed](./conference/2013-10-26%20SEOCamp.md) / [Slides](https://speakerdeck.com/jlandure/optimiser-son-site-web-avec-pagespeed)
+- _2013 Oct_ [Agile Tour Rennes] - 🇫🇷 Rennes, France (1d)
+<span class="detail-tag">Attendee</span>
 - _2013 Jun_ [BreizhCamp 2013](http://2013.breizhcamp.org/) - 🇫🇷 Rennes, France (1d)
 <span class="detail-tag">Speaker</span>
 <br>[Tour de la plateforme Cloud de Google](./conference/2013-06-13%20Breizhcamp.md) / [Slides](https://speakerdeck.com/jlandure/tour-de-la-plateforme-cloud-de-google) / [Video](https://www.infoq.com/fr/presentations/plateforme-cloud-google/)
@@ -1234,7 +1257,7 @@ Session communautaire pour les GDG de France à Devoxx
 
 - _2012 Nov_ [DevFest Nantes 2012](http://devfest2012.gdgnantes.com/) - 🇫🇷 Nantes, France (1d)
 <span class="detail-tag">DevFest Organizer</span>
-- _2012 Oct_ GDG Barcamp - 🇫🇷 Paris, France (1d)
+- _2012 Oct_ GDG Summit FR - Google Developers Groups - 🇫🇷 Paris, France (1d)
 <span class="detail-tag">Attendee</span>
 - _2012 Sep_ Retour Google I/O - 🇫🇷 Nantes, France
 <span class="detail-tag">Meetup Organizer</span>

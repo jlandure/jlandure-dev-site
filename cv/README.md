@@ -123,6 +123,9 @@ navires.
 
 # Formation
 
+- Bootcamp « GraphQL » par Zenika <small>effectué en Décembre 2021</small> - Remote (1j) 
+- Bootcamp « Éco-conception de services numériques » par Zenika <small>effectué en Février 2021</small> - Remote (1j) 
+- Bootcamp « Vue.js » par Zenika <small>effectué en Septembre 2018</small> - 🇫🇷 Nantes, France (1j) 
 - Bootcamp « Management 3.0 » par Rupture21 / Zenika <small>effectué en Mars 2017</small> - 🇫🇷 Nantes, France (2j) 
 - « GitHub Technical Enablement Training » par GitHub / Zenika <small>effectué en Janvier 2017</small> - 🇫🇷 Paris, France (1j) 
 - Formation « Docker » par Docker / Zenika <small>effectué en Novembre 2015</small> - 🇫🇷 Nantes, France (2d)
