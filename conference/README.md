@@ -116,7 +116,7 @@ Launch of the DevFest Nantes announcing 2 days of talks and codelabs!
 Video: https://twitter.com/kanoma_it/status/1451095249095385089
 Linkedin: https://www.linkedin.com/posts/annabelle-koster_quelles-retrouvailles-en-janvier-2020-activity-6859381994338492416-4SUr/
 </em>
-<img src="https://sfo2.digitaloceanspaces.com/advocu/gde/activity-photos/2021/11/27/172107f2-1684-41cc-a6e7-2e27bd57fc58.jpeg">
+<img src="https://lh3.googleusercontent.com/pw/AM-JKLU35EINTQQF4CA7yydblzs4uSNgkYQLucA1qKfBs4-qe-y3bZqtSaQfyHnLuDJbKkyxS8r1Dq21m32QYDl3d7AEBAvVrRNamr2E5y5p9AbqlXA93bkI25xtvxtMgrC1bfXsXY8kpvr_9P4db3rwRKw0=w2302-h1528-no">
 </span>
 </details>
 - _2021 Oct_ [Cloud Nord](https://www.cloudnord.fr/programme2021)
@@ -208,7 +208,7 @@ https://twitter.com/AllianceLibre/status/1440286270492532742
 <img src="https://sfo2.digitaloceanspaces.com/advocu/gde/activity-photos/2021/09/30/55b9cc20-8f9e-4259-b894-eb07bb2a6f3e.png">
 </span>
 </details>
-- _2021 Jul_ [Zenika](https://www.eventbrite.fr/e/billets-best-of-technozaure-par-et-pour-des-passionnes-de-tech-158403927411)
+- _2021 Jul_ [Zenika - Best Of TZ](https://www.eventbrite.fr/e/billets-best-of-technozaure-par-et-pour-des-passionnes-de-tech-158403927411)
 <span class="detail-tag">Remote</span>
 <span class="detail-tag">Speaker</span>
 <br><details><summary>Self-Marketing for Developers / [Slides](https://speakerdeck.com/jlandure/self-marketing-for-developers-df79f8ba-4631-4d37-b00c-3fb73f7cc332) / [Video](https://www.youtube.com/watch?v=Eumotc5_v44&list=PLdVDu8iO6zrMurVwGrFR23uw5OtGh4vFx&index=3)
@@ -906,6 +906,8 @@ Vous développez des images Docker ? Vous les déployez sur K8S ? Venez découvr
 <span class="detail-tag">Enterprise</span>
 <span class="detail-tag">Speaker</span>
 <br>_Attendees: 25_
+- _2018 Jul_ [Zenika - Matinale Silicon Valley](https://www.eventbrite.fr/e/billets-matinale-silicon-valley-47300096863) - 🇫🇷 Nantes, France
+<span class="detail-tag">Speaker</span>
 - _2018 Jul_ Cloud Next San Francisco - 🇺🇸 San Francisco, CA, USA (3d)
 <span class="detail-tag">Attendee</span>
 <span class="detail-tag">Speaker</span>
@@ -918,6 +920,8 @@ It was about the evolution of DevFest Nantes and why we created a new CFP to get
 <img src="https://sfo2.digitaloceanspaces.com/advocu/gde/activity-photos/2018/10/13/802fa2cdaa9fd0b788ac.jpg">
 </span>
 </details>
+- _2018 Jun_ [Zenika - Matinale Kubernetes](https://www.eventbrite.fr/e/billets-matinale-kubernetes-46614351781) - 🇫🇷 Nantes, France
+<span class="detail-tag">Speaker</span>
 - _2018 Jun_ [Google Cloud Summit Paris 2018](https://twitter.com/i/events/1001481976501690368) - 🇫🇷 Paris, France (1d)
 <span class="detail-tag">Attendee</span>
 <br>[Blog "Adoption de la plateforme Cloud de Google"](https://blog.zenika.com/2018/06/14/adoption-de-la-plateforme-cloud-de-google/)
@@ -968,6 +972,8 @@ Nous profiterons également de cette conférence pour faire un retour sur le Goo
 <br>_Attendees: 10_
 - _2017 Sep_ Salon Data - 🇫🇷 Nantes, France 
 <span class="detail-tag">Attendee</span>
+- _2017 Jul_ [Zenika - Matinale Silicon Valley](https://www.eventbrite.fr/e/billets-matinale-silicon-valley-35458044967) - 🇫🇷 Nantes, France
+<span class="detail-tag">Speaker</span>
 - _2017 Jun_ [DevFest Lille 2017](https://devfest-2018.gdglille.org/archives/2017/index.html#/speakers) - 🇫🇷 Lille, France
 <span class="detail-tag">Speaker</span>
 <br><details><summary>Serverless, just a buzzword with [Éric Briand](https://twitter.com/eric_briand) / [Slides](https://speakerdeck.com/jlandure/serverless-just-a-buzzword)
@@ -1261,6 +1267,9 @@ Session communautaire pour les GDG de France à Devoxx
 <br>[Optimiser son site web avec PageSpeed](./conference/2013-10-26%20SEOCamp.md) / [Slides](https://speakerdeck.com/jlandure/optimiser-son-site-web-avec-pagespeed)
 - _2013 Oct_ [Agile Tour Rennes] - 🇫🇷 Rennes, France (1d)
 <span class="detail-tag">Attendee</span>
+- _2013 Sep_ Zenika - Matinale AngularJS - 🇫🇷 Nantes, France
+<span class="detail-tag">Enterprise</span>
+<span class="detail-tag">Speaker</span>
 - _2013 Jun_ [BreizhCamp 2013](http://2013.breizhcamp.org/) - 🇫🇷 Rennes, France (1d)
 <span class="detail-tag">Speaker</span>
 <br>[Tour de la plateforme Cloud de Google](./conference/2013-06-13%20Breizhcamp.md) / [Slides](https://speakerdeck.com/jlandure/tour-de-la-plateforme-cloud-de-google) / [Video](https://www.infoq.com/fr/presentations/plateforme-cloud-google/)
