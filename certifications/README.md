@@ -1,3 +1,7 @@
+- *Google Cloud* - [Professional Data Engineer](https://www.credential.net/fefd57de-0179-4216-9ccf-76896705645e)
+ <small>Issued Jan 2022</small>
+ - *Google Cloud* - [Cloud Digital Leader](https://www.credential.net/7f1bcdb8-dc7c-4826-88b5-31dc895fe5c8)
+ <small>Issued Nov 2021</small>
 - *Google Cloud* - [Professional Cloud Developer](https://www.credential.net/6e302930-0ef8-43d7-a049-205d61171553)
  <small>Issued Jun 2021</small>
 - *Google Cloud* - [Authorized Trainer](https://www.credential.net/8ad52537-871a-4d31-a9f6-e023738131ac)

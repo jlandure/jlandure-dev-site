@@ -1,3 +1,5 @@
+- _2022 Jan_ Training GCP Developing Applications with Google Cloud - Remote (3d)
+<br>Attendees: 12
 - _2021 Dec_ Google Cloud Course at EPSI School - Remote (5d)
 <br>Attendees: 21
 - _2021 Nov_ Training GCP Architecting with Google Compute Engine - Remote (3d)
