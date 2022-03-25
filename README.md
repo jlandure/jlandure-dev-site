@@ -39,6 +39,7 @@
 - ☁️ [Google Cloud Innovator profile](https://cloud.google.com/innovators/innovator?profileId=100299809483477367723)
 - ☁️ [Google Developer profile](https://g.dev/jlandure)
 - ☁️ [GDG Community Dev profile](https://gdg.community.dev/u/mcek2k/)
+- ☁️ [Linux Foundation Profile](https://openprofile.dev/profile/jlandure)
 
 
 ### 🏅 Certifications
