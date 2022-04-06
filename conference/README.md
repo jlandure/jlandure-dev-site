@@ -1,5 +1,62 @@
 # Conference
 
+## 2022
+
+- _2022 Mar_ [Best Of TZ](https://www.eventbrite.fr/e/billets-best-of-technozaure-2-par-et-pour-des-passionnes-de-tech-269021369157)
+<span class="detail-tag">Remote</span>
+<span class="detail-tag">Speaker</span>
+<br><details><summary>Serverless with Google Cloud with [Éric Briand](https://twitter.com/eric_briand) / [Slides](https://speakerdeck.com/jlandure/serverless-with-google-cloud-at-best-of-tz)
+</summary>
+<span><em>
+Attendees: 30<br>
+L’univers de l’hébergement Cloud est très vaste et nécessite de s’approprier de nouveaux paradigmes afin d’exploiter au maximum ces infrastructures. 
+Le Serverless est une solution Cloud qui permet de rapidement mettre en production vos applications : le serveur et le runtime sont gérés directement par la solution permettant aux équipes de développement de se concentrer sur le code métier. 
+Que ce soit avec Google App Engine, la solution de PaaS (Platform as a Service) ou encore avec les Cloud Functions, la solution FaaS (Function As a Service) ou encore Cloud Run, GCP fournit un environnement et des outils pour être productif dans le Cloud. 
+Venez découvrir ces différentes solutions !
+</em>
+<img src="https://sfo2.digitaloceanspaces.com/advocu/gde/activity-photos/2022/03/27/555a207d-b598-4a5d-8e30-213d5177d02c.png">
+</span>
+</details>
+- _2022 Mar_ [Cloud Sud](https://www.linkedin.com/feed/update/urn:li:activity:6911949784463360002/)
+<span class="detail-tag">Remote</span>
+<span class="detail-tag">Speaker</span>
+<br><details><summary>Cloud Run... everything you need without K8S / [Slides](https://speakerdeck.com/jlandure/cloud-run-dot-dot-dot-everything-you-need-without-k8s-cloud-sud)
+</summary>
+<span><em>
+Attendees: 40<br>
+https://twitter.com/cloud_sud/status/1505822226955841537
+https://twitter.com/jlandure/status/1507004126088949773
+Docker est arrivé en 2016 en France permettant de packager nos applications facilement. Il a fallu maîtriser les concepts de Docker : commandes, isolation, optimisation des layers etc.
+Ensuite, la solution leader d'orchestration Kubernetes est arrivée permettant de scaler ces containers. Pour permettre à K8S de gérer correctement un nom de domaine en TLS, livrer de façon transparente en production, faire du test A/B, il faut là encore retrousser les manches.
+Basé sur le projet Open Source Knative, Cloud Run est LA solution parfaite pour déployer des conteneurs et permet de gérer tout ça : autoscaling, gestion du traffic et bien d'autres fonctionnalités !
+Faisons un tour des petits plus de cette solution : nous y trouvons la majorité des features d'un Kubernetes sans Kubernetes. Partons à la découverte de cette solution Serverless à base de démos.
+</em>
+<img src="https://sfo2.digitaloceanspaces.com/advocu/gde/activity-photos/2022/03/27/0aed17a4-70e6-4a4a-a7fe-7c322347346e.jpeg">
+</span>
+</details>
+- _2022 Mar_ [Zenika Women Empowerment](https://speakerdeck.com/jlandure/women-empowerment-personal-branding)
+<span class="detail-tag">Remote</span>
+<span class="detail-tag">Speaker</span>
+<br><details><summary>Women Empowerment: Personal Branding & Self-Marketing with [Lise Quesnel](https://twitter.com/QuesnelLise) / [Slides](https://speakerdeck.com/jlandure/women-empowerment-personal-branding)
+</summary>
+<span><em>
+Attendees: 16<br>
+</em>
+<img src="https://sfo2.digitaloceanspaces.com/advocu/gde/activity-photos/2022/03/14/4bfcc489-0937-4d8d-a4ea-cb8096f4de20.png">
+</span>
+</details>
+- _2022 Feb_ [Zenika x Google Cloud](https://webikeo.fr/webinar/et-si-google-cloud-etait-au-coeur-de-la-montee-en-competence-de-vos-equipes-2)
+<span class="detail-tag">Remote</span>
+<span class="detail-tag">Speaker</span>
+<br><details><summary>Et si Google Cloud était au cœur de la montée en compétence de vos équipes ? with [Antoine Oili](https://www.linkedin.com/in/antoine-oili/) & [Stéphanie Fresson](https://www.linkedin.com/in/stephaniefresson/)
+</summary>
+<span><em>
+Attendees: 56<br>
+</em>
+<img src="https://sfo2.digitaloceanspaces.com/advocu/gde/activity-photos/2022/02/28/eb941137-4ad3-4081-9acd-a6932d9cc789.png">
+</span>
+</details>
+
 ## 2021
 
 - _2021 Dec_ [Tech.Rocks Summit 2021](https://events.tech.rocks/summit-2021/)
