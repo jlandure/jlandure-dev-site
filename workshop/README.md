@@ -1,3 +1,9 @@
+- _2022 Apr_ Training GCP Cloud Fundamentals: Core Infrastructure - Remote (1d)
+<br>Attendees: 16
+- _2022 Mar_ Training GCP Cloud Fundamentals: Core Infrastructure - Remote (1d)
+<br>Attendees: 19
+- _2022 Jan_ Cloud Workshop at EPSI School - Remote (2d)
+<br>Attendees: 21
 - _2022 Jan_ Training GCP Developing Applications with Google Cloud - Remote (3d)
 <br>Attendees: 12
 - _2021 Dec_ Google Cloud Course at EPSI School - Remote (5d)
@@ -52,7 +58,7 @@
 <br>Attendees: 3
 - _2016 Jul_ Go - 🇫🇷 Nantes, France (1d)
 <br>Attendees: 1
-- _2016 Jun_ Cloud Foundry for Developers - 🇫🇷 Paris, France (1d)
+- _2016 Jun_ Cloud Foundry for Developers - 🇫🇷 Paris, France (3d)
 <br>Attendees: 2
 - _2016 Apr_ AngularJS - 🇫🇷 La Roche / Yon, France (3d)
 <br>Attendees: 7
@@ -64,7 +70,7 @@
 <br>Attendees: 4
 - _2015 Nov_ AppEngine Course at IMT Atlantique School, formerly Ecole des Mines de Nantes - 🇫🇷 Nantes, France (2d)
 <br>Attendees: 29
-- _2015 Jul_ Cloud Foundry for Developers - 🇫🇷 Paris, France (1d)
+- _2015 Jul_ Cloud Foundry for Developers - 🇫🇷 Paris, France (3d)
 <br>Attendees: 2
 - _2015 Jun_ Google Web Toolkit - 🇫🇷 Nantes, France (3d)
 <br>Attendees: 1
