@@ -1,5 +1,7 @@
 Stories with/about me
 
+- 2022-04-05 [Interview WeLoveDevs](/external/2022-04-05-welovedevs.md)  -- [Direct Link](https://welovedevs.com/fr/articles/31-julien-landure-zenika/)
+<span class="detail-tag">Podcast</span>
 - 2021-06-11 [TV France 3](/external/2021-06-11-france3.md)
 <span class="detail-tag">Television</span>
 - 2019-12-19 [Andrey Interview](/external/2019-12-19-andrey.md) -- [Direct Link](https://www.youtube.com/watch?v=pxq9e697BpI&list=PLdVDu8iO6zrMurVwGrFR23uw5OtGh4vFx&index=9)
