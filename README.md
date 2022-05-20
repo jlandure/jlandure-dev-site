@@ -56,7 +56,11 @@ Very lucky to organize, sponsor, attend and speak at many conferences.
 
 [See listing here](conference/)
 
-## 🎓 Workshops
+## 🎓 Workshops & Training
+
+- Google Cloud Official Trainer 
+- Docker Official Trainer 
+- Pivotal Cloud Foundry Official Trainer 
 
 [See listing here](workshop/)
 
