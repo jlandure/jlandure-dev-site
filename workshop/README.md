@@ -1,3 +1,9 @@
+- _2022 May_ Training From Data to Insights with Google Cloud Platform - Remote (3d)
+<br>Attendees: 14
+- _2022 May_ Go To Cloud Workshop - Remote (1d)
+<br>Attendees: 6
+- _2022 May_ Training GCP BigData & Machine Learning Fundamentals - Remote (1d)
+<br>Attendees: 13
 - _2022 Apr_ Training GCP Cloud Fundamentals: Core Infrastructure - Remote (1d)
 <br>Attendees: 16
 - _2022 Mar_ Training GCP Cloud Fundamentals: Core Infrastructure - Remote (1d)
