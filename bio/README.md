@@ -3,7 +3,7 @@
 > Google Developer Expert Cloud _since Apr 2018_<br>
 > Member of the Technical Advisory Board at Skills Matter _since Jan 2011_<br>
 > Google Cloud Official Trainer _since Feb 2021_<br>
-> Google Cloud 2x certified<br>
+> Google Cloud 3x certified<br>
 > 15+ years of experience<br>
 > Gallup Strengths : Strategic, Relator, Futuristic, Individualization, Communication<br>
 > https://jlandure.dev

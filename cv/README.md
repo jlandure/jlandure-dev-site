@@ -1,6 +1,8 @@
-# Mon CV
+# Mon CV / My Resume in 🇫🇷
 
 [filename](../bio/README.md ':include')
+
+## [Speaker](../conference/) & [Trainer](../workshop/) & [Open Source contributor](../opensource/)
 
 ## CTO • Zenika Nantes <small>(depuis Octobre 2012)</small>
 - Veille technologique, définition du radar technologique Zenika

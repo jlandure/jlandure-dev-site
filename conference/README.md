@@ -2,6 +2,20 @@
 
 ## 2022
 
+- _2022 Jun_ Accelerate Workshop with [William Bartlett](https://twitter.com/bartlettstarman)
+<span class="detail-tag">Enterprise</span>
+<span class="detail-tag">Speaker</span>
+<br><details><summary>Atelier Accelerate
+</summary>
+<span><em>
+Attendees: 9<br>
+Based on the book "accelerate": https://www.amazon.fr/Accelerate-Building-Performing-Technology-Organizations/dp/1942788339
+https://twitter.com/ZenikaNantes/status/1536675882978398209
+https://www.linkedin.com/feed/update/urn:li:activity:6942441568922423296/
+</em>
+<img src="https://sfo2.digitaloceanspaces.com/advocu/gde/activity-photos/2022/06/16/7d3d6f71-dcb3-447e-b5ee-7e132fe5dc0e.jpeg">
+</span>
+</details>
 - _2022 Mar_ [Best Of TZ](https://www.eventbrite.fr/e/billets-best-of-technozaure-2-par-et-pour-des-passionnes-de-tech-269021369157)
 <span class="detail-tag">Remote</span>
 <span class="detail-tag">Speaker</span>
@@ -78,10 +92,20 @@ Faisons un tour des petits plus de cette solution : nous y trouvons la majorité
 </span>
 </details>
 - _2021 Dec_ Accelerate Workshop with [William Bartlett](https://twitter.com/bartlettstarman)
-<span class="detail-tag">Remote</span>
 <span class="detail-tag">Enterprise</span>
 <span class="detail-tag">Speaker</span>
-<br>_Attendees: 45_
+<br><details><summary>Atelier Accelerate
+</summary>
+<span><em>
+Attendees: 45<br>
+For a IT team of 45 people (10 managers)
+Based on the book "accelerate": https://www.amazon.fr/Accelerate-Building-Performing-Technology-Organizations/dp/1942788339
+https://twitter.com/ZenikaNantes/status/1467890250081050626
+https://www.linkedin.com/feed/update/urn:li:activity:6873655934682591232/
+</em>
+<img src="https://sfo2.digitaloceanspaces.com/advocu/gde/activity-photos/2021/12/02/9feed775-94a6-419d-8e75-c44883c2ede9.jpeg">
+</span>
+</details>
 - _2021 Sep_ [Zenika](https://www.meetup.com/fr-FR/NightClazz-by-Zenika-Nantes/events/281671121/)
 <span class="detail-tag">Remote</span>
 <span class="detail-tag">Meetup Speaker</span>
@@ -207,10 +231,19 @@ Twitter: https://twitter.com/jlandure/status/1446027097605033986
 </span>
 </details>
 - _2021 Oct_ Accelerate Workshop with [William Bartlett](https://twitter.com/bartlettstarman)
-<span class="detail-tag">Remote</span>
 <span class="detail-tag">Enterprise</span>
 <span class="detail-tag">Speaker</span>
-<br>_Attendees: 40_
+<br><details><summary>Atelier Accelerate
+</summary>
+<span><em>
+Attendees: 40<br>
+Based on the book "accelerate": https://www.amazon.fr/Accelerate-Building-Performing-Technology-Organizations/dp/1942788339
+https://twitter.com/ZenikaNantes/status/1450130796891738118
+https://www.linkedin.com/feed/update/urn:li:activity:6855896473989730305
+</em>
+<img src="https://sfo2.digitaloceanspaces.com/advocu/gde/activity-photos/2021/11/27/9243e6ba-2cbc-45d1-8c86-a32bf3c14dc6.jpeg">
+</span>
+</details>
 - _2021 Sep_ [Serverless Days Paris 2021](https://paris.serverlessdays.io/fr/#talks) - 🇫🇷 Paris, France (1d)
 <span class="detail-tag">Speaker</span>
 <br><details><summary>Cloud Run... everything you need without K8S / [Slides](https://speakerdeck.com/jlandure/cloud-run-dot-dot-dot-everything-you-need-without-k8s) / [Video](https://www.youtube.com/watch?v=Sj22ioXHchE&list=PLdVDu8iO6zrMurVwGrFR23uw5OtGh4vFx&index=2)
