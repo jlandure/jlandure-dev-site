@@ -1,3 +1,5 @@
+- *Google Cloud* - [Professional Cloud Architect](https://www.credential.net/d6fbe7f9-cb56-4455-81a9-15c2fbe83ea1)
+ <small>Issued Jul 2022</small>
 - *Google Cloud* - [Professional Data Engineer](https://www.credential.net/fefd57de-0179-4216-9ccf-76896705645e)
  <small>Issued Jan 2022</small>
  - *Google Cloud* - [Cloud Digital Leader](https://www.credential.net/7f1bcdb8-dc7c-4826-88b5-31dc895fe5c8)
@@ -14,10 +16,10 @@
 <small>Issued Apr 2020</small>
 - *Google Cloud* - Professional Cloud Developer
  <small>Issued Apr 2019</small>
-- *Google Cloud* - Professional Cloud Architect
+- *Google Cloud* - [Professional Cloud Architect](https://www.credential.net/d6fbe7f9-cb56-4455-81a9-15c2fbe83ea1)
  <small>Issued Jul 2018</small>
 - *Coursera* - [Google Cloud Platform Fundamentals: Core Infrastructure](https://www.coursera.org/account/accomplishments/certificate/AECV9B3FE4S4)
 <small>Issued Mar 2017</small>
-- *Pivotal, Inc.* - [Developing Applications with Cloud Foundry](https://drive.google.com/file/d/0Bx5mRU2mXdx0Q0ktbXM5OVpkR3pjWkRVTlR1cEV0VkxNbDhN/view?usp=sharing&resourcekey=0-ZU5GSkhI8FEcgFyWuHFFbg) <small>Issued Jul 2006</small>
-- *Google* - [App Engine Qualified Developer](https://drive.google.com/file/d/0Bx5mRU2mXdx0OC1xdUY3VVppVjg/view?usp=sharing&resourcekey=0-MpTWbRMrEXoV02PzsNrEpw) <small>Issued Jul 2006</small>
-- *Google* - [BigQuery Qualified Developer](https://drive.google.com/file/d/0Bx5mRU2mXdx0eTlvYmhoYlppdWs/view?usp=sharing&resourcekey=0-FQCec1XVcFv90gT2uPXgYQ) <small>Issued Jul 2006</small>
+- *Pivotal, Inc.* - [Developing Applications with Cloud Foundry](https://drive.google.com/file/d/0Bx5mRU2mXdx0Q0ktbXM5OVpkR3pjWkRVTlR1cEV0VkxNbDhN/view?usp=sharing&resourcekey=0-ZU5GSkhI8FEcgFyWuHFFbg) <small>Issued Sep 2016</small>
+- *Google* - [App Engine Qualified Developer](https://drive.google.com/file/d/0Bx5mRU2mXdx0OC1xdUY3VVppVjg/view?usp=sharing&resourcekey=0-MpTWbRMrEXoV02PzsNrEpw) <small>Issued Aug 2015</small>
+- *Google* - [BigQuery Qualified Developer](https://drive.google.com/file/d/0Bx5mRU2mXdx0eTlvYmhoYlppdWs/view?usp=sharing&resourcekey=0-FQCec1XVcFv90gT2uPXgYQ) <small>Issued May 2015</small>

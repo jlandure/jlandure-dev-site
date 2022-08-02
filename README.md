@@ -10,6 +10,12 @@
 
 [bio-fr file](bio/bio-fr.md ':include')
 
+### Notes
+
+- Talks on Youtube: https://www.youtube.com/playlist?list=PLdVDu8iO6zrMurVwGrFR23uw5OtGh4vFx
+- Slides on Speakerdeck: https://speakerdeck.com/jlandure
+- [Speaker Experience](#📣-conferences) / [Trainer Experience](#🎓-workshops-amp-training)
+
 ### 📝 Experience & Resume
 
 [bio file](bio/README.md ':include')
