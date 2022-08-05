@@ -2,6 +2,8 @@
 
 ## 2022
 
+- _2022 Jun_ [Region Launch Google Cloud](https://cloudonair.withgoogle.com/events/region-france) - 🇫🇷 Paris, France (1d)
+<span class="detail-tag">Attendee</span>
 - _2022 Jun_ Accelerate Workshop with [William Bartlett](https://twitter.com/bartlettstarman)
 <span class="detail-tag">Enterprise</span>
 <span class="detail-tag">Speaker</span>
@@ -14,6 +16,48 @@ https://twitter.com/ZenikaNantes/status/1536675882978398209
 https://www.linkedin.com/feed/update/urn:li:activity:6942441568922423296/
 </em>
 <img src="https://sfo2.digitaloceanspaces.com/advocu/gde/activity-photos/2022/06/16/7d3d6f71-dcb3-447e-b5ee-7e132fe5dc0e.jpeg">
+</span>
+</details>
+- _2022 Jun_ [Web2Day 2022](https://web2day.co/en/) - 🇫🇷 Nantes, France (3d)
+<span class="detail-tag">Attendee</span>
+- _2022 May_ [GDG Nantes](https://gdg.community.dev/events/details/google-gdg-nantes-presents-devenir-speaker-tips-tricks/) - 🇫🇷 Nantes, France
+<span class="detail-tag">Meetup Speaker</span>
+<br><details><summary>"Devenir speaker" tips & tricks with [Jean-François Garreau](https://twitter.com/jefbinomed) / [Slides](https://speakerdeck.com/jlandure/devenir-speaker-tips-and-tricks) / [Video](https://www.youtube.com/watch?v=oZO56qV17dw&list=PLdVDu8iO6zrMurVwGrFR23uw5OtGh4vFx&index=3)
+</summary>
+<span><em>
+Attendees: 30<br>
+Twitter: https://twitter.com/gdgnantes/status/1524093745129533443
+Tu as toujours rêvé d’animer une conférence technique ? Tu as un sujet qui te tient à coeur et tu ne sais pas comment le partager ? Participe à ce meetup et le @GDGNantes te parlera de comment "être un speaker’’ avec quelques tuyaux pour bien t'y préparer ;-)
+Le CFP du DevFest Nantes est ouvert jusqu'au 19 juin, c'est donc le moment idéal pour assister à ce meetup et préparer des sujets de folie pour le DevFest !
+Julien LANDURE et Jean-François GARREAU expliqueront toutes les étapes pour devenir Speaker.euse : de comment trouver un sujet, la présentation, le jour J à l'après conférence !
+</em>
+<img src="https://sfo2.digitaloceanspaces.com/advocu/gde/activity-photos/2022/08/03/96600ae8-f270-4533-a329-70b50f7364a7.jpeg">
+</span>
+</details>
+- _2022 Mar_ [Zenika Women Empowerment](https://speakerdeck.com/jlandure/women-empowerment-personal-branding)
+<span class="detail-tag">Remote</span>
+<span class="detail-tag">Speaker</span>
+<br><details><summary>Women Empowerment: Personal Branding & Self-Marketing with [Lise Quesnel](https://twitter.com/QuesnelLise) / [Slides](https://speakerdeck.com/jlandure/women-empowerment-personal-branding)
+</summary>
+<span><em>
+Attendees: 12<br>
+</em>
+</span>
+</details>
+- _2022 May_ [DevOps France](https://www.francedevops.fr/webinars/cloud-run-tout-ce-quil-faut-sans-k8s)
+<span class="detail-tag">Meetup Speaker</span>
+<br><details><summary>Cloud Run... everything you need without K8S / [Slides](https://speakerdeck.com/jlandure/cloud-run-dot-dot-dot-everything-you-need-without-k8s-france-devops) / [Video](https://www.youtube.com/watch?v=kszDwRlU3ho)
+</summary>
+<span><em>
+Attendees: 55<br>
+Twitter: https://twitter.com/jlandure/status/1519978014536347649
+Linkedin: https://www.linkedin.com/feed/update/urn:li:activity:6925743103995752448/
+Docker est arrivé en 2016 en France permettant de packager nos applications facilement. Il a fallu maîtriser les concepts de Docker : commandes, isolation, optimisation des layers etc.
+Ensuite, la solution leader d'orchestration Kubernetes est arrivée permettant de scaler ces containers. Pour permettre à K8S de gérer correctement un nom de domaine en TLS, livrer de façon transparente en production, faire du test A/B, il faut là encore retrousser les manches.
+Basé sur le projet Open Source Knative, Cloud Run est LA solution parfaite pour déployer des conteneurs et permet de gérer tout ça : autoscaling, gestion du traffic et bien d'autres fonctionnalités !
+Faisons un tour des petits plus de cette solution : nous y trouvons la majorité des features d'un Kubernetes sans Kubernetes. Je vous partagerai mon expérience et essaierai de montrer pourquoi les solutions Serverless & Cloud Run sont l'avenir.
+</em>
+<img src="https://sfo2.digitaloceanspaces.com/advocu/gde/activity-photos/2022/08/03/059b2843-3fd3-4f2a-97da-d61b32a67f26.jpeg">
 </span>
 </details>
 - _2022 Mar_ [Best Of TZ](https://www.eventbrite.fr/e/billets-best-of-technozaure-2-par-et-pour-des-passionnes-de-tech-269021369157)
