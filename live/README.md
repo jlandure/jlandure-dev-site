@@ -143,6 +143,10 @@
 - _2005 Jun 01_ [System of a Down](https://www.concertarchives.org/concerts/system-of-a-down-the-eighties-matchbox-b-line-disaster-5c0a843f-b786-4c45-9059-99153c192cd0), Bercy, Paris 🇫🇷
 <span class="detail-tag">Music</span>
 
+## 2004
+
+- _2004 Aug 15_ [Olympique de Marseille 3 - 0 Lille](https://www.lequipe.fr/Football/match-direct/ligue-1/2004-2005/om-lille-live/60616), Stade Vélodrome, Marseille 🇫🇷
+
 ## 2003
 
 - _2003 Dec 09_ [Metallica](https://www.metallica.com/events/event-10456.html), Bercy, Paris 🇫🇷

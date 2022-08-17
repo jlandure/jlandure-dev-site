@@ -62,6 +62,10 @@ Very lucky to organize, sponsor, attend and speak at many conferences.
 
 [See listing here](conference/)
 
+## 📝 Blog
+
+[See listing here](blog/)
+
 ## 🎓 Workshops & Training
 
 - Google Cloud Official Trainer 

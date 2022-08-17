@@ -1401,7 +1401,7 @@ Session communautaire pour les GDG de France à Devoxx
 <br>[Optimiser son site web avec PageSpeed](./conference/2013-10-26%20SEOCamp.md) / [Slides](https://speakerdeck.com/jlandure/optimiser-son-site-web-avec-pagespeed)
 - _2013 Oct_ [Agile Tour Rennes] - 🇫🇷 Rennes, France (1d)
 <span class="detail-tag">Attendee</span>
-- _2013 Sep_ Zenika - Matinale AngularJS - 🇫🇷 Nantes, France
+- _2013 Sep_ Zenika - Matinale AngularJS / [Slides](https://speakerdeck.com/jlandure/industrialiser-ses-developpements-html5-avec-angularjs) - 🇫🇷 Nantes, France
 <span class="detail-tag">Enterprise</span>
 <span class="detail-tag">Speaker</span>
 - _2013 Jun_ [BreizhCamp 2013](http://2013.breizhcamp.org/) - 🇫🇷 Rennes, France (1d)
