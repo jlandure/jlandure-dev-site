@@ -2,6 +2,8 @@
 
 ## 2022
 
+- _2022 Sep 03_ [FC Nantes 0 - 3 Paris SG](https://www.lequipe.fr/Football/match-direct/ligue-1/2022-2023/nantes-psg-live/538456), La Beaujoire, Nantes 🇫🇷
+<span class="detail-tag">Sport</span>
 - _2022 Jul 08_ [Red Hot Chili Peppers](https://en.wikipedia.org/wiki/Red_Hot_Chili_Peppers_2022_Global_Stadium_Tour), Stade de France, Paris 🇫🇷 
 <span class="detail-tag">Music</span>
 > 2022 Global Stadium Tour
