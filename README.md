@@ -74,6 +74,10 @@ Very lucky to organize, sponsor, attend and speak at many conferences.
 
 [See listing here](workshop/)
 
+## ⭐️ Rewards
+
+[See listing here](./rewards/README.md ':include')
+
 ## 🗞️ Interviews
 
 [See listing here](./external/README.md ':include')
