@@ -2,6 +2,118 @@
 
 ## 2022
 
+- _2022 Nov_ [Google Community Dev Summit](https://twitter.com/jlandure/status/1588822129583476739) - 🇫🇷 Paris, France (2d)
+<span class="detail-tag">Speaker</span>
+<span class="detail-tag">Attendee</span>
+<br><details><summary>Du GTUG Nantes au DevFest Nantes, 10 ans de communauté de devs with [Annabelle Koster](https://twitter.com/AnnabelleKoster) / [Slides](https://speakerdeck.com/jlandure/du-gtug-nantes-au-devfest-nantes-10-ans-de-communaute-de-devs)
+</summary>
+<span><em>
+Attendees: 40<br>
+https://twitter.com/jlandure/status/1588822129583476739
+https://twitter.com/gdgnantes/status/1588852458021089280
+D'une idée dans un bureau à la création d'un des événements phares de Nantes, nous vous retracerons les 10 ans du GDG Nantes avec les grandes étapes et les succès.
+Venez découvrir l'histoire du GDG Nantes en 30min: ses débuts, la motivation de la team d'orga mais aussi la gestion du DevFest Nantes passant de 150 à 2000 participants.
+Revenons sur l'histoire d'une communauté technique qui a su trouver sa place dans l'écosystème numérique de Nantes et d'ailleurs ! Bref, échangeons sur la recette d'une communauté qui fonctionne.
+</em>
+<img src="https://sfo2.digitaloceanspaces.com/advocu/gde/activity-photos/2022/12/27/7a925964-2c96-4455-82f6-2c3638048f18.jpeg">
+</span>
+</details>
+- _2022 Oct_ [NigthClazz Zenika - Hacktoberfest 2022 Live](https://youtu.be/xsD-xjvjkcY?t=6785)
+<span class="detail-tag">Remote</span>
+<span class="detail-tag">Speaker</span>
+- _2022 Sep_ [Agile Tour Nantes](https://agilenantes.org/evenements/agile-tour-nantes/agile-tour-nantais-2022/) - 🇫🇷 Nantes, France (1d)
+<span class="detail-tag">Speaker</span>
+<br><details><summary>Cloud, OpenSource and Community / [Slides](https://speakerdeck.com/jlandure/cloud-opensource-and-community-1c2f7826-3d53-46dd-81bf-c07376cce52b)
+</summary>
+<span><em>
+Attendees: 15<br>
+Programme: https://sessionize.com/api/v2/25pglm2c/view/GridSmart
+Étudions comment les cloud providers font et utilisent l’open source pour mieux comprendre l’aventure du Cloud et le lien avec la CNCF.
+La Cloud Native Computing Foundation (CNCF) sert d’accueil à beaucoup de projets majeurs aujourd'hui comme Kubernetes ou Prometheus. Comment la fondation fonctionne ? Quel est le lien avec les Cloud Providers ?
+En se basant sur de cas d’usage et d’histoire avec les Cloud Providers, nous discuterons de l’open source et des liens avec la communauté.
+D’une idée open source à l’adoption par une communauté, découvrons comment concevoir une stratégie Cloud pour réussir votre transformation.
+</em>
+<img src="https://sfo2.digitaloceanspaces.com/advocu/gde/activity-photos/2022/12/27/0823f971-6b6a-4d17-bc1f-ec81e30784e4.png">
+</span>
+</details>
+- _2022 Oct_ [Zenika Women Empowerment](https://speakerdeck.com/jlandure/women-empowerment-personal-branding)
+<span class="detail-tag">Remote</span>
+<span class="detail-tag">Speaker</span>
+<br><details><summary>Women Empowerment: Personal Branding & Self-Marketing with [Lise Quesnel](https://twitter.com/QuesnelLise) / [Slides](https://speakerdeck.com/jlandure/women-empowerment-personal-branding)
+</summary>
+<span><em>
+Attendees: 12<br>
+</em>
+</span>
+</details>
+- _2022 Oct_ [DevFest Nantes 2022](https://devfest2022.gdgnantes.com/) - 🇫🇷 Nantes, France (2d)
+<span class="detail-tag">Speaker</span>
+<span class="detail-tag">Organizer</span>
+<br><details><summary>Opening keynote with [Annabelle Koster](https://twitter.com/AnnabelleKoster)
+</summary>
+<span><em>
+Attendees: 1200<br>
+Video: https://youtu.be/mO9qbVavCuQ?t=123
+Launch of the DevFest Nantes announcing 2 days of talks and codelabs!
+Video: https://twitter.com/TheDamfr/status/1582992586821709825
+Video: https://twitter.com/devfestnantes/status/1583347482012004353
+Video: https://twitter.com/devfestnantes/status/1583412109861613569
+</em>
+<img src="https://sfo2.digitaloceanspaces.com/advocu/gde/activity-photos/2022/12/27/74982f67-1fe4-4098-9df7-3a828b6c0aec.jpg">
+</span>
+</details>
+- _2022 Oct_ [Google Cloud Next 22](https://cloud.withgoogle.com/next/developer-zone#innovators-hive) - 🇫🇷 Munich, Germany (2d)
+<span class="detail-tag">Attendee</span>
+- _2022 Oct_ [Zenika](https://speakerdeck.com/jlandure/tendances-it)
+<span class="detail-tag">Remote</span>
+<span class="detail-tag">Enterprise</span>
+<span class="detail-tag">Speaker</span>
+<br><details><summary>Tendances IT with [Antoine Bonneau](https://twitter.com/CallMeGoodWater) / [Slides](https://speakerdeck.com/jlandure/tendances-it)
+</summary>
+<span><em>
+Attendees: 250<br>
+Quelles sont les grandes tendances IT en 2022 ?
+Parcourrons les sujets du moment autour de 6 thématiques : le recrutement, le no-code, la data & l'IA, le Web3, le Cloud & Devops et Developer Experience !
+</em>
+</span>
+</details>
+- _2022 Sep_ [Salon Data](https://salondata.fr/index.php/conferences-2022) - 🇫🇷 Nantes, France (1d)
+<span class="detail-tag">Speaker</span>
+<br><details><summary>Cloud, OpenSource and Community / [Slides](https://speakerdeck.com/jlandure/cloud-opensource-and-community-salon-data) / [Video](https://www.youtube.com/watch?v=jf-aPborO0A&list=PLdVDu8iO6zrMurVwGrFR23uw5OtGh4vFx&index=1)
+</summary>
+<span><em>
+Attendees: 15<br>
+Website: https://salondata.fr/index.php/conferences-2022/
+Video: https://www.youtube.com/watch?v=jf-aPborO0A&list=PLdVDu8iO6zrMurVwGrFR23uw5OtGh4vFx&index=1
+Twitter:
+https://twitter.com/RGuillome/status/1572144415992606721
+https://twitter.com/SalonData/status/1572143897165561857
+Étudions comment les cloud providers font et utilisent l’open source pour mieux comprendre l’aventure du Cloud et le lien avec la CNCF.
+La Cloud Native Computing Foundation (CNCF) sert d’accueil à beaucoup de projets majeurs aujourd'hui comme Kubernetes ou Prometheus. Comment la fondation fonctionne ? Quel est le lien avec les Cloud Providers ?
+En se basant sur de cas d’usage et d’histoire avec les Cloud Providers, nous discuterons de l’open source et des liens avec la communauté.
+D’une idée open source à l’adoption par une communauté, découvrons comment concevoir une stratégie Cloud pour réussir votre transformation.
+</em>
+<img src="https://sfo2.digitaloceanspaces.com/advocu/gde/activity-photos/2022/12/27/3da543ec-f5cf-4b68-b973-bebe50827995.jpeg">
+</span>
+</details>
+- _2022 Sep_ [Jug Summer Camp 2022](https://www.jugsummercamp.org/edition/13/presentations/igqwAsQzSYfnmWjJzj0B) - 🇫🇷 La Rochelle, France (1d)
+<span class="detail-tag">Speaker</span>
+<br><details><summary>Cloud, OpenSource and Community / [Slides](https://speakerdeck.com/jlandure/cloud-opensource-and-community-f1aead30-4c0a-4298-a0d4-25ce510b23ed) / [Video](https://www.youtube.com/watch?v=dIql5fbreSM&list=PLdVDu8iO6zrMurVwGrFR23uw5OtGh4vFx&index=2)
+</summary>
+<span><em>
+Attendees: 35<br>
+Au JugSummerCamp https://www.jugsummercamp.org/edition/13/presentations/igqwAsQzSYfnmWjJzj0B
+Video: https://www.youtube.com/watch?v=dIql5fbreSM&list=PLdVDu8iO6zrMurVwGrFR23uw5OtGh4vFx&index=2
+Tweet : https://twitter.com/jlandure/status/1567802193696129025
+Tweet : https://twitter.com/ZenikaNantes/status/1568169567800758274
+Tweet : https://twitter.com/ptibulle/status/1568155617176555520
+Regardons comment les cloud providers font et utilisent l’open source pour mieux comprendre l’aventure du Cloud et le lien avec la CNCF.
+La Cloud Native Computing Foundation (CNCF) sert d’accueil à beaucoup de projets majeurs aujourd'hui comme Kubernetes ou Prometheus. Comment la fondation fonctionne ? Quel est le lien avec les Cloud Providers ? En se basant sur quelques cas d’usage avec les Cloud Providers, nous discuterons de l’open source et des liens avec la communauté.
+De l'open source à l'animation de communauté, découvrons les stratégies des grands Cloud Providers (Azure, AWS, Google Cloud) pour vous apparaître "dev friendly".
+</em>
+<img src="https://sfo2.digitaloceanspaces.com/advocu/gde/activity-photos/2022/12/27/651cb47c-aac6-431b-b5c9-a28435b4c910.jpeg">
+</span>
+</details>
 - _2022 Jun_ [Region Launch Google Cloud](https://cloudonair.withgoogle.com/events/region-france) - 🇫🇷 Paris, France (1d)
 <span class="detail-tag">Attendee</span>
 - _2022 Jun_ Accelerate Workshop with [William Bartlett](https://twitter.com/bartlettstarman)
@@ -34,6 +146,18 @@ Julien LANDURE et Jean-François GARREAU expliqueront toutes les étapes pour de
 <img src="https://sfo2.digitaloceanspaces.com/advocu/gde/activity-photos/2022/08/03/96600ae8-f270-4533-a329-70b50f7364a7.jpeg">
 </span>
 </details>
+- _2022 Apr_ [Zenika](https://tz-nantes.zenika.com/)  - 🇫🇷 Nantes, France (1d)
+<span class="detail-tag">Speaker</span>
+<br><details><summary>Tips pour l'animation d'un partenariat with [Antoine Oili](https://www.linkedin.com/in/antoine-oili) / [Slides](https://speakerdeck.com/jlandure/lanimation-dun-partenariat-zenika-nantes)
+</summary>
+<span><em>
+Attendees: 15<br>
+https://twitter.com/ZenikaNantes/status/1519698900994727938
+Zenika s'associe depuis des années à des éditeurs pour créer des partenariats. Qu'est-ce que cela apporte ? Quel est l'intérêt pour Z ? côté Tech ? côté Sales ? Antoine & Julien vous propose de parcourir les grandes étapes du partenariat Google Cloud et en tirer quelques tendances : ce qui fonctionne et ce qui ne fonctionne pas. Nous expliquerons durant ce talk les initiatives et actions mises en place pour animer un partenariat et ainsi créer une communauté autour de Google Cloud.
+</em>
+<img src="https://pbs.twimg.com/media/FRcOFgAWYAAK1Jn?format=jpg&name=large">
+</span>
+</details>
 - _2022 Mar_ [Zenika Women Empowerment](https://speakerdeck.com/jlandure/women-empowerment-personal-branding)
 <span class="detail-tag">Remote</span>
 <span class="detail-tag">Speaker</span>
@@ -45,6 +169,7 @@ Attendees: 12<br>
 </span>
 </details>
 - _2022 May_ [DevOps France](https://www.francedevops.fr/webinars/cloud-run-tout-ce-quil-faut-sans-k8s)
+<span class="detail-tag">Remote</span>
 <span class="detail-tag">Meetup Speaker</span>
 <br><details><summary>Cloud Run... everything you need without K8S / [Slides](https://speakerdeck.com/jlandure/cloud-run-dot-dot-dot-everything-you-need-without-k8s-france-devops) / [Video](https://www.youtube.com/watch?v=kszDwRlU3ho)
 </summary>
@@ -90,6 +215,24 @@ Basé sur le projet Open Source Knative, Cloud Run est LA solution parfaite pour
 Faisons un tour des petits plus de cette solution : nous y trouvons la majorité des features d'un Kubernetes sans Kubernetes. Partons à la découverte de cette solution Serverless à base de démos.
 </em>
 <img src="https://sfo2.digitaloceanspaces.com/advocu/gde/activity-photos/2022/03/27/0aed17a4-70e6-4a4a-a7fe-7c322347346e.jpeg">
+</span>
+</details>
+- _2022 Mar_ [Microsoft Tech Group Summit 2022]() - 🇫🇷 Paris, France (2d)
+<span class="detail-tag">Speaker</span>
+<span class="detail-tag">Attendee</span>
+<br><details><summary>Du GTUG Nantes au DevFest Nantes, 10 ans de communauté de devs with [Annabelle Koster](https://twitter.com/AnnabelleKoster) / [Slides](https://speakerdeck.com/jlandure/du-gtug-nantes-au-devfest-nantes-10-ans-de-communaute-de-devs)
+</summary>
+<span><em>
+Attendees: 30<br>
+D'une idée dans un bureau à la création d'un des événements phares de Nantes, nous vous retracerons les 10 ans du GDG Nantes avec les grandes étapes et les succès.
+Venez découvrir l'histoire du GDG Nantes en 30min: ses débuts, la motivation de la team d'orga mais aussi la gestion du DevFest Nantes passant de 150 à 2000 participants.
+Revenons sur l'histoire d'une communauté technique qui a su trouver sa place dans l'écosystème numérique de Nantes et d'ailleurs ! Bref, échangeons sur la recette d'une communauté qui fonctionne.
+https://twitter.com/olivierleplus/status/1505095212804321282
+https://twitter.com/gdgnantes/status/1505134177720623104
+https://twitter.com/AnnabelleKoster/status/1504818528322527253
+https://twitter.com/jlandure/status/1504817019426082819
+</em>
+<img src="https://pbs.twimg.com/media/FOMsHpAWYAAQIVf?format=jpg&name=large">
 </span>
 </details>
 - _2022 Mar_ [Zenika Women Empowerment](https://speakerdeck.com/jlandure/women-empowerment-personal-branding)
@@ -305,7 +448,6 @@ Faisons un tour des petits plus de cette solution : nous y trouvons la majorité
 </span>
 </details>
 - _2021 Sep_ [Zenika](https://tz-nantes.zenika.com/)
-<span class="detail-tag">Remote</span>
 <span class="detail-tag">Speaker</span>
 <br><details><summary>How to create an open source project? with [Julia Lehoux](https://twitter.com/julia_lehoux) / [Slides](https://speakerdeck.com/jlandure/creer-un-projet-open-source-ou-adopter-un-chaton-meme-combat)
 </summary>

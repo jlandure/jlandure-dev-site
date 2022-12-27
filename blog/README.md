@@ -1,5 +1,10 @@
 # Blog
 
+## 2022
+
+- _2022 Dec 16_ [Getting Started with DevFest
+](blog/2022-12-16-getting-started-with-devfest.md) [Original](https://medium.com/googledeveloperseurope/getting-started-with-devfest-7e30bdd29790)
+
 ## 2021
 
 - _2021 Sep 28_ [Mentoring GDG Cloud Abidjan — a collaboration between Europe and Africa](blog/2021-09-28-mentoring-gdg-cloud-abidjan-a-collaboration-between-europe-and-africa.md) [Original](https://medium.com/googledeveloperseurope/mentoring-gdg-cloud-abidjan-a-collaboration-between-europe-and-africa-5966dfb5e4b6)

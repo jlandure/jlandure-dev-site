@@ -1,3 +1,12 @@
+- _2022 Oct_ Training GCP Cloud Fundamentals: Core Infrastructure 🇬🇧 - Remote (1d)
+<span class="detail-tag">Official Trainer</span>
+<br>Attendees: 16
+- _2022 Sep_ Training GCP Architecting with Google Compute Engine - Remote (3d)
+<span class="detail-tag">Official Trainer</span>
+<br>Attendees: 4
+- _2022 Aug_ Training Preparing for the PCA Examination with Google Cloud Platform - Remote (1d)
+<span class="detail-tag">Official Trainer</span>
+<br>Attendees: 5
 - _2022 May_ Training From Data to Insights with Google Cloud Platform - Remote (3d)
 <span class="detail-tag">Official Trainer</span>
 <br>Attendees: 14

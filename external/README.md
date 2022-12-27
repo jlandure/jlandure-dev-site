@@ -6,6 +6,7 @@ Stories with/about me
 <span class="detail-tag">Television</span>
 - 2019-12-19 [Andrey Interview](/external/2019-12-19-andrey.md) -- [Direct Link](https://www.youtube.com/watch?v=pxq9e697BpI&list=PLdVDu8iO6zrMurVwGrFR23uw5OtGh4vFx&index=9)
 - 2018-10-15 [Podcast Voyage au Centre de la Tech](https://twitter.com/journeytotech/status/1051767851340746753) -- [SoundCloud](https://soundcloud.com/voyageaucentredelatech)
+<span class="detail-tag">Podcast</span>
 - 2018-10-09 [TV France 3](/external/2018-10-09-france3.md)
 [Tweet](https://twitter.com/jlandure/status/1049598578790977536)
 <span class="detail-tag">Television</span>
