@@ -11,6 +11,8 @@
 Attendees: 40<br>
 https://twitter.com/jlandure/status/1588822129583476739
 https://twitter.com/gdgnantes/status/1588852458021089280
+https://www.youtube.com/watch?v=HyEigezSHec
+https://photos.google.com/share/AF1QipMdohd9p8gWFPaQumroi_cxW73zN6UwMvUiEE3Skxib0bdIRbo7KSJbIWUmwJMf-w?key=RjExcHdQZEZFanBkczhUXzBsa1Q4OW1DN0xhX0NB
 D'une idée dans un bureau à la création d'un des événements phares de Nantes, nous vous retracerons les 10 ans du GDG Nantes avec les grandes étapes et les succès.
 Venez découvrir l'histoire du GDG Nantes en 30min: ses débuts, la motivation de la team d'orga mais aussi la gestion du DevFest Nantes passant de 150 à 2000 participants.
 Revenons sur l'histoire d'une communauté technique qui a su trouver sa place dans l'écosystème numérique de Nantes et d'ailleurs ! Bref, échangeons sur la recette d'une communauté qui fonctionne.
