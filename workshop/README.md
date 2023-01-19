@@ -1,3 +1,9 @@
+- _2023 Jan_ Training GCP Cloud Fundamentals: Core Infrastructure 🇬🇧 - Remote (1d)
+<span class="detail-tag">Official Trainer</span>
+<br>Attendees: 16
+- _2023 Jan_ Training GCP BigData & Machine Learning Fundamentals 🇬🇧 - Remote (1d)
+<span class="detail-tag">Official Trainer</span>
+<br>Attendees: 18
 - _2022 Oct_ Training GCP Cloud Fundamentals: Core Infrastructure 🇬🇧 - Remote (1d)
 <span class="detail-tag">Official Trainer</span>
 <br>Attendees: 16
