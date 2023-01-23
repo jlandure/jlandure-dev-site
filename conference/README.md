@@ -1,5 +1,27 @@
 # Conference
 
+## 2023
+
+- _2023 Jan_ [Station F & GDG Cloud Nantes](https://rsvp.withgoogle.com/events/zenika-talk-1/home) - 🇫🇷 Paris, France
+<span class="detail-tag">Speaker</span>
+<br><details><summary>Cloud Code - Comment déployer facilement des applications cloud depuis votre IDE? with [Mael Galite](https://www.linkedin.com/in/mael-galite/) / [Slides](https://speakerdeck.com/jlandure/gdg-cloud-nantes-cloud-code-comment-deployer-facilement-des-applications-cloud-depuis-votre-ide) / [Video](https://www.youtube.com/watch?v=PQuoZX-Sr_Q)
+</summary>
+<span><em>
+Attendees: 12<br>
+Soirée spéciale à Station F
+Video: https://www.youtube.com/watch?v=PQuoZX-Sr_Q
+Slides: https://speakerdeck.com/jlandure/gdg-cloud-nantes-cloud-code-comment-deployer-facilement-des-applications-cloud-depuis-votre-ide
+Comment déployer facilement des applications cloud depuis votre IDE ?
+Vous développez des apps en utilisant images Docker ? Vous les déployez sur K8S ? Venez découvrir un outil bien pratique : Cloud Code.
+Cette extension d'IDE va vous permettre de déployer facilement vos applications dans le Cloud. Cloud Code est livré avec des outils pour vous aider à écrire et exécuter facilement des applications cloud-native et permet la collaboration entre Ops et Dev.
+Découvrez Cloud Code et être plus productif au jour le jour.
+https://www.meetup.com/fr-FR/gdg-cloud-nantes/events/290825263/
+https://gdg.community.dev/events/details/google-gdg-cloud-nantes-presents-cloud-code-comment-deployer-facilement-des-applications-cloud-depuis-votre-ide/
+</em>
+<img src="https://sfo2.digitaloceanspaces.com/advocu/gde/activity-photos/2023/01/23/726623f5-3937-4037-9268-ada5f19afd6a.jpeg">
+</span>
+</details>
+
 ## 2022
 
 - _2022 Nov_ [Google Community Dev Summit](https://twitter.com/jlandure/status/1588822129583476739) - 🇫🇷 Paris, France (2d)
