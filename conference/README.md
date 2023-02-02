@@ -1,7 +1,19 @@
 # Conference
 
 ## 2023
-
+- _2023 Feb_ [Very Tech Trip](https://verytechtrip.com/programme) - 🇫🇷 Paris, France
+<span class="detail-tag">Speaker</span>
+<br><details><summary>Introduction to FinOps ☁️
+ / [Slides](https://speakerdeck.com/jlandure/introduction-to-finops)
+</summary>
+<span><em>
+Attendees: 25<br>
+"FinOps" est un nouveau mot-clé apparu courant 2020 qui ne cesse de prendre de l'ampleur sur Linkedin au côtés de "Cloud" ou "SRE".
+Mais c'est quoi le FinOps? (D'ailleurs, on dit peut-être la FinOps en 🇫🇷 😅 ?) Est-ce lié au fait que les devs peuvent tout déployer n'importe comment sans regarder le coût engendré ? Est-ce une nouvelle organisation dans l'entreprise ? Et toi, peux-tu devenir certifié "FinOps" ? En retraçant le chemin du Cloud et en étudiant la FinOps Foundation, fondation fille de la Linux Foundation, découvre ce qui se cache derrière ce buzzword! 💸
+</em>
+<img src="https://sfo2.digitaloceanspaces.com/advocu/gde/activity-photos/2023/02/02/6630a316-3084-4d46-a3f4-943b0cea809c.jpeg">
+</span>
+</details>
 - _2023 Jan_ [Station F & GDG Cloud Nantes](https://rsvp.withgoogle.com/events/zenika-talk-1/home) - 🇫🇷 Paris, France
 <span class="detail-tag">Speaker</span>
 <br><details><summary>Cloud Code - Comment déployer facilement des applications cloud depuis votre IDE? with [Mael Galite](https://www.linkedin.com/in/mael-galite/) / [Slides](https://speakerdeck.com/jlandure/gdg-cloud-nantes-cloud-code-comment-deployer-facilement-des-applications-cloud-depuis-votre-ide) / [Video](https://www.youtube.com/watch?v=PQuoZX-Sr_Q)
