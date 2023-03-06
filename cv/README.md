@@ -129,7 +129,7 @@ navires.
 - Bootcamp « GraphQL » par Zenika <small>effectué en Décembre 2021</small> - 🇫🇷 Nantes, France (1j) [GitHub](https://github.com/jlandure/speedtraining-graphql)
 - Bootcamp « Éco-conception de services numériques » par Zenika <small>effectué en Février 2021</small> - Remote (1j) 
 - Bootcamp « Vue.js » par Zenika <small>effectué en Septembre 2018</small> - 🇫🇷 Nantes, France (1j) [GitHub](https://github.com/jlandure/bootcamp-vuejs)
-- Bootcamp « Management 3.0 » par Rupture21 / Zenika <small>effectué en Mars 2017</small> - 🇫🇷 Nantes, France (2j) 
+- Bootcamp « Management 3.0 » par Zenika <small>effectué en Mars 2017</small> - 🇫🇷 Nantes, France (2j) [Certificat](https://drive.google.com/file/d/1sKpG2yIjZ1yEDzIgSCCVcloCE1WeGd6j/view?usp=share_link)
 - « GitHub Technical Enablement Training » par GitHub / Zenika <small>effectué en Janvier 2017</small> - 🇫🇷 Paris, France (1j) 
 - Formation « Docker » par Docker / Zenika <small>effectué en Novembre 2015</small> - 🇫🇷 Nantes, France (2d)
 - Formation « Cloud Foundry for Developers » par Skillsmatter / Zenika <small>effectué en Janvier 2015</small> - 🇬🇧 London, England (3j) 

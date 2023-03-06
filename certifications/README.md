@@ -20,6 +20,8 @@
  <small>Issued Jul 2018</small>
 - *Coursera* - [Google Cloud Platform Fundamentals: Core Infrastructure](https://www.coursera.org/account/accomplishments/certificate/AECV9B3FE4S4)
 <small>Issued Mar 2017</small>
+- *Management 3.0* - [Certificate of Attendance](https://drive.google.com/file/d/1sKpG2yIjZ1yEDzIgSCCVcloCE1WeGd6j/view?usp=share_link)
+<small>Issued Mar 2017</small>
 - *Pivotal, Inc.* - [Developing Applications with Cloud Foundry](https://drive.google.com/file/d/0Bx5mRU2mXdx0Q0ktbXM5OVpkR3pjWkRVTlR1cEV0VkxNbDhN/view?usp=sharing&resourcekey=0-ZU5GSkhI8FEcgFyWuHFFbg) <small>Issued Sep 2016</small>
 - *Google* - [App Engine Qualified Developer](https://drive.google.com/file/d/0Bx5mRU2mXdx0OC1xdUY3VVppVjg/view?usp=sharing&resourcekey=0-MpTWbRMrEXoV02PzsNrEpw) <small>Issued Aug 2015</small>
 - *Google* - [BigQuery Qualified Developer](https://drive.google.com/file/d/0Bx5mRU2mXdx0eTlvYmhoYlppdWs/view?usp=sharing&resourcekey=0-FQCec1XVcFv90gT2uPXgYQ) <small>Issued May 2015</small>
