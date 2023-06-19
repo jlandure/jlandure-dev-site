@@ -1,7 +1,30 @@
 # Live Music & Sport
 
+## 2023
+
+- _2022 Jun_ Hellfest 2023, Clisson 🇫🇷
+<span class="detail-tag">Music</span>
+> Flogging Molly, Rancid, Sum41
+- _2023 May 20_ [FC Nantes 0 - 3 Montpellier](https://www.lequipe.fr/Football/match-direct/ligue-1/2022-2023/nantes-montpellier-live/538756), La Beaujoire, Nantes 🇫🇷
+<span class="detail-tag">Sport</span>
+- _2023 Apr 09_ [FC Nantes 2 - 2 Monaco](https://www.lequipe.fr/Football/match-direct/ligue-1/2022-2023/nantes-monaco-live/538696), La Beaujoire, Nantes 🇫🇷
+<span class="detail-tag">Sport</span>
+- _2023 Apr 05_ [[Coupe de France] FC Nantes 1 - 0 Lyon](https://www.lequipe.fr/Football/match-direct/coupe-de-france/2022-2023/nantes-lyon-live/579157), La Beaujoire, Nantes 🇫🇷
+<span class="detail-tag">Sport</span>
+
 ## 2022
 
+- _2022 Nov 13_ [FC Nantes 2 - 2 Ajaccio](https://www.lequipe.fr/Football/match-direct/ligue-1/2022-2023/nantes-ac-ajaccio-live/538544), La Beaujoire, Nantes 🇫🇷
+<span class="detail-tag">Sport</span>
+- _2022 Oct 30_ [FC Nantes 1 - 1 Clermont](https://www.lequipe.fr/Football/match-direct/ligue-1/2022-2023/nantes-clermont-live/538526), La Beaujoire, Nantes 🇫🇷
+<span class="detail-tag">Sport</span>
+<span class="detail-tag">VIP</span>
+- _2022 Oct 27_ [[UEFA Europe League]FC Nantes 2 - 1 Qarabag](https://www.lequipe.fr/Football/match-direct/ligue-europa/2022-2023/nantes-karabagh-fc-live/554312), La Beaujoire, Nantes 🇫🇷
+<span class="detail-tag">Sport</span>
+- _2022 Oct 16_ [FC Nantes 4 - 1 Brest](https://www.lequipe.fr/Football/match-direct/ligue-1/2022-2023/nantes-brest-live/538506), La Beaujoire, Nantes 🇫🇷
+<span class="detail-tag">Sport</span>
+- _2022 Sep 18_ [FC Nantes 0 - 0 Lens](https://www.lequipe.fr/Football/match-direct/ligue-1/2022-2023/nantes-lens-live/538475), La Beaujoire, Nantes 🇫🇷
+<span class="detail-tag">Sport</span>
 - _2022 Sep 03_ [FC Nantes 0 - 3 Paris SG](https://www.lequipe.fr/Football/match-direct/ligue-1/2022-2023/nantes-psg-live/538456), La Beaujoire, Nantes 🇫🇷
 <span class="detail-tag">Sport</span>
 - _2022 Jul 08_ [Red Hot Chili Peppers](https://en.wikipedia.org/wiki/Red_Hot_Chili_Peppers_2022_Global_Stadium_Tour), Stade de France, Paris 🇫🇷 
@@ -65,6 +88,7 @@
 <span class="detail-tag">Sport</span>
 - _2019 Jan 13_ [FC Nantes 0 - 1 Rennes](https://www.lequipe.fr/Football/match-direct/ligue-1/2018-2019/nantes-rennes-live/428339), La Beaujoire, Nantes 🇫🇷
 <span class="detail-tag">Sport</span>
+<span class="detail-tag">VIP</span>
 
 ## 2018
 
