@@ -1,3 +1,15 @@
+- _2023 Jun_ Training GCP Cloud Fundamentals: Core Infrastructure 🇫🇷 - Station F, Paris (1d)
+<span class="detail-tag">Official Trainer</span>
+<br>Attendees: 14
+- _2023 May_ Training GCP Architecting with Google Cloud: Design and Process 🇫🇷 - Paris (2d)
+<span class="detail-tag">Official Trainer</span>
+<br>Attendees: 16
+- _2023 Apr_ Training GCP BigData & Machine Learning Fundamentals 🇫🇷 - Remote (1d)
+<span class="detail-tag">Official Trainer</span>
+<br>Attendees: 13
+- _2023 Feb_ Training GCP Cloud Fundamentals: Core Infrastructure 🇫🇷 - Station F, Paris (1d)
+<span class="detail-tag">Official Trainer</span>
+<br>Attendees: 18
 - _2023 Jan_ Training GCP Cloud Fundamentals: Core Infrastructure 🇬🇧 - Remote (1d)
 <span class="detail-tag">Official Trainer</span>
 <br>Attendees: 16

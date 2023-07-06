@@ -2,7 +2,10 @@
 
 ## 2023
 
-- _2022 Jun_ Hellfest 2023, Clisson 🇫🇷
+- _2023 Jun 29_ [Google Cloud Summit France](https://cloudonair.withgoogle.com/events/summit-france-2023), Maison de la Mutualité, Paris 🇫🇷 
+<span class="detail-tag">Music</span>
+> MB14, Hyphen Hyphen
+- _2023 Jun_ Hellfest 2023, Clisson 🇫🇷
 <span class="detail-tag">Music</span>
 > Flogging Molly, Rancid, Sum41
 - _2023 May 20_ [FC Nantes 0 - 3 Montpellier](https://www.lequipe.fr/Football/match-direct/ligue-1/2022-2023/nantes-montpellier-live/538756), La Beaujoire, Nantes 🇫🇷

@@ -1,6 +1,33 @@
 # Conference
 
 ## 2023
+- _2023 Jun_ [Google Cloud Summit](https://cloudonair.withgoogle.com/events/summit-france-2023) - 🇫🇷 Paris, France
+<span class="detail-tag">Attendee</span>
+- _2023 Jun_ Google Cloud CTO Council - 🇫🇷 Paris, France
+<span class="detail-tag">Attendee</span>
+- _2023 Jun_ [Google I/O Connect 2023 & Community Mixer](https://rsvp.withgoogle.com/events/ioconnect-amsterdam) - 🇳🇱 Amsterdam, Netherlands
+<span class="detail-tag">Attendee</span>
+- _2023 May_ [Zenika - Best Of TZ](https://www.eventbrite.fr/e/billets-best-of-technozaure-4-par-et-pour-des-passionnes-de-tech-592457485287)
+<span class="detail-tag">Remote</span>
+<span class="detail-tag">Speaker</span>
+<br><details><summary>Introduction to FinOps with Google Cloud / [Slides](https://speakerdeck.com/jlandure/introduction-au-finops-avec-google-cloud) / [Video](https://www.youtube.com/watch?v=CKJ2JbhSqQs&list=PLdVDu8iO6zrMurVwGrFR23uw5OtGh4vFx&index=1)
+</summary>
+<span><em>
+Attendees: 15<br>
+"FinOps" est un nouveau mot-clé apparu courant 2020 qui ne cesse de prendre de l'ampleur sur Linkedin au côtés de "Cloud" ou "SRE".
+Mais c'est quoi le FinOps? (D'ailleurs, on dit peut-être la FinOps en 🇫🇷 😅 ?) Est-ce lié au fait que les devs peuvent tout déployer n'importe comment sans regarder le coût engendré ? Est-ce une nouvelle organisation dans l'entreprise ? Et toi, peux-tu devenir certifié "FinOps" ?
+Quelles sont les mécanismes disponibles en standard avec un Cloud Provider comme Google Cloud ? Peut-on facilement profiter de ces optimisations ?
+En retraçant le chemin du Cloud et en étudiant la FinOps Foundation, fondation fille de la Linux Foundation, découvre ce qui se cache derrière ce buzzword! 💸
+</em>
+<img src="TODO">
+</span>
+</details>
+
+30/02/2023	Conference	Nantes	Julien Landuré & Bodo Razakalalao	[GDG Cloud Nantes] Certification Study Group - Info Session // Session d’information	https://gdg.community.dev/events/details/google-gdg-cloud-nantes-presents-certification-study-group-info-session-session-dinformation/		Certification
+05/11/2023	Conference	Nantes	Julien Landuré	Introduction au FinOps avec Google Cloud		20	FinOps
+
+
+
 - _2023 Feb_ [Very Tech Trip](https://verytechtrip.com/programme) - 🇫🇷 Paris, France
 <span class="detail-tag">Speaker</span>
 <br><details><summary>Introduction to FinOps ☁️
@@ -221,7 +248,7 @@ Faisons un tour des petits plus de cette solution : nous y trouvons la majorité
 <img src="https://sfo2.digitaloceanspaces.com/advocu/gde/activity-photos/2022/08/03/059b2843-3fd3-4f2a-97da-d61b32a67f26.jpeg">
 </span>
 </details>
-- _2022 Mar_ [Best Of TZ](https://www.eventbrite.fr/e/billets-best-of-technozaure-2-par-et-pour-des-passionnes-de-tech-269021369157)
+- _2022 Mar_ [Zenika - Best Of TZ](https://www.eventbrite.fr/e/billets-best-of-technozaure-2-par-et-pour-des-passionnes-de-tech-269021369157)
 <span class="detail-tag">Remote</span>
 <span class="detail-tag">Speaker</span>
 <br><details><summary>Serverless with Google Cloud with [Éric Briand](https://twitter.com/eric_briand) / [Slides](https://speakerdeck.com/jlandure/serverless-with-google-cloud-at-best-of-tz)

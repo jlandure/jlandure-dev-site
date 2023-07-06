@@ -53,7 +53,7 @@
 
 - _2017 Aug 10_ [Créer son premier Playground sur Tech.io](blog/2017-08-10-creer-son-premier-playground-sur-tech-io.md)
 
-- _2017 May 30_ [Retour sur le Google I/O 2016](blog/2017-05-30-retour-sur-le-google-io-2017.md)
+- _2017 May 30_ [Retour sur le Google I/O 2017](blog/2017-05-30-retour-sur-le-google-io-2017.md)
 
 ## 2015
 

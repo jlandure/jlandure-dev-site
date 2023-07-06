@@ -1,9 +1,21 @@
+- *Google* - [Event of the Year Award | Community Mixer 2023 at Google I/O Connect Amsterdam]() for the GDG Nantes Team
+ <small>Issued Jun 2023</small>
+ > todo
+
+- *Google* - Nomination for the [Collaborative Effort Award | Community Mixer 2023 at Google I/O Connect Amsterdam]()
+ <small>Issued Jun 2023</small>
+ > todo
+
 - *Google Cloud* - [Partner All-star | Solutions Engineering and Delivery](https://www.linkedin.com/posts/jlandure_etonrecrute-cloud-partnerallstars-activity-7008005341560872960-mhQ9)
  <small>Issued Dec 2022</small>
  > Recognized for exceptional achievement in Solutions Engineering and Delivery, including delivering amazing end-to-end experiences for customers.
 
 - *Zenika Nantes* - [Les Z'Oscars | Meilleur Ambassadeur](https://drive.google.com/file/d/1f89Pq7A1U_pTl0Xom3A3zxBW_P34sXFx/view?usp=sharing)
  <small>Issued Apr 2022</small>
+
+- *Google* - [DevFest Award | Community Connect Europe 2021](https://www.linkedin.com/posts/jlandure_googledevcommunity-developer-community-activity-6874264827045392384-S5eb/) for the GDG Nantes Team
+ <small>Issued Dec 2021</small>
+ > We are continuously inspired by the work and impact of you and many other Google Developers community members.
 
 - *Google* - [Collaborative Effort Award | Community Connect Europe 2021](https://www.linkedin.com/posts/jlandure_googledevcommunity-developer-community-activity-6874264827045392384-S5eb/)
  <small>Issued Dec 2021</small>
