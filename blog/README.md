@@ -1,35 +1,44 @@
 # Blog
 
+## 2023
+
+- _2023 Jul 21_ [4️ Top Talks from Google I/O Connect 2023 Amsterdam](blog/2023-07-21-4️-top-talks-from-google-io-connect-2023-amsterdam.md) -- [Original](https://medium.com/googledeveloperseurope/4%EF%B8%8F-top-talks-from-google-i-o-connect-2023-amsterdam-53851e8682e)
+- _2023 Jul 10_ [Retour sur le Google I/O Connect 2023
+](blog/2023-07-10-retour-sur-le-google-i-o-connect-2023.md) -- [Original](https://medium.zenika.com/retour-sur-le-google-i-o-connect-2023-fr-2cb220346042)
+- _2023 Apr 18_ [Tendances IT 2023
+](blog/2023-04-18-tendances-it-2023.md) -- [Original](https://medium.com/zenika/tendances-it-2023-bf04a3924861)
+- _2023 Mar 08_ [🚀 Public Cloud & Move to Cloud 5️ stratégies possibles !](blog/2023-03-28-public-cloud-move-to-cloud-4-stratégies-possibles.md) -- [Original](https://medium.zenika.com/public-cloud-move-to-cloud-5%EF%B8%8F%E2%83%A3-strat%C3%A9gies-possibles-7b23086d5c20)
+
 ## 2022
 
 - _2022 Dec 16_ [Getting Started with DevFest
-](blog/2022-12-16-getting-started-with-devfest.md) [Original](https://medium.com/googledeveloperseurope/getting-started-with-devfest-7e30bdd29790)
+](blog/2022-12-16-getting-started-with-devfest.md) -- [Original](https://medium.com/googledeveloperseurope/getting-started-with-devfest-7e30bdd29790)
 
 ## 2021
 
-- _2021 Sep 28_ [Mentoring GDG Cloud Abidjan — a collaboration between Europe and Africa](blog/2021-09-28-mentoring-gdg-cloud-abidjan-a-collaboration-between-europe-and-africa.md) [Original](https://medium.com/googledeveloperseurope/mentoring-gdg-cloud-abidjan-a-collaboration-between-europe-and-africa-5966dfb5e4b6)
+- _2021 Sep 28_ [Mentoring GDG Cloud Abidjan — a collaboration between Europe and Africa](blog/2021-09-28-mentoring-gdg-cloud-abidjan-a-collaboration-between-europe-and-africa.md) -- [Original](https://medium.com/googledeveloperseurope/mentoring-gdg-cloud-abidjan-a-collaboration-between-europe-and-africa-5966dfb5e4b6)
 
-- _2021 Jul 21_ [CTO, GDG et le temps que je passe en 2021…](blog/2021-07-21-cto-gdg-et-le-temps-que-je-passe-en-2021.md)
+- _2021 Jul 21_ [CTO, GDG et le temps que je passe en 2021…](blog/2021-07-21-cto-gdg-et-le-temps-que-je-passe-en-2021.md) -- [Original](https://medium.zenika.com/cto-gdg-et-le-temps-que-je-passe-en-2021-f47bc3b89513)
 
 ## 2020
 
 - _2020 Oct 13_ [Zenika Skill Radar 2020](blog/2020-10-13-zenika-skill-radar-2020.md)
 
-- _2020 Aug 28_ [CTO, GDG et le temps que je passe en 2020…](blog/2020-08-28-cto-gdg-et-le-temps-que-je-passe-en-2020.md)
+- _2020 Aug 28_ [CTO, GDG et le temps que je passe en 2020…](blog/2020-08-28-cto-gdg-et-le-temps-que-je-passe-en-2020.md) -- [Original](https://medium.zenika.com/cto-gdg-et-le-temps-que-je-passe-en-2020-3accf70166b0)
 
-- _2020 Jun 09_ [⏱ 3 minutes to deploy your static Nuxt.js app on AppEngine](blog/2020-06-09-3-minutes-to-deploy-your-static-nuxt-js-app-on-appengine.md) [Original](https://dev.to/zenika/3-minutes-to-deploy-your-static-nuxt-js-app-on-appengine-2a2n)
+- _2020 Jun 09_ [⏱ 3 minutes to deploy your static Nuxt.js app on AppEngine](blog/2020-06-09-3-minutes-to-deploy-your-static-nuxt-js-app-on-appengine.md) -- [Original](https://dev.to/zenika/3-minutes-to-deploy-your-static-nuxt-js-app-on-appengine-2a2n)
 
-- _2020 May 26_ [Crafting the perfect container to play with a Headless Chrome](blog/2020-05-26-crafting-the-perfect-container-to-play-with-a-headless-chrome.md) [Original](https://medium.zenika.com/crafting-the-perfect-container-to-play-with-a-headless-chrome-d920ec2f3c9b)
+- _2020 May 26_ [Crafting the perfect container to play with a Headless Chrome](blog/2020-05-26-crafting-the-perfect-container-to-play-with-a-headless-chrome.md) -- [Original](https://medium.zenika.com/crafting-the-perfect-container-to-play-with-a-headless-chrome-d920ec2f3c9b)
 
-- _2020 Apr 14_ [State of Cloud Communities in France](blog/2020-04-14-state-of-cloud-communities-in-france.md) [Original](https://medium.zenika.com/2020-857c6d1d998d)
+- _2020 Apr 14_ [State of Cloud Communities in France](blog/2020-04-14-state-of-cloud-communities-in-france.md) -- [Original](https://medium.zenika.com/2020-857c6d1d998d)
 
-- _2020 Mar 17_ [Awesome Remote Work](blog/2020-03-17-awesome-remote-work.md) [Original](https://medium.zenika.com/awesome-remote-work-6b7e65e3876e)
+- _2020 Mar 17_ [Awesome Remote Work](blog/2020-03-17-awesome-remote-work.md) -- [Original](https://medium.zenika.com/awesome-remote-work-6b7e65e3876e)
 
 ## 2019
 
 - _2019 Oct 04_ [Retour sur le Firebase Summit 2019](blog/2019-10-04-retour-sur-le-firebase-summit-2019.md)
 
-- _2019 Aug 13_ [CTO, GDG et le temps que je passe en 2019…](blog/2019-08-13-cto-gdg-et-le-temps-que-je-passe-en-2019.md)
+- _2019 Aug 13_ [CTO, GDG et le temps que je passe en 2019…](blog/2019-08-13-cto-gdg-et-le-temps-que-je-passe-en-2019.md) -- [Original](https://medium.zenika.com/cto-gdg-et-le-temps-que-je-passe-en-2019-d638daef4d2a)
 
 - _2019 Aug 01_ [How to backup your Firestore data automatically](blog/2019-08-01-how-to-backup-your-firestore-data-automatically.md) [Original](https://dev.to/zenika/how-to-backup-your-firestore-data-automatically-48em)
 
