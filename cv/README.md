@@ -4,7 +4,19 @@
 
 ## [Speaker](../conference/) & [Trainer](../workshop/) & [Open Source contributor](../opensource/)
 
-## CTO • Zenika Nantes <small>(depuis Octobre 2012)</small>
+## Co-head of Cloud Practice • Zenika <small>(Janvier 2023)</small>
+
+- Co-head of Cloud Practice at Zenika.
+- Engineer Manager of Cloud Specialists at Zenika.
+- Google Cloud Partnership beginned in 2018 and continues! 🚀
+see https://links.zenika.com/link/gcloud-app-dev-spe
+- Official Trainer for Google Cloud
+
+## Group CTO • Zenika <small>(Janvier 2018 - décembre 2022)</small>
+- Participation au Comité de pilotage et Comité Exécutif
+- Définition des budgets et des initiatives à développer dans le Groupe
+
+## CTO • Zenika Nantes <small>(Octobre 2012 - décembre 2022)</small>
 - Veille technologique, définition du radar technologique Zenika
 - Animation des communautés (focus communauté Cloud)
 - Communication interne sur les projets, les partenariats, les missions stratégiques
@@ -125,6 +137,7 @@ navires.
 
 # Formation
 
+- Bootcamp « Manager » par Zenika <small>effectué en Janvier 2023</small> - 🇫🇷 Nantes, France (2j)
 - Bootcamp « Terraform » par Zenika <small>effectué en Mai 2022</small> - 🇫🇷 Nantes, France (1j) [GitHub](https://github.com/jlandure/speedtraining-terraform)
 - Bootcamp « GraphQL » par Zenika <small>effectué en Décembre 2021</small> - 🇫🇷 Nantes, France (1j) [GitHub](https://github.com/jlandure/speedtraining-graphql)
 - Bootcamp « Éco-conception de services numériques » par Zenika <small>effectué en Février 2021</small> - Remote (1j) 
