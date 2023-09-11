@@ -5,7 +5,7 @@
 - _2023 Aug 30_ [Google Cloud Next](https://cloud.withgoogle.com/next), San Francisco 🇺🇸
 <span class="detail-tag">Music</span>
 > LL COOL J with The Roots & DJ Z-Trip
-- _2014 Jun 24_ [[MLB] Atlanta Braves 5 - 8 San Francisco Giants](https://www.baseball-reference.com/boxes/SFN/SFN202308270.shtml), Oracle Park, San Francisco 🇺🇸
+- _2023 Jun 24_ [[MLB] Atlanta Braves 5 - 8 San Francisco Giants](https://www.baseball-reference.com/boxes/SFN/SFN202308270.shtml), Oracle Park, San Francisco 🇺🇸
 <span class="detail-tag">Sport</span>
 - _2023 Aug 25_ [[NFL] Los Angeles Chargers 23 - 12 San Francisco 49ers](https://www.espn.co.uk/nfl/game/_/gameId/401548510), Levi's Stadium, California 🇺🇸
 - _2023 Aug 13_ [FC Nantes 1 - 2 Toulouse](https://www.lequipe.fr/Football/match-direct/ligue-1/2023-2024/nantes-toulouse-live/594752), La Beaujoire, Nantes 🇫🇷
@@ -30,7 +30,7 @@
 - _2022 Oct 30_ [FC Nantes 1 - 1 Clermont](https://www.lequipe.fr/Football/match-direct/ligue-1/2022-2023/nantes-clermont-live/538526), La Beaujoire, Nantes 🇫🇷
 <span class="detail-tag">Sport</span>
 <span class="detail-tag">VIP</span>
-- _2022 Oct 27_ [[UEFA Europe League]FC Nantes 2 - 1 Qarabag](https://www.lequipe.fr/Football/match-direct/ligue-europa/2022-2023/nantes-karabagh-fc-live/554312), La Beaujoire, Nantes 🇫🇷
+- _2022 Oct 27_ [[UEFA Europe League] FC Nantes 2 - 1 Qarabag](https://www.lequipe.fr/Football/match-direct/ligue-europa/2022-2023/nantes-karabagh-fc-live/554312), La Beaujoire, Nantes 🇫🇷
 <span class="detail-tag">Sport</span>
 - _2022 Oct 16_ [FC Nantes 4 - 1 Brest](https://www.lequipe.fr/Football/match-direct/ligue-1/2022-2023/nantes-brest-live/538506), La Beaujoire, Nantes 🇫🇷
 <span class="detail-tag">Sport</span>
