@@ -2,6 +2,14 @@
 
 ## 2023
 
+- _2023 Aug 30_ [Google Cloud Next](https://cloud.withgoogle.com/next), San Francisco 🇺🇸
+<span class="detail-tag">Music</span>
+> LL COOL J with The Roots & DJ Z-Trip
+- _2014 Jun 24_ [[MLB] Atlanta Braves 5 - 8 San Francisco Giants](https://www.baseball-reference.com/boxes/SFN/SFN202308270.shtml), Oracle Park, San Francisco 🇺🇸
+<span class="detail-tag">Sport</span>
+- _2023 Aug 25_ [[NFL] Los Angeles Chargers 23 - 12 San Francisco 49ers](https://www.espn.co.uk/nfl/game/_/gameId/401548510), Levi's Stadium, California 🇺🇸
+- _2023 Aug 13_ [FC Nantes 1 - 2 Toulouse](https://www.lequipe.fr/Football/match-direct/ligue-1/2023-2024/nantes-toulouse-live/594752), La Beaujoire, Nantes 🇫🇷
+<span class="detail-tag">Sport</span>
 - _2023 Jun 29_ [Google Cloud Summit France](https://cloudonair.withgoogle.com/events/summit-france-2023), Maison de la Mutualité, Paris 🇫🇷 
 <span class="detail-tag">Music</span>
 > MB14, Hyphen Hyphen
@@ -87,6 +95,9 @@
 > KISS, Lynyrd Skynyrd, Sum 41, Les Wampas, Dropkick Murphys, The Interrupters, Le Bal des enragés, Ultra Vomit, Gojira, Mass Hysteria
 - _2019 Apr 17_ [FC Nantes 3 - 2 Paris SG](https://www.lequipe.fr/Football/match-direct/ligue-1/2018-2019/nantes-psg-live/428418), La Beaujoire, Nantes 🇫🇷
 <span class="detail-tag">Sport</span>
+- _2019 Apr 10_ [Google Cloud Next](https://cloud.withgoogle.com/next), San Francisco 🇺🇸
+<span class="detail-tag">Music</span>
+> Gwen Stefani
 - _2019 Feb 12_ [Corsaires de Nantes 2 - 3 Dogs de Cholet](https://nantes.maville.com/sport/detail_-hockey-sur-glace.-d1-les-corsaires-de-nantes-s-inclinent-face-a-cholet_52716-3647349_actu.Htm), Patinoire du Petit Port, Nantes 🇫🇷
 <span class="detail-tag">Sport</span>
 - _2019 Jan 13_ [FC Nantes 0 - 1 Rennes](https://www.lequipe.fr/Football/match-direct/ligue-1/2018-2019/nantes-rennes-live/428339), La Beaujoire, Nantes 🇫🇷
