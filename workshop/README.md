@@ -1,3 +1,6 @@
+- _2023 Nov_ Training GCP Security in Google Cloud 🇫🇷 - Remote (3d)
+<span class="detail-tag">Official Trainer</span>
+<br>Attendees: 24
 - _2023 Jun_ Training GCP Cloud Fundamentals: Core Infrastructure 🇫🇷 - Station F, Paris (1d)
 <span class="detail-tag">Official Trainer</span>
 <br>Attendees: 14

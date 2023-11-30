@@ -7,27 +7,64 @@
 <span class="detail-tag">Attendee</span>
 - _2023 Jun_ [Google I/O Connect 2023 & Community Mixer](https://rsvp.withgoogle.com/events/ioconnect-amsterdam) - 🇳🇱 Amsterdam, Netherlands
 <span class="detail-tag">Attendee</span>
+- _2023 May_ [Nuit des Meetups](https://www.lacantine.co/agenda/event/04-05-2023-dugtugnantesaudevfestnantes10ansdecommunautdedevs/)
+<span class="detail-tag">Remote</span>
+<span class="detail-tag">Meetup Speaker</span>
+<br><details><summary>Du GTUG Nantes au DevFest Nantes, 10 ans de communauté de devs with [Annabelle Koster](https://twitter.com/AnnabelleKoster) / [Slides](https://speakerdeck.com/jlandure/du-gtug-nantes-au-devfest-nantes-10-ans-de-communaute-de-devs-a3e35786-d797-485a-b123-7d59ffbc51b5)
+</summary>
+<span><em>
+Attendees: 30<br>
+Du GTUG Nantes au DevFest Nantes, 10 ans de communauté de devs
+D'une idée dans un bureau à la création d'un des événements phares de Nantes, nous vous retracerons les 10 ans du GDG Nantes avec les grandes étapes et les succès.
+
+Venez découvrir l'histoire du GDG Nantes en 30min: ses débuts, la motivation de la team d'orga mais aussi la gestion du DevFest Nantes passant de 150 à 2000 participants.
+Revenons sur l'histoire d'une communauté technique qui a su trouver sa place dans l'écosystème numérique de Nantes et d'ailleurs ! Bref, échangeons sur la recette d'une communauté qui fonctionne.
+
+On essaie de donner quelques astuces pour des organisateurs TECH de meetups et events. Bien évidemment en ajoutant quelques anecdotes... étonnantes 😅
+Nous avons monté le meetup et le DevFest from scratch avec une association loi 1901. C'est une forme d'entreprenariat où nous avons du au fur et à mesure construire une communauté, du réseau, un produit (le devfest) et nous avons du mettre en place une forme de recrutement, de gestion de projet dans un esprit fun et bienveillant.
+</em>
+<img src="https://sfo2.digitaloceanspaces.com/advocu/gde/activity-photos/2023/11/30/5801d4c5-90b1-43d3-8d49-0414394634a4.png">
+</span>
+</details>
 - _2023 May_ [Zenika - Best Of TZ](https://www.eventbrite.fr/e/billets-best-of-technozaure-4-par-et-pour-des-passionnes-de-tech-592457485287)
 <span class="detail-tag">Remote</span>
 <span class="detail-tag">Speaker</span>
 <br><details><summary>Introduction to FinOps with Google Cloud / [Slides](https://speakerdeck.com/jlandure/introduction-au-finops-avec-google-cloud) / [Video](https://www.youtube.com/watch?v=CKJ2JbhSqQs&list=PLdVDu8iO6zrMurVwGrFR23uw5OtGh4vFx&index=1)
 </summary>
 <span><em>
-Attendees: 15<br>
+Attendees: 20<br>
 "FinOps" est un nouveau mot-clé apparu courant 2020 qui ne cesse de prendre de l'ampleur sur Linkedin au côtés de "Cloud" ou "SRE".
 Mais c'est quoi le FinOps? (D'ailleurs, on dit peut-être la FinOps en 🇫🇷 😅 ?) Est-ce lié au fait que les devs peuvent tout déployer n'importe comment sans regarder le coût engendré ? Est-ce une nouvelle organisation dans l'entreprise ? Et toi, peux-tu devenir certifié "FinOps" ?
 Quelles sont les mécanismes disponibles en standard avec un Cloud Provider comme Google Cloud ? Peut-on facilement profiter de ces optimisations ?
 En retraçant le chemin du Cloud et en étudiant la FinOps Foundation, fondation fille de la Linux Foundation, découvre ce qui se cache derrière ce buzzword! 💸
 </em>
-<img src="TODO">
+<img src="https://sfo2.digitaloceanspaces.com/advocu/gde/activity-photos/2023/11/30/5801d4c5-90b1-43d3-8d49-0414394634a4.png">
 </span>
 </details>
-
-30/02/2023	Conference	Nantes	Julien Landuré & Bodo Razakalalao	[GDG Cloud Nantes] Certification Study Group - Info Session // Session d’information	https://gdg.community.dev/events/details/google-gdg-cloud-nantes-presents-certification-study-group-info-session-session-dinformation/		Certification
-05/11/2023	Conference	Nantes	Julien Landuré	Introduction au FinOps avec Google Cloud		20	FinOps
-
-
-
+- _2023 Apr_ [GDG Cloud Nantes - 6 weeks Certification Study Group](https://gdg.community.dev/events/details/google-gdg-cloud-nantes-presents-certification-study-group-road-to-certification-pca-2023-04-18/)
+<span class="detail-tag">Remote</span>
+<span class="detail-tag">Meetup Speaker</span>
+<br><details><summary>Certification Study Group - Road to certification PCA Week 1 to Week 6 / [Slides](https://speakerdeck.com/jlandure/certification-study-group-road-to-certification-pca-week1) / [Video](https://www.youtube.com/watch?v=Hz6ftEqxIXY)
+</summary>
+<span><em>
+Attendees: 85<br>
+🎓 Envie d'en savoir plus sur la plateforme GCP ? 💬 De profiter d'un accompagnement de 6 semaines vous apportant les connaissances pour tenter la certification Google Cloud Architect ? 📣 Nous vous proposons un "package" avec l'accès à une formation en ligne ainsi que 6 ateliers animés en commun par les GDGs francophones 🇫🇷
+</em>
+<img src="https://sfo2.digitaloceanspaces.com/advocu/gde/activity-photos/2023/11/30/609b7f7b-77d0-4d9f-b23c-651fd7f5b65b.png">
+</span>
+</details>
+- _2023 Mar_ [GDG Cloud Nantes](https://gdg.community.dev/events/details/google-gdg-cloud-nantes-presents-certification-study-group-info-session-session-dinformation/)
+<span class="detail-tag">Remote</span>
+<span class="detail-tag">Meetup Speaker</span>
+<br><details><summary>Certification Study Group - Info Session // Session d’information / [Slides](https://speakerdeck.com/jlandure/certification-study-group-session-dinformation-sur-les-certifications-google-cloud) / [Video](https://www.youtube.com/watch?v=lSE_iT2bO4g)
+</summary>
+<span><em>
+Attendees: 50<br>
+🎓 “Certification Study Group - Info session” est une session d’information sur les certifications Google Cloud et plus particulièrement le programme “Road to Certification” Professional Cloud Architect pour préparer sa certification en 6 semaines. Organisé par plusieurs GDGs ! 💚
+</em>
+<img src="https://sfo2.digitaloceanspaces.com/advocu/gde/activity-photos/2023/11/30/609b7f7b-77d0-4d9f-b23c-651fd7f5b65b.png">
+</span>
+</details>
 - _2023 Feb_ [Very Tech Trip](https://verytechtrip.com/programme) - 🇫🇷 Paris, France
 <span class="detail-tag">Speaker</span>
 <br><details><summary>Introduction to FinOps ☁️
