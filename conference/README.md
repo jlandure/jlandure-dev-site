@@ -1,6 +1,27 @@
 # Conference
 
 ## 2023
+
+- _2023 Sep_ [Cloud Alpes](https://cloudalpes.fr/speakers/julien-landure) - 🇫🇷 Lyon, France
+<span class="detail-tag">Speaker</span>
+<br><details><summary>Introduction au FinOps avec Google Cloud / [Slides](https://speakerdeck.com/jlandure/introduction-au-finops-avec-google-cloud-cloud-alpes)
+</summary>
+<span><em>
+Attendees: 60<br>
+https://x.com/jlandure/status/1699692453614297407
+https://x.com/dadideo/status/1699363052045373762?s=20
+https://x.com/TheBidouilleur/status/1699344114221818057?s=20
+"FinOps" est un nouveau mot-clé apparu courant 2020 qui ne cesse de prendre de l'ampleur sur Linkedin au côtés de "Cloud" ou "SRE".
+Mais c'est quoi le FinOps? (D'ailleurs, on dit peut-être la FinOps en 🇫🇷 😅 ?) Est-ce lié au fait que les devs peuvent tout déployer n'importe comment sans regarder le coût engendré ? Est-ce une nouvelle organisation dans l'entreprise ? Et toi, peux-tu devenir certifié "FinOps" ?
+Quelles sont les mécanismes disponibles en standard avec Google Cloud ? Peut-on facilement profiter de ces optimisations ?
+En retraçant le chemin du Cloud et en étudiant la FinOps Foundation, fondation fille de la Linux Foundation, découvre ce qui se cache derrière ce buzzword! 💸
+</em>
+<img src="https://sfo2.digitaloceanspaces.com/advocu/gde/activity-photos/2023/12/18/4f2b07e4-39b9-4c25-b6e3-9c9f68349c57.jpeg">
+</span>
+</details>
+- _2023 Aug_ [Google Cloud Next 2023](https://cloud.google.com/blog/topics/google-cloud-next/welcome-to-google-cloud-next-23) - 🇺🇸 San Francisco, CA, USA (3d) 
+<span class="detail-tag">Attendee</span>
+<br>[Blog "Retour sur Google Cloud Next 2023"](https://blog.zenika.com/2023/09/13/retour-sur-google-cloud-next-2023/)
 - _2023 Jun_ [Google Cloud Summit](https://cloudonair.withgoogle.com/events/summit-france-2023) - 🇫🇷 Paris, France
 <span class="detail-tag">Attendee</span>
 - _2023 Jun_ Google Cloud CTO Council - 🇫🇷 Paris, France
@@ -8,7 +29,6 @@
 - _2023 Jun_ [Google I/O Connect 2023 & Community Mixer](https://rsvp.withgoogle.com/events/ioconnect-amsterdam) - 🇳🇱 Amsterdam, Netherlands
 <span class="detail-tag">Attendee</span>
 - _2023 May_ [Nuit des Meetups](https://www.lacantine.co/agenda/event/04-05-2023-dugtugnantesaudevfestnantes10ansdecommunautdedevs/)
-<span class="detail-tag">Remote</span>
 <span class="detail-tag">Meetup Speaker</span>
 <br><details><summary>Du GTUG Nantes au DevFest Nantes, 10 ans de communauté de devs with [Annabelle Koster](https://twitter.com/AnnabelleKoster) / [Slides](https://speakerdeck.com/jlandure/du-gtug-nantes-au-devfest-nantes-10-ans-de-communaute-de-devs-a3e35786-d797-485a-b123-7d59ffbc51b5)
 </summary>
