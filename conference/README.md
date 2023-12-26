@@ -12,11 +12,7 @@
 <span><em>
 Attendees: 170<br>
 Proposé avec Zenika et joué avec Jimmy Kasprzak
-Plan :
-- AI
-- Green IT / GreenOps
-- Web
-- Cybersécu
+Plan: AI / Green IT & GreenOps / Web / Cybersécu
 </em>
 <img src="">
 </span>
