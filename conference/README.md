@@ -2,6 +2,80 @@
 
 ## 2023
 
+- _2023 Dec_ [Zenika](https://speakerdeck.com/jlandure/tendances-it-2023)
+<span class="detail-tag">Remote</span>
+<span class="detail-tag">Enterprise</span>
+<span class="detail-tag">Speaker</span>
+<br>Tendances IT with [Jimmy Kasprzack](https://www.linkedin.com/in/jimmy-kasprzak/) / [Slides](https://speakerdeck.com/jlandure/tendances-it-2023)
+<br><details><summary>
+</summary>
+<span><em>
+Attendees: 170<br>
+Proposé avec Zenika et joué avec Jimmy Kasprzak
+Plan :
+- AI
+- Green IT / GreenOps
+- Web
+- Cybersécu
+</em>
+<img src="">
+</span>
+</details>
+- _2023 Dec_ [](https://together.audencia.com/public/events/event/1607) - 🇫🇷 Nantes, France
+<span class="detail-tag">Speaker</span>
+<br>[Blog "Navigating the Multicultural World of Tech: 4 Key Leadership Lessons"](https://medium.com/@jlandure/navigating-the-multicultural-world-of-tech-4-key-leadership-lessons-6eb5ade82a57gde-)
+<br><details><summary>Roundtable "Career Development & Leadership in a Complex & Multicultural World"
+</summary>
+<span><em>
+Attendees: 50<br>
+https://www.linkedin.com/posts/jlandure_navigating-the-multicultural-world-of-tech-activity-7143172540901834752-VSnA
+</em>
+<img src="https://sfo2.digitaloceanspaces.com/advocu/gde/activity-photos/2023/12/26/7c6cacdc-d97d-48dc-b220-7d2a400d7b88.png">
+</span>
+</details>
+- _2023 Dec_ [OpenSource Experience](https://www.opensource-experience.com/programme/intervenants/) - 🇫🇷 Paris, France
+<span class="detail-tag">Speaker</span>
+<br><details><summary>👋 Bienvenue à la Green Software Foundation / [Slides](https://speakerdeck.com/jlandure/bienvenue-a-la-green-software-foundation-at-opensource-experience-paris)
+</summary>
+<span><em>
+Attendees: 60<br>
+https://twitter.com/jlandure/status/1730181791061807130
+Site web : https://www.opensource-experience.com/programme/intervenants/
+Nous parlons beaucoup de démarche d’éco-conception, de « sustainability » dans le monde Tech ces dernières années.
+Ça tombe bien, la « Green Software Foundation » est une des dernières fondations filles de la Linux Foundation.
+Fondé en 2021, cette fondation tente de réunir les acteurs de la Tech pour partager une vision commune et des actions déclinables.
+Qui y participe à cette initiative ? Y-a-t-il déjà des actions en cours ?
+Venez découvrir comment partager les bonnes pratiques autour de l’éco-conception grâce à la GSF.
+</em>
+<img src="https://sfo2.digitaloceanspaces.com/advocu/gde/activity-photos/2023/12/26/38aab02a-63cc-4e85-8a85-36c3e76d1d08.jpeg">
+</span>
+</details>
+- _2023 Dec_ [Station F](https://rsvp.withgoogle.com/events/gofurther-genai-breakfastlearn) - 🇫🇷 Paris, France
+<span class="detail-tag">Speaker</span>
+<br><details><summary>Gen AI Breakfast & Learn with [Florent Machen](https://www.linkedin.com/in/florentmachen/) / [Slides](https://speakerdeck.com/jlandure/generative-ai-on-google-cloud-at-station-f)
+</summary>
+<span><em>
+Attendees: 20<br>
+https://www.linkedin.com/posts/googleforstartups-france_intelligenceartificielle-activity-7138883309270360064-RLnL
+https://www.linkedin.com/posts/googleforstartups-france_comment-impl%C3%A9menter-des-cas-dusages-d-activity-7134828198172741632-THm1
+Venez découvrir des usecases GenAI au travers d'une présentation et surtout de démos.
+</em>
+<img src="https://sfo2.digitaloceanspaces.com/advocu/gde/activity-photos/2023/12/26/fc5d3c29-8c56-43d7-89aa-525501098789.png">
+</span>
+</details>
+- _2023 Oct_ [GDG Cloud Paris](https://gdg.community.dev/events/details/google-gdg-cloud-paris-presents-soiree-recap-next23-gke-enterprise-duet-ai/) - 🇫🇷 Paris, France
+<span class="detail-tag">Meetup Speaker</span>
+<br><details><summary>Recap "Cloud Next 2023"
+</summary>
+<span><em>
+Attendees: 60<br>
+https://twitter.com/gdgcloudparis/status/1710304064267817086
+Soirée exceptionnelle du GDG Cloud Paris dans les locaux de Google à Paris le 12 octobre à 18h30!
+Merci à Google de nous accueillir dans ses locaux et à Zenika de sponsoriser l'apéro.
+</em>
+<img src="https://sfo2.digitaloceanspaces.com/advocu/gde/activity-photos/2023/12/26/efa8b57e-a21c-4215-8969-ca2a7ad0bf2a.jpg">
+</span>
+</details>
 - _2023 Sep_ [GDG Cloud Nantes](https://gdg.community.dev/events/details/google-gdg-cloud-nantes-presents-next-recap-2023/) - 🇫🇷 Nantes, France
 <span class="detail-tag">Meetup Speaker</span>
 <br><details><summary>Recap "Cloud Next 2023" / [Slides](https://speakerdeck.com/jlandure/recap-cloud-next-2023-at-gdg-cloud-nantes) / [Video](https://www.youtube.com/watch?v=Fy9w-Gsfr-A)
@@ -41,7 +115,7 @@ D’une idée open source à l’adoption par une communauté, découvrons comme
 </details>
 - _2023 Sep_ [Cloud Alpes](https://cloudalpes.fr/speakers/julien-landure) - 🇫🇷 Lyon, France
 <span class="detail-tag">Speaker</span>
-<br><details><summary>Introduction au FinOps avec Google Cloud / [Slides](https://speakerdeck.com/jlandure/introduction-au-finops-avec-google-cloud-cloud-alpes)
+<br><details><summary>Introduction au FinOps avec Google Cloud / [Slides](https://speakerdeck.com/jlandure/introduction-au-finops-avec-google-cloud-cloud-alpes) / [Video](https://www.youtube.com/watch?v=UuTI2PKNP2I&list=PLdVDu8iO6zrMurVwGrFR23uw5OtGh4vFx&index=2)
 </summary>
 <span><em>
 Attendees: 60<br>
@@ -65,6 +139,7 @@ En retraçant le chemin du Cloud et en étudiant la FinOps Foundation, fondation
 <span class="detail-tag">Attendee</span>
 - _2023 Jun_ [Google I/O Connect 2023 & Community Mixer](https://rsvp.withgoogle.com/events/ioconnect-amsterdam) - 🇳🇱 Amsterdam, Netherlands
 <span class="detail-tag">Attendee</span>
+<br>[Blog "Retour sur le Google I/O Connect 2023"](https://medium.com/zenika/retour-sur-le-google-i-o-connect-2023-fr-2cb220346042)
 - _2023 May_ [Nuit des Meetups](https://www.lacantine.co/agenda/event/04-05-2023-dugtugnantesaudevfestnantes10ansdecommunautdedevs/) - 🇫🇷 Nantes, France
 <span class="detail-tag">Meetup Speaker</span>
 <br><details><summary>Du GTUG Nantes au DevFest Nantes, 10 ans de communauté de devs with [Annabelle Koster](https://twitter.com/AnnabelleKoster) / [Slides](https://speakerdeck.com/jlandure/du-gtug-nantes-au-devfest-nantes-10-ans-de-communaute-de-devs-a3e35786-d797-485a-b123-7d59ffbc51b5)
@@ -79,6 +154,19 @@ On essaie de donner quelques astuces pour des organisateurs TECH de meetups et e
 Nous avons monté le meetup et le DevFest from scratch avec une association loi 1901. C'est une forme d'entreprenariat où nous avons du au fur et à mesure construire une communauté, du réseau, un produit (le devfest) et nous avons du mettre en place une forme de recrutement, de gestion de projet dans un esprit fun et bienveillant.
 </em>
 <img src="https://sfo2.digitaloceanspaces.com/advocu/gde/activity-photos/2023/11/30/5801d4c5-90b1-43d3-8d49-0414394634a4.png">
+</span>
+</details>
+- _2023 May_ [Zenika](https://speakerdeck.com/jlandure/tendances-it)
+<span class="detail-tag">Remote</span>
+<span class="detail-tag">Enterprise</span>
+<span class="detail-tag">Speaker</span>
+<br><details><summary>Tendances IT with [Antoine Bonneau](https://twitter.com/CallMeGoodWater) / [Slides](https://speakerdeck.com/jlandure/tendances-it)
+</summary>
+<span><em>
+Attendees: 15<br>
+Quelles sont les grandes tendances IT en 2022 ?
+Parcourrons les sujets du moment autour de 6 thématiques : le recrutement, le no-code, la data & l'IA, le Web3, le Cloud & Devops et Developer Experience !
+</em>
 </span>
 </details>
 - _2023 May_ [Zenika - Best Of TZ](https://www.eventbrite.fr/e/billets-best-of-technozaure-4-par-et-pour-des-passionnes-de-tech-592457485287)
@@ -106,6 +194,20 @@ Attendees: 85<br>
 🎓 Envie d'en savoir plus sur la plateforme GCP ? 💬 De profiter d'un accompagnement de 6 semaines vous apportant les connaissances pour tenter la certification Google Cloud Architect ? 📣 Nous vous proposons un "package" avec l'accès à une formation en ligne ainsi que 6 ateliers animés en commun par les GDGs francophones 🇫🇷
 </em>
 <img src="https://sfo2.digitaloceanspaces.com/advocu/gde/activity-photos/2023/11/30/609b7f7b-77d0-4d9f-b23c-651fd7f5b65b.png">
+</span>
+</details>
+- _2023 Apr_ [Zenika](https://speakerdeck.com/jlandure/tendances-it)
+<span class="detail-tag">Remote</span>
+<span class="detail-tag">Enterprise</span>
+<span class="detail-tag">Speaker</span>
+<br><details><summary>Tendances IT with [Antoine Bonneau](https://twitter.com/CallMeGoodWater) / [Slides](https://speakerdeck.com/jlandure/tendances-it)
+</summary>
+<span><em>
+Attendees: 100<br>
+Quelles sont les grandes tendances IT en 2022 ?
+Parcourrons les sujets du moment autour de 6 thématiques : le recrutement, le no-code, la data & l'IA, le Web3, le Cloud & Devops et Developer Experience !
+</em>
+<img src="https://sfo2.digitaloceanspaces.com/advocu/gde/activity-photos/2023/12/26/d66b0b0e-b9ce-4f62-ac27-ba2fa45e0070.png">
 </span>
 </details>
 - _2023 Mar_ [GDG Cloud Nantes](https://gdg.community.dev/events/details/google-gdg-cloud-nantes-presents-certification-study-group-info-session-session-dinformation/)
