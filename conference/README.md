@@ -21,7 +21,7 @@ Plan :
 <img src="">
 </span>
 </details>
-- _2023 Dec_ [](https://together.audencia.com/public/events/event/1607) - 🇫🇷 Nantes, France
+- _2023 Dec_ [Audiencia MBA Community Day](https://together.audencia.com/public/events/event/1607) - 🇫🇷 Nantes, France
 <span class="detail-tag">Speaker</span>
 <br>[Blog "Navigating the Multicultural World of Tech: 4 Key Leadership Lessons"](https://medium.com/@jlandure/navigating-the-multicultural-world-of-tech-4-key-leadership-lessons-6eb5ade82a57gde-)
 <br><details><summary>Roundtable "Career Development & Leadership in a Complex & Multicultural World"
@@ -63,6 +63,8 @@ Venez découvrir des usecases GenAI au travers d'une présentation et surtout de
 <img src="https://sfo2.digitaloceanspaces.com/advocu/gde/activity-photos/2023/12/26/fc5d3c29-8c56-43d7-89aa-525501098789.png">
 </span>
 </details>
+- _2023 Nov_ [AWS Tour Nantes](https://aws.amazon.com/fr/events/tour-du-cloud-2023/) - 🇫🇷 Nantes, France
+<span class="detail-tag">Attendee</span>
 - _2023 Oct_ [GDG Cloud Paris](https://gdg.community.dev/events/details/google-gdg-cloud-paris-presents-soiree-recap-next23-gke-enterprise-duet-ai/) - 🇫🇷 Paris, France
 <span class="detail-tag">Meetup Speaker</span>
 <br><details><summary>Recap "Cloud Next 2023"
