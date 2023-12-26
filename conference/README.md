@@ -2,6 +2,43 @@
 
 ## 2023
 
+- _2023 Sep_ [GDG Cloud Nantes](https://gdg.community.dev/events/details/google-gdg-cloud-nantes-presents-next-recap-2023/) - 🇫🇷 Nantes, France
+<span class="detail-tag">Meetup Speaker</span>
+<br><details><summary>Recap "Cloud Next 2023" / [Slides](https://speakerdeck.com/jlandure/recap-cloud-next-2023-at-gdg-cloud-nantes) / [Video](https://www.youtube.com/watch?v=Fy9w-Gsfr-A)
+</summary>
+<span><em>
+Attendees: 20<br>
+https://twitter.com/gdgnantes/status/1701156851344167089
+https://twitter.com/gdgnantes/status/1704195468454920389
+👋 Venez découvrir les dernières nouveautés du Cloud de Google durant cette soirée dédiée à l'événement Cloud Next de San Francisco. 🚀☁️
+Cet événement a plusieurs objectifs :
+• découvrir les dernières tendances et nouveautés Cloud
+• échanger sur ces technos et créer une communauté Cloud locale
+• promouvoir et donner accès à des codelabs
+• échanger sur les certifications
+• montrer quelques démos !
+• avoir un retour de plusieurs personnes qui étaient physiquement là-bas
+Co-organisé avec le meetup GDG Nantes 🙌
+</em>
+<img src="https://sfo2.digitaloceanspaces.com/advocu/gde/activity-photos/2023/12/26/3b1d4836-e00e-4d25-a3c3-6121f57ae476.jpeg">
+</span>
+</details>
+- _2023 Sep_ [Cloud Sud](https://cloudsud.fr/) 
+<span class="detail-tag">Remote</span>
+<span class="detail-tag">Speaker</span>
+<br><details><summary>Cloud, OpenSource and Community / [Slides](https://speakerdeck.com/jlandure/cloud-opensource-and-community-at-cloud-sud)
+</summary>
+<span><em>
+Attendees: 20<br>
+https://twitter.com/jlandure/status/1701929993415094323
+Étudions comment les cloud providers font et utilisent l’open source pour mieux comprendre l’aventure du Cloud et le lien avec la CNCF.
+La Cloud Native Computing Foundation (CNCF) sert d’accueil à beaucoup de projets majeurs aujourd'hui comme Kubernetes ou Prometheus. Comment la fondation fonctionne ? Quel est le lien avec les Cloud Providers ?
+En se basant sur de cas d’usage et d’histoire avec les Cloud Providers, nous discuterons de l’open source et des liens avec la communauté.
+D’une idée open source à l’adoption par une communauté, découvrons comment concevoir une stratégie Cloud pour réussir votre transformation.
+</em>
+<img src="https://sfo2.digitaloceanspaces.com/advocu/gde/activity-photos/2023/12/26/a67e4219-1068-4684-9dcf-4848bf6e0898.jpeg">
+</span>
+</details>
 - _2023 Sep_ [Cloud Alpes](https://cloudalpes.fr/speakers/julien-landure) - 🇫🇷 Lyon, France
 <span class="detail-tag">Speaker</span>
 <br><details><summary>Introduction au FinOps avec Google Cloud / [Slides](https://speakerdeck.com/jlandure/introduction-au-finops-avec-google-cloud-cloud-alpes)
@@ -16,7 +53,7 @@ Mais c'est quoi le FinOps? (D'ailleurs, on dit peut-être la FinOps en 🇫🇷 
 Quelles sont les mécanismes disponibles en standard avec Google Cloud ? Peut-on facilement profiter de ces optimisations ?
 En retraçant le chemin du Cloud et en étudiant la FinOps Foundation, fondation fille de la Linux Foundation, découvre ce qui se cache derrière ce buzzword! 💸
 </em>
-<img src="https://sfo2.digitaloceanspaces.com/advocu/gde/activity-photos/2023/12/18/4f2b07e4-39b9-4c25-b6e3-9c9f68349c57.jpeg">
+<img src="https://sfo2.digitaloceanspaces.com/advocu/gde/activity-photos/2023/12/26/6d56d3a8-f3fa-4eb4-a9bd-9755e407d542.jpeg">
 </span>
 </details>
 - _2023 Aug_ [Google Cloud Next 2023](https://cloud.google.com/blog/topics/google-cloud-next/welcome-to-google-cloud-next-23) - 🇺🇸 San Francisco, CA, USA (3d) 
@@ -28,7 +65,7 @@ En retraçant le chemin du Cloud et en étudiant la FinOps Foundation, fondation
 <span class="detail-tag">Attendee</span>
 - _2023 Jun_ [Google I/O Connect 2023 & Community Mixer](https://rsvp.withgoogle.com/events/ioconnect-amsterdam) - 🇳🇱 Amsterdam, Netherlands
 <span class="detail-tag">Attendee</span>
-- _2023 May_ [Nuit des Meetups](https://www.lacantine.co/agenda/event/04-05-2023-dugtugnantesaudevfestnantes10ansdecommunautdedevs/)
+- _2023 May_ [Nuit des Meetups](https://www.lacantine.co/agenda/event/04-05-2023-dugtugnantesaudevfestnantes10ansdecommunautdedevs/) - 🇫🇷 Nantes, France
 <span class="detail-tag">Meetup Speaker</span>
 <br><details><summary>Du GTUG Nantes au DevFest Nantes, 10 ans de communauté de devs with [Annabelle Koster](https://twitter.com/AnnabelleKoster) / [Slides](https://speakerdeck.com/jlandure/du-gtug-nantes-au-devfest-nantes-10-ans-de-communaute-de-devs-a3e35786-d797-485a-b123-7d59ffbc51b5)
 </summary>
