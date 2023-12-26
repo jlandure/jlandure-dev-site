@@ -27,6 +27,7 @@
 - 💬 Organizer and speaker as a volunteer in different tech Communities
 - ⚽ Football (soccer)
   - Currently playing at [U.A. STE GENERALE (Foot Entreprise)](https://foot44.fff.fr/recherche-clubs/?scl=27776) _since 2008_
+  - Currently coaching at [GFSL - Groupement Féminin Sud Loire](https://www.gfsudloire.com/) _since 2023_
   - Supports 🔵⚪🔴 France - Nation 🌐 / 🟡🟢 Nantes - Ligue 1 🇫🇷 / 🔴 Liverpool  - Premier league 🏴󠁧󠁢󠁥󠁮󠁧󠁿
 - ✈️ Travel
 

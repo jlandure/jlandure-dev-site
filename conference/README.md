@@ -6,8 +6,7 @@
 <span class="detail-tag">Remote</span>
 <span class="detail-tag">Enterprise</span>
 <span class="detail-tag">Speaker</span>
-<br>Tendances IT with [Jimmy Kasprzack](https://www.linkedin.com/in/jimmy-kasprzak/) / [Slides](https://speakerdeck.com/jlandure/tendances-it-2023)
-<br><details><summary>
+<br><details><summary>Tendances IT with [Jimmy Kasprzack](https://www.linkedin.com/in/jimmy-kasprzak/) / [Slides](https://speakerdeck.com/jlandure/tendances-it-2023)
 </summary>
 <span><em>
 Attendees: 170<br>
