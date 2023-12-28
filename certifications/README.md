@@ -1,3 +1,5 @@
+- *Google Cloud* - [Professional Cloud Security Engineer](https://google.accredible.com/6de2dca0-67d3-44ca-b30c-d7342c374178)
+ <small>Issued Dec 2023</small>
 - *Google Cloud* - [Professional Cloud DevOps Engineer](https://google.accredible.com/d86ebfcb-05cd-4897-8965-04c6870b15c7)
  <small>Issued Jun 2023</small>
  - *Google Cloud* - [Professional Cloud Developer](https://google.accredible.com/6e302930-0ef8-43d7-a049-205d61171553)
