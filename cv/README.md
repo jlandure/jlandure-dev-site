@@ -4,12 +4,19 @@
 
 ## [Speaker](../conference/) & [Trainer](../workshop/) & [Open Source contributor](../opensource/)
 
-## Co-head of Cloud Practice • Zenika <small>(Janvier 2023)</small>
+## Cloud Engineering Manager • Zenika <small>(Janvier 2023)</small>
 
-- Co-head of Cloud Practice at Zenika.
-- Engineer Manager of Cloud Specialists at Zenika.
-- Google Cloud Partnership beginned in 2018 and continues! 🚀
-see https://links.zenika.com/link/gcloud-app-dev-spe
+- Co-head of Cloud Practice at Zenika
+- Engineer Manager of 10 Cloud Specialists in the Cloud practice (strong focus Google Cloud, opening on AWS)
+- Facilitator of 150 people interested in the Cloud practice at Zenika (Slack, office hours, upskilling)
+- Monitor technological trends and share them internally and externally
+- Help developers and consultant to deliver audit and benchmarks and go to market actions like pre-Sales meeting
+- Recruit actively (~25 interviews per year) | Performance reviews and salary raise
+- Grow the partnership to meet the “Premier Partner” requirements
+- Get a award from Google Cloud : Solutions Engineering and Delivery
+- Google Cloud : Wrote Customer Success Stories and applied Specialization | get a “DevOps award” with Decathlon
+- Create internal “Road to Certification” initiatives to go from 2 certified people in 2018 to 50 people in 2023
+- Selection of conferences to sponsor and support people to speak (Google Cloud Next, Google Cloud Paris Summit)
 - Official Trainer for Google Cloud
 
 ## Group CTO • Zenika <small>(Janvier 2018 - décembre 2022)</small>

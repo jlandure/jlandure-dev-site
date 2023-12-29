@@ -1,10 +1,8 @@
 - *Google* - [Event of the Year Award | Community Mixer 2023 at Google I/O Connect Amsterdam]() for the GDG Nantes Team
  <small>Issued Jun 2023</small>
- > todo
 
 - *Google* - Nomination for the [Collaborative Effort Award | Community Mixer 2023 at Google I/O Connect Amsterdam]()
  <small>Issued Jun 2023</small>
- > todo
 
 - *Google Cloud* - [Partner All-star | Solutions Engineering and Delivery](https://www.linkedin.com/posts/jlandure_etonrecrute-cloud-partnerallstars-activity-7008005341560872960-mhQ9)
  <small>Issued Dec 2022</small>

@@ -4,6 +4,6 @@
 > Member of the Technical Advisory Board at Skills Matter _since Jan 2011_<br>
 > Google Cloud Official Trainer _since Feb 2021_<br>
 > Google Cloud Professional 5x certified<br>
-> 15+ years of experience<br>
+> 18+ years of experience<br>
 > Gallup Strengths : Strategic, Relator, Futuristic, Individualization, Communication<br>
 > https://jlandure.dev
