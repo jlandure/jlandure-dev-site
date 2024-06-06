@@ -41,6 +41,7 @@
 - 📝 [Zenika blog](https://blog.zenika.com/author/jlandure2/)
 - 📣 [Speakerdeck](https://speakerdeck.com/jlandure)
 - 📺 [Youtube](https://www.youtube.com/playlist?list=PLdVDu8iO6zrMurVwGrFR23uw5OtGh4vFx)
+- 🏅 [Credly](https://www.credly.com/users/jlandure/)
 - ☁️ [Google Dev Expert profile](https://developers.google.com/community/experts/directory/profile/profile-julien-landure)
 - ☁️ [Google Cloud Certified profile](https://googlecloudcertified.credential.net/profile/23cbb12250b56e515cdb93d9094fe1ef49f58a66)
 - ☁️ [Google Cloud Innovator profile](https://cloud.google.com/innovators/innovator?profileId=100299809483477367723)
