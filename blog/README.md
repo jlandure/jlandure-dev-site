@@ -1,5 +1,10 @@
 # Blog
 
+## 2024
+
+- _2024 Mar 25_ [Clean Cloud, Green Product: optimize your carbon footprint today](blog/2024-03-25-clean-cloud-green-product-optimize-your-carbon-footprint-today.md) -- [Original](https://medium.com/googledeveloperseurope/clean-cloud-green-product-optimize-your-carbon-footprint-today-0a302baba8d7)
+- _2024 Mar 05_ [Google Cloud Next 2024: new location, new guide](blog/2024-03-05-google-cloud-next-2024-new-location-new-guide.md) -- [Original](https://medium.com/googledeveloperseurope/google-cloud-next-2024-new-location-new-guide-ec6e7fc9ead3)
+
 ## 2023
 
 - _2023 Jul 21_ [4️ Top Talks from Google I/O Connect 2023 Amsterdam](blog/2023-07-21-4️-top-talks-from-google-io-connect-2023-amsterdam.md) -- [Original](https://medium.com/googledeveloperseurope/4%EF%B8%8F-top-talks-from-google-i-o-connect-2023-amsterdam-53851e8682e)

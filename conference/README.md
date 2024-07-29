@@ -1,5 +1,132 @@
 # Conference
 
+## 2024
+
+- _2024 Jun_ [DevQuest Opening Keynote](https://www.devquest.fr/sessions/level-up-ta-conf-12-ans-daventure-au-devfest-nantes) - 🇫🇷 Niort, France
+<span class="detail-tag">Speaker</span>
+<br><details><summary>Level up ta conf : 12 ans d'aventure au DevFest Nantes with [Annabelle Koster](https://www.linkedin.com/in/annabelle-koster/) / [Slides](https://speakerdeck.com/jlandure/level-up-ta-conf-12-ans-daventure-au-devfest-nantes-at-devquest) / [Video](https://www.youtube.com/watch?v=BIbCacNYObQ&list=PLdVDu8iO6zrMurVwGrFR23uw5OtGh4vFx)
+</summary>
+<span><em>
+Attendees: 400<br>
+Twitter: https://x.com/DevQuestNiort/status/1801502335945904634
+https://x.com/klf37/status/1801527318717899080
+Linkedin: https://www.linkedin.com/posts/jlandure_keynote-commutech-conference-activity-7208400536646103040-uUHl
+https://www.linkedin.com/posts/jlandure_devquest-activity-7205830927686451200-p0oB
+https://www.linkedin.com/posts/annabelle-koster_ma-premi%C3%A8re-keynote-douverture-vendredi-activity-7209126342368337920-Jw-f
+Préparez-vous à plonger dans une quête remplie de défis et de récompenses retraçant l’histoire légendaire du DevFest Nantes !
+À chaque niveau, vous gagnerez de l’XP et débloquerez des compétences clés en matière d’organisation de conférence.
+Mais attention, le chemin sera semé d’embûches ! Seuls les personnages les plus courageux et les plus déterminés parviendront à organiser un événement inoubliable.
+Ensemble, étudions les ingrédients magiques qui permettront de faire grandir votre communauté.
+Alors, êtes-vous prêts à relever le défi ?
+</em>
+<img src="https://storage.googleapis.com/advocu-app/images/6597d5c3b52eaef4e46a602e/activity-images/9043da39-979b-4ed5-98f4-045dfdc2039d">
+</span>
+</details>
+- _2024 Jun_ [GDG Cloud Nantes](https://gdg.community.dev/events/details/google-gdg-cloud-nantes-presents-soiree-speciale-10-ans-de-kubernetes/) - 🇫🇷 Nantes, France
+<span class="detail-tag">Speaker</span>
+<br><details><summary>Soirée spéciale 10 ans de Kubernetes
+</summary>
+<span><em>
+Attendees: 30<br>
+Linkedin: https://www.linkedin.com/posts/jlandure_gdgcloudnantes-zenika-kubertenes-activity-7204427914669359104-TlDV
+https://www.linkedin.com/posts/jlandure_kubernetes-kubertenes-activity-7204075187086966784-6ccQ
+https://www.linkedin.com/posts/zenika_venez-f%C3%AAter-les-10-ans-de-kubernetes-autour-activity-7203308075322109953-7flu
+https://www.linkedin.com/posts/jlandure_kubernetes-activity-7201909356630560768-4i02
+Venez (re) découvrir K8S avec 2 workshops et tentez de remporter un cadeau spécial K8S lors d'un Kahoot : un sac à dos "K8S turns 10"
+</em>
+<img src="https://storage.googleapis.com/advocu-app/images/6597d5c3b52eaef4e46a602e/activity-images/b9de1056-3fae-4297-9a70-79767267fe3f">
+</span>
+</details>
+- _2024 May_ [Zenika](https://speakerdeck.com/jlandure/whats-new-in-cloud-development-environments-conference) - 🇫🇷 Nantes, France
+<span class="detail-tag">Enterprise</span>
+<span class="detail-tag">Speaker</span>
+<br><details><summary>What’s new in cloud development environments? with [Jean-Philippe Baconnais](https://www.linkedin.com/in/jean-philippe-baconnais-931544116/) / [Slides](https://speakerdeck.com/jlandure/whats-new-in-cloud-development-environments-conference)
+</summary>
+<span><em>
+Attendees: 50<br>
+Proposé avec Zenika et joué avec Jean-Philippe Baconnais
+</em>
+<img src="https://storage.googleapis.com/advocu-app/images/6597d5c3b52eaef4e46a602e/activity-images/01e25ffd-2882-4d9f-a745-2fb2cd6a5287">
+</span>
+</details>
+- _2024 May_ [Zenika](https://speakerdeck.com/jlandure/recap-next-2024-at-gdg-toulouse-and-gdg-cloud-nantes) - 🇫🇷 Nantes, France
+<span class="detail-tag">Enterprise</span>
+<span class="detail-tag">Speaker</span>
+<br><details><summary>Recap Cloud Next 2024 / [Slides](https://speakerdeck.com/jlandure/recap-next-2024-at-gdg-toulouse-and-gdg-cloud-nantes)
+</summary>
+<span><em>
+Attendees: 100<br>
+Proposé avec Zenika
+</em>
+<img src="https://storage.googleapis.com/advocu-app/images/6597d5c3b52eaef4e46a602e/activity-images/9442e497-d0a2-4c1a-87f5-640b1db345cd">
+</span>
+</details>
+- _2023 May_ [Google Cloud Summit](https://cloudonair.withgoogle.com/events/summit-france-2024) - 🇫🇷 Paris, France
+<span class="detail-tag">Attendee</span>
+- _2024 Apr_ [GDG Cloud Nantes](https://gdg.community.dev/events/details/google-gdg-cloud-nantes-presents-recap-next-2024/) - 🇫🇷 Nantes, France
+<span class="detail-tag">Meetup Speaker</span>
+<br><details><summary>Recap Next 2024 / [Slides](https://speakerdeck.com/jlandure/recap-next-2024-at-gdg-toulouse-and-gdg-cloud-nantes) / [Video](https://www.youtube.com/watch?v=wg27XXraM5I&list=PLdVDu8iO6zrMurVwGrFR23uw5OtGh4vFx&index=3)
+</summary>
+<span><em>
+Attendees: 10<br>
+https://www.linkedin.com/posts/gdg-nantes_rendez-vous-jeudi-prochain-pour-un-r%C3%A9cap-activity-7187100199029219328-pCCX
+👋 Venez découvrir les dernières nouveautés du Cloud de Google durant cette soirée dédiée à l'événement Cloud Next de Las Vegas. 🚀☁️
+</em>
+<img src="https://storage.googleapis.com/advocu-app/images/6597d5c3b52eaef4e46a602e/activity-images/79c4c835-3d4b-4cdc-801c-b0cbd06902ca">
+</span>
+</details>
+- _2024 Apr_ [GDG Toulouse](https://gdg.community.dev/events/details/google-gdg-toulouse-presents-meet-up-100-cloud/) - 🇫🇷 Toulouse, France
+<span class="detail-tag">Meetup Speaker</span>
+<br><details><summary>Meet up 100% Cloud / [Slides](https://speakerdeck.com/jlandure/recap-next-2024-at-gdg-toulouse-and-gdg-cloud-nantes) / [Video](https://youtu.be/gSNtMM61Y_k?si=nh28fqpZHBXC1J3R&t=436)
+</summary>
+<span><em>
+Attendees: 50<br>
+https://www.linkedin.com/posts/jlandure_cloud-activity-7188116278279053312-2c4h
+👋 Venez découvrir les dernières nouveautés du Cloud de Google durant cette soirée dédiée à l'événement Cloud Next de Las Vegas. 🚀☁️
+</em>
+<img src="https://storage.googleapis.com/advocu-app/images/6597d5c3b52eaef4e46a602e/activity-images/53ee9984-48fb-423f-b359-e04063f097a5">
+</span>
+</details>
+- _2024 Apr_ [Google Cloud Next 2024](https://cloud.google.com/blog/topics/google-cloud-next/welcome-to-google-cloud-next-23) - 🇺🇸 Las Vegas, NV, USA (3d) 
+<span class="detail-tag">Attendee</span>
+<br>[Blog "Retour sur Google Cloud Next 2024"](https://blog.zenika.com/2024/04/23/retour-sur-google-cloud-next-2024/)
+- _2024 Apr_ [AWS Summit France + AWS Partner Summit Paris 2024](https://www.linkedin.com/posts/jlandure_aws-codetheworld-awssummit-activity-7181274487101779969-BWMW) - 🇫🇷 Paris, France
+<span class="detail-tag">Attendee</span>
+- _2024 Mar_ [Zenika](https://www.meetup.com/nightclazz-by-zenika-nantes/events/299291152/) - 🇫🇷 Nantes, France
+<span class="detail-tag">Meetup Speaker</span>
+<br><details><summary>👋 Bienvenue à la Green Software Foundation / [Slides](https://speakerdeck.com/jlandure/bienvenue-a-la-green-software-foundation-at-nightclazz-zenika-nantes) / [Video](https://www.youtube.com/watch?v=qc3ggDyrUTQ&list=PLdVDu8iO6zrMurVwGrFR23uw5OtGh4vFx&index=4&t=2310s)
+</summary>
+<span><em>
+Attendees: 25<br>
+https://www.linkedin.com/posts/zenika_zenika-codetheworld-greenit-activity-7166748564759523328-mqsa
+Nous parlons beaucoup de démarche d’éco-conception, de « sustainability » dans le monde Tech ces dernières années.
+Ça tombe bien, la « Green Software Foundation » est une des dernières fondations filles de la Linux Foundation.
+Fondé en 2021, cette fondation tente de réunir les acteurs de la Tech pour partager une vision commune et des actions déclinables.
+Qui y participe à cette initiative ? Y-a-t-il déjà des actions en cours ?
+Venez découvrir comment partager les bonnes pratiques autour de l’éco-conception grâce à la GSF.
+</em>
+<img src="https://storage.googleapis.com/advocu-app/images/6597d5c3b52eaef4e46a602e/activity-images/323c99ff-47b3-4e2f-ae51-9c8a15f835f7">
+</span>
+</details>
+- _2024 Feb_ [Station F](https://www.opensource-experience.com/programme/intervenants/) - 🇫🇷 Paris, France
+<span class="detail-tag">Speaker</span>
+<br><details><summary>Introduction au FinOps avec Google Cloud @ Station F / [Slides](https://speakerdeck.com/jlandure/introduction-au-finops-avec-google-cloud-at-station-f)
+</summary>
+<span><em>
+Attendees: 9<br>
+Communication:
+https://www.linkedin.com/posts/googleforstartups-france_finops-activity-7166061839250886658-DS4T
+https://www.linkedin.com/posts/zenika_finops-zenika-codetheworld-activity-7166371453364342785-LU-p
+https://www.linkedin.com/posts/jlandure_finops-tech-activity-7169275570621517825-RIFE
+Comment assurer une croissance durable de vos coûts Cloud ?
+"FinOps" est un nouveau mot-clé apparu courant 2020 qui ne cesse de prendre de l'ampleur sur Linkedin au côtés de "Cloud" ou "SRE".
+Mais c'est quoi le FinOps? (D'ailleurs, on dit peut-être la FinOps en 🇫🇷 😅 ?) Est-ce lié au fait que les devs peuvent tout déployer n'importe comment sans regarder le coût engendré ? Est-ce une nouvelle organisation dans l'entreprise ? Et toi, peux-tu devenir certifié "FinOps" ? Quelles sont les mécanismes disponibles en standard avec Google Cloud ? Peut-on facilement profiter de ces optimisations ?
+En retraçant le chemin du Cloud et en étudiant la FinOps Foundation, fondation fille de la Linux Foundation, découvre ce qui se cache derrière ce buzzword! 💸
+</em>
+<img src="https://storage.googleapis.com/advocu-app/images/6597d5c3b52eaef4e46a602e/activity-images/a8f26d09-cabf-4cba-95b0-242ae1803b38">
+</span>
+</details>
+
 ## 2023
 
 - _2023 Dec_ [Zenika](https://speakerdeck.com/jlandure/tendances-it-2023)

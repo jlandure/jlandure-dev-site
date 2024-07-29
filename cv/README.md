@@ -4,20 +4,36 @@
 
 ## [Speaker](../conference/) & [Trainer](../workshop/) & [Open Source contributor](../opensource/)
 
+## Associate • Zenika <small>(Février 2022)</small>
+- Participation au Comité de pilotage et Comité Exécutif
+
 ## Cloud Engineering Manager • Zenika <small>(Janvier 2023)</small>
 
-- Co-head of Cloud Practice at Zenika
+- Head of Cloud Practice at Zenika
+  - 🎯 from 0 to 2.5M Influenced Revenue on Google Cloud in 5y / 50% yoy
+  - 🇨🇦 creation of the Google Cloud partnership in Canada
 - Engineer Manager of 10 Cloud Specialists in the Cloud practice (strong focus Google Cloud, opening on AWS)
-- Facilitator of 150 people interested in the Cloud practice at Zenika (Slack, office hours, upskilling)
+  - 🎯 from 0 to 8 Google Cloud Experts
+- Create internal “Road to Certification” initiatives and help people get certified
+  - 🎯 from 2 in 2018 to 50 people in 2023
+- Facilitator of 150 people interested about the Cloud at Zenika (Slack, office hours, upskilling) 
+  - 🎯 from 0 to 30 Cloud organized events
+  - 🎯 from 0 to 40 articles on Medium
 - Monitor technological trends and share them internally and externally
 - Help developers and consultant to deliver audit and benchmarks and go to market actions like pre-Sales meeting
+  - Definition of Sales Play and Partner Bluesprint (Move To Containers)
 - Recruit actively (~25 interviews per year) | Performance reviews and salary raise
-- Grow the partnership to meet the “Premier Partner” requirements
-- Get a award from Google Cloud : Solutions Engineering and Delivery
-- Google Cloud : Wrote Customer Success Stories and applied Specialization | get a “DevOps award” with Decathlon
-- Create internal “Road to Certification” initiatives to go from 2 certified people in 2018 to 50 people in 2023
-- Selection of conferences to sponsor and support people to speak (Google Cloud Next, Google Cloud Paris Summit)
+- Grow the Cloud partnership 
+  - 🎯 “Google Cloud Premier Partner” requirements
+  - 🎯 "AWS Select Tiers Partner” requirements
+- Google Cloud : Wrote Customer Success Stories, Statement of Work and applied Specialization 
+  - 🎖️ Get a award from Google Cloud : Solutions Engineering and Delivery
+  - 🎯 CSS with Decathlon Solocal, Akeneo, Carrefour
+  - 🎖️ get a “DevOps award” with Decathlon
+- Selection of conferences to sponsor and support people to speak (Google Cloud Next, Google Cloud Paris Summit, Cloud Nord)
+  - 🎯 Budget for 5p in 2023, 3p in 2024 to Google Cloud Next
 - Official Trainer for Google Cloud
+  - 🎯 from 0 to 9 Google Cloud Official ATP Trainers
 
 ## Group CTO • Zenika <small>(Janvier 2018 - décembre 2022)</small>
 - Participation au Comité de pilotage et Comité Exécutif

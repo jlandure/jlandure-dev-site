@@ -1,3 +1,7 @@
+- *Google Cloud* - [Professional Cloud Architect](https://www.credly.com/badges/2f5bc1a6-792c-4e71-a2e4-e3b09633e0dd)
+ <small>Issued Jul 2024 -- renewal</small>
+ - *Google Cloud* - [Professional Data Engineer](https://www.credential.net/fefd57de-0179-4216-9ccf-76896705645e)
+ <small>Issued Jan 2024 -- renewal</small>
 - *Google Cloud* - [Professional Cloud Security Engineer](https://google.accredible.com/6de2dca0-67d3-44ca-b30c-d7342c374178)
  <small>Issued Dec 2023</small>
 - *Google Cloud* - [Professional Cloud DevOps Engineer](https://google.accredible.com/d86ebfcb-05cd-4897-8965-04c6870b15c7)

@@ -1,3 +1,9 @@
+- _2024 Jun_ Training GCP Cloud Fundamentals: Core Infrastructure 🇬🇧 - Remote (1d)
+<span class="detail-tag">Official Trainer</span>
+<br>Attendees: 14
+- _2024 Apr_ Training GCP Architecting with Google Compute Engine 🇫🇷 - Nantes (3d)
+<span class="detail-tag">Official Trainer</span>
+<br>Attendees: 11
 - _2023 Nov_ Training GCP Security in Google Cloud 🇫🇷 - Remote (3d)
 <span class="detail-tag">Official Trainer</span>
 <br>Attendees: 24
