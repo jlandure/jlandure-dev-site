@@ -2,6 +2,8 @@
 
 ## 2024
 
+- _2024 Jul 23_ [Running Google’s Gemma2 LLM locally with LangchainJS & Ollama](blog/2024-07-23-running-googles-gemma2-llm-locally-with-langchainjs-ollama.md) -- [Original](https://medium.com/google-cloud/running-googles-gemma2-llm-locally-with-langchainjs-ollama-ea4b0bc8747b)
+- _2024 Jul 15_ [Google I/O Berlin 2024 Recap](blog/2024-07-15-google-i-o-berlin-2024-recap.md) -- [Original](https://medium.com/googledeveloperseurope/google-i-o-berlin-2024-recap-fa2735385caf)
 - _2024 Apr 23_ [Retour sur Google Cloud Next 2024](blog/2024-04-23-retour-sur-google-cloud-next-2024.md) -- [Original](https://blog.zenika.com/2024/04/23/retour-sur-google-cloud-next-2024/)
 - _2024 Mar 25_ [Clean Cloud, Green Product: optimize your carbon footprint today](blog/2024-03-25-clean-cloud-green-product-optimize-your-carbon-footprint-today.md) -- [Original](https://medium.com/googledeveloperseurope/clean-cloud-green-product-optimize-your-carbon-footprint-today-0a302baba8d7)
 - _2024 Mar 05_ [Google Cloud Next 2024: new location, new guide](blog/2024-03-05-google-cloud-next-2024-new-location-new-guide.md) -- [Original](https://medium.com/googledeveloperseurope/google-cloud-next-2024-new-location-new-guide-ec6e7fc9ead3)

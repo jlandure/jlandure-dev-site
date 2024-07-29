@@ -2,6 +2,27 @@
 
 ## 2024
 
+- _2024 Jul_ [ChatGDG](https://www.linkedin.com/events/7219262271502372865/comments/)
+<span class="detail-tag">Podcast</span>
+<span class="detail-tag">Speaker</span>
+- _2024 Jul_ [We Are Developers](https://wearedevelopers.com/world-congress/) - 🇩🇪 Berlin, Germany (2d)
+<span class="detail-tag">Speaker</span>
+<br><details><summary>What’s new in cloud development environments? / [Slides](https://speakerdeck.com/jlandure/whats-new-in-cloud-development-environments-at-wad24)
+</summary>
+<span><em>
+Attendees: 50<br>
+Linkedin: https://www.linkedin.com/posts/jlandure_berlin-wearedevelopers-developerexperience-activity-7219617632621113345-PgTo
+https://www.linkedin.com/posts/jlandure_berlin-wearedevelopers-activity-7219697083774103555-ku5i
+Cloud-based Integrated Development Environments (IDEs) have emerged in recent years, transforming the way developers work. For many, "coding in the cloud" has become an indispensable tool, thanks to the convenience and flexibility offered by Cloud Development Environments (CDEs).
+Recognizing the importance of Developer Experience (DX), companies are increasingly embracing cloud-based IDEs to enhance project success, improve product adoption, and boost developer satisfaction adding IA features.
+Let’s discover IDX and Google Cloud Workstations to imagine the future of DX.
+</em>
+<img src="https://storage.googleapis.com/advocu-app/images/6597d5c3b52eaef4e46a602e/activity-images/d441ac2a-d25b-4064-9842-d96bf4513856">
+</span>
+</details>
+- _2024 Jun_ [Google I/O Connect 2024 & Community Dinner & GDE Summit](https://rsvp.withgoogle.com/events/ioconnect-berlin-2024) - 🇩🇪 Berlin, Germany (3d)
+<span class="detail-tag">Attendee</span>
+<br>[Blog "Google I/O Berlin 2024 Recap"](https://medium.com/googledeveloperseurope/google-i-o-berlin-2024-recap-fa2735385caf)
 - _2024 Jun_ [DevQuest Opening Keynote](https://www.devquest.fr/sessions/level-up-ta-conf-12-ans-daventure-au-devfest-nantes) - 🇫🇷 Niort, France
 <span class="detail-tag">Speaker</span>
 <br><details><summary>Level up ta conf : 12 ans d'aventure au DevFest Nantes with [Annabelle Koster](https://www.linkedin.com/in/annabelle-koster/) / [Slides](https://speakerdeck.com/jlandure/level-up-ta-conf-12-ans-daventure-au-devfest-nantes-at-devquest) / [Video](https://www.youtube.com/watch?v=BIbCacNYObQ&list=PLdVDu8iO6zrMurVwGrFR23uw5OtGh4vFx)
