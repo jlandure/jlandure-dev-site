@@ -2,6 +2,19 @@
 
 ## 2024
 
+- _2024 Oct_ [DevFest London 2024](https://devfestlondon.com/) - 🇬🇧 London, UK (1d)
+<span class="detail-tag">Attendee</span>
+- _2024 Oct_ [DevFest Nantes 2024](https://devfest2024.gdgnantes.com/) - 🇫🇷 Nantes, France (2d)
+<span class="detail-tag">DevFest Organizer</span>
+<br><details><summary>Managed 3 "Code In The Dark" sessions
+</summary>
+<span><em>
+Attendees: 2500 per day
+Attendess to Code In The Dark: 39<br>
+</em>
+<img src="https://lh3.googleusercontent.com/pw/AP1GczPRVnepuHUP4f1y0kKdInSBBt7WirHDkIzZo1ZbhSoCIwcFPo1ZV18OYq_odo9Dl_et3O0fYJadLKHQg2Vfglhxph_PTEPP9KHS-EoQ6mVgx_-_x16tmjlnM0KGbc3F940KT7P3pYZmF730iRWOmO37=w2078-h1386-s-no-gm">
+</span>
+</details>
 - _2024 Jul_ [ChatGDG](https://www.linkedin.com/events/7219262271502372865/comments/)
 <span class="detail-tag">Podcast</span>
 <span class="detail-tag">Speaker</span>
@@ -208,6 +221,16 @@ Venez découvrir des usecases GenAI au travers d'une présentation et surtout de
 </details>
 - _2023 Nov_ [AWS Tour Nantes](https://aws.amazon.com/fr/events/tour-du-cloud-2023/) - 🇫🇷 Nantes, France
 <span class="detail-tag">Attendee</span>
+- _2023 Oct_ [DevFest Nantes 2023](https://devfest2023.gdgnantes.com/) - 🇫🇷 Nantes, France (2d)
+<span class="detail-tag">DevFest Organizer</span>
+<br><details><summary>Organizer
+</summary>
+<span><em>
+Attendees: 2500 per day<br>
+</em>
+<img src="https://lh3.googleusercontent.com/pw/AP1GczODiJKHFJ6Mto3J3ef9dOk0uSk-LgsNvN4gNJUS1AKNqRz5N4iExMKp0S6yYZD09Pc4TM_puU2cAygIfV1VyrZxeAe4VPdYmJrR201kfFH9TwssniRXErybtbnWQjYc3PBmXZvLltm7bUPgEj2FedMS=w1218-h812-s-no-gm">
+</span>
+</details>
 - _2023 Oct_ [GDG Cloud Paris](https://gdg.community.dev/events/details/google-gdg-cloud-paris-presents-soiree-recap-next23-gke-enterprise-duet-ai/) - 🇫🇷 Paris, France
 <span class="detail-tag">Meetup Speaker</span>
 <br><details><summary>Recap "Cloud Next 2023"
@@ -450,7 +473,7 @@ Attendees: 12<br>
 </details>
 - _2022 Oct_ [DevFest Nantes 2022](https://devfest2022.gdgnantes.com/) - 🇫🇷 Nantes, France (2d)
 <span class="detail-tag">Speaker</span>
-<span class="detail-tag">Organizer</span>
+<span class="detail-tag">DevFest Organizer</span>
 <br><details><summary>Opening keynote with [Annabelle Koster](https://twitter.com/AnnabelleKoster)
 </summary>
 <span><em>
@@ -619,7 +642,7 @@ Faisons un tour des petits plus de cette solution : nous y trouvons la majorité
 <img src="https://sfo2.digitaloceanspaces.com/advocu/gde/activity-photos/2022/03/27/0aed17a4-70e6-4a4a-a7fe-7c322347346e.jpeg">
 </span>
 </details>
-- _2022 Mar_ [Microsoft Tech Group Summit 2022]() - 🇫🇷 Paris, France (2d)
+- _2022 Mar_ Microsoft Tech Group Summit 2022 - 🇫🇷 Paris, France (2d)
 <span class="detail-tag">Speaker</span>
 <span class="detail-tag">Attendee</span>
 <br><details><summary>Du GTUG Nantes au DevFest Nantes, 10 ans de communauté de devs with [Annabelle Koster](https://twitter.com/AnnabelleKoster) / [Slides](https://speakerdeck.com/jlandure/du-gtug-nantes-au-devfest-nantes-10-ans-de-communaute-de-devs)
@@ -777,7 +800,7 @@ Nous vous proposons un tour d'horizon de ces nouveaux géants afin de mieux comp
 </details>
 - _2021 Oct_ [DevFest Nantes 2021](https://devfest2021.gdgnantes.com/) - 🇫🇷 Nantes, France (2d)
 <span class="detail-tag">Speaker</span>
-<span class="detail-tag">Organizer</span>
+<span class="detail-tag">DevFest Organizer</span>
 <br><details><summary>Introduction with [Annabelle Koster](https://twitter.com/AnnabelleKoster)
 </summary>
 <span><em>
