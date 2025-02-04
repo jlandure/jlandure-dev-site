@@ -4,6 +4,6 @@ CTO<br>
 Dev Advocate<br>
 Community leader (GDG, GDE, DevFest, HDG, Skillsmatter)
 
-[Find me on Twitter](https://twitter.com/jlandure)
+[Find me on LinkedIn](https://linkedin.com/in/jlandure)
 [Read more](#🚀-julien-landuré)
 

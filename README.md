@@ -33,14 +33,15 @@
 
 ### 📝 Links & Profiles
 
-- 🧵 [Twitter](https://twitter.com/jlandure)
 - 🧵 [LinkedIn](https://linkedin.com/in/jlandure)
+- 🧵 [Bluesky](https://bsky.app/profile/jlandure.dev)
+- 🧵 [Twitter](https://twitter.com/jlandure)
 - 💻 [GitHub](https://github.com/jlandure)
+- 📣 [Speakerdeck](https://speakerdeck.com/jlandure)
+- 📺 [Youtube](https://www.youtube.com/playlist?list=PLdVDu8iO6zrMurVwGrFR23uw5OtGh4vFx)
 - 📝 [DEV.to](https://dev.to/jlandure)
 - 📝 [Medium](https://medium.com/@jlandure)
 - 📝 [Zenika blog](https://blog.zenika.com/author/jlandure2/)
-- 📣 [Speakerdeck](https://speakerdeck.com/jlandure)
-- 📺 [Youtube](https://www.youtube.com/playlist?list=PLdVDu8iO6zrMurVwGrFR23uw5OtGh4vFx)
 - 🏅 [Credly](https://www.credly.com/users/jlandure/)
 - ☁️ [Google Dev Expert profile](https://developers.google.com/community/experts/directory/profile/profile-julien-landure)
 - ☁️ [Google Cloud Certified profile](https://googlecloudcertified.credential.net/profile/23cbb12250b56e515cdb93d9094fe1ef49f58a66)
