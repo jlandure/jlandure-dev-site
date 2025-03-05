@@ -39,6 +39,7 @@
 - 💻 [GitHub](https://github.com/jlandure)
 - 📣 [Speakerdeck](https://speakerdeck.com/jlandure)
 - 📺 [Youtube](https://www.youtube.com/playlist?list=PLdVDu8iO6zrMurVwGrFR23uw5OtGh4vFx)
+- 📣 [Sessionize](https://sessionize.com/jlandure/)
 - 📝 [DEV.to](https://dev.to/jlandure)
 - 📝 [Medium](https://medium.com/@jlandure)
 - 📝 [Zenika blog](https://blog.zenika.com/author/jlandure2/)
