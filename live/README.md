@@ -2,7 +2,7 @@
 
 ## 2025
 
-- _2025 Apr 19_ [Cirque Pinder], Parc des expositions, Nantes 🇫🇷
+- _2025 Apr 19_ Cirque Pinder, Parc des expositions, Nantes 🇫🇷
 - _2025 Mar 16_ [Brest 0 - 0 Stade de Reims](https://www.lequipe.fr/Football/match-direct/ligue-1/2024-2025/brest-reims-live/656086), Stade Francis Le Blé, Brest 🇫🇷
 <span class="detail-tag">Sport</span>
 - _2025 Feb 07_ [FC Nantes 0 - 2 Brest](https://www.lequipe.fr/Football/match-direct/ligue-1/2024-2025/nantes-brest-live/656039), La Beaujoire, Nantes 🇫🇷
