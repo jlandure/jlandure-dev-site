@@ -1,9 +1,42 @@
 # Live Music & Sport
 
+## 2025
+
+- _2025 Apr 19_ [Cirque Pinder], Parc des expositions, Nantes 🇫🇷
+- _2025 Mar 16_ [Brest 0 - 0 Stade de Reims](https://www.lequipe.fr/Football/match-direct/ligue-1/2024-2025/brest-reims-live/656086), Stade Francis Le Blé, Brest 🇫🇷
+<span class="detail-tag">Sport</span>
+- _2025 Feb 07_ [FC Nantes 0 - 2 Brest](https://www.lequipe.fr/Football/match-direct/ligue-1/2024-2025/nantes-brest-live/656039), La Beaujoire, Nantes 🇫🇷
+<span class="detail-tag">Sport</span>
+
 ## 2024
+
+- _2024 Dec 08_ [FC Nantes 1 - 0 Rennes](https://www.lequipe.fr/Football/match-direct/ligue-1/2024-2025/nantes-rennes-live/655982), La Beaujoire, Nantes 🇫🇷
+<span class="detail-tag">Sport</span>
+- _2024 Oct 12_ [(F) FC Nantes 0 - 1 Paris SG](https://www.lequipe.fr/Football/match-direct/arkema-premiere-ligue-f/2024-2025/nantes-f-paris-sg-f-live/661779), La Beaujoire, Nantes 🇫🇷
+<span class="detail-tag">Sport</span>
+- _2024 Sep 15_ [FC Nantes 1 - 2 Stade de Reims](https://www.lequipe.fr/Football/match-direct/ligue-1/2024-2025/nantes-reims-live/655888), La Beaujoire, Nantes 🇫🇷
+<span class="detail-tag">Sport</span>
+- _2024 Aug 13_ AC/DC - POWER UP TOUR, Longchamp, Paris 🇫🇷
+<span class="detail-tag">Music</span>
+- _2024 Aug 08_ [(Jeux Olympiques - M) Maroc 6 - 0 Égypte](https://www.lequipe.fr/Jo-2024-paris/Football/Actualites/Le-maroc-decroche-la-medaille-de-bronze-en-dominant-largement-l-egypte-aux-jo-2024/1489844), La Beaujoire, Nantes 🇫🇷
+<span class="detail-tag">Sport</span>
+- _2024 Jul 25_ [(Jeux Olympiques - F) Espagne 2 - 1 Japon](https://www.ouest-france.fr/jeux-olympiques/direct/direct-espagne-japon-suivez-le-match-du-tournoi-feminin-de-football-des-jo-2024-en-live-6f98747f-a29d-4f66-a23f-a87c67715f92), La Beaujoire, Nantes 🇫🇷
+<span class="detail-tag">Sport</span>
+- _2024 May 14_ [Google Cloud Summit](https://cloudonair.withgoogle.com/events/summit-france-2024), Accor Arena, Paris 🇫🇷
+<span class="detail-tag">Music</span>
+> Juliette Armanet, MC ★ Solaar, Breakbot, Dirty Swift
+- _2024 Mar 03_ [FC Nantes 0 - 2 Metz](https://www.lequipe.fr/Football/match-direct/ligue-1/2023-2024/nantes-metz-live/594959), La Beaujoire, Nantes 🇫🇷
+<span class="detail-tag">Sport</span>
+- _2024 Feb 17_ [FC Nantes 0 - 2 Paris SG](https://www.lequipe.fr/Football/match-direct/ligue-1/2023-2024/nantes-psg-live/594941), La Beaujoire, Nantes 🇫🇷
+<span class="detail-tag">Sport</span>
+> L. Hernandez 60’, K. Mbappé (s.p.) 78’
 
 ## 2023
 
+- _2023 Dec 19_ [HBC Nantes 31 - 30 Montpellier](https://hitwest.ouest-france.fr/handball-le-hbc-nantes-domine-montpellier-au-buzzer-31-30), Halle XXL, Parc des expositions, Nantes 🇫🇷
+<span class="detail-tag">Sport</span>
+- _2023 Nov 26_ [FC Nantes 0 - 0 Le Havre](https://www.lequipe.fr/Football/match-direct/ligue-1/2023-2024/nantes-le-havre-live/594861), La Beaujoire, Nantes 🇫🇷
+<span class="detail-tag">Sport</span>
 - _2023 Aug 30_ [Google Cloud Next](https://cloud.withgoogle.com/next), San Francisco 🇺🇸
 <span class="detail-tag">Music</span>
 > LL COOL J with The Roots & DJ Z-Trip
