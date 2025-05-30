@@ -1,3 +1,9 @@
+- _2025 Mar_ Training GCP Cloud Fundamentals: Security in Google Cloud 🇫🇷 - Tangram, Center Excellence CMA CGM, Marseille (3d)
+<span class="detail-tag">Official Trainer</span>
+<br>Attendees: 13
+- _2025 Mar_ Training GCP Cloud Fundamentals: Core Infrastructure 🇬🇧 - Remote (1d)
+<span class="detail-tag">Official Trainer</span>
+<br>Attendees: 14
 - _2024 Nov_ Training GCP Cloud Fundamentals: Core Infrastructure 🇬🇧 - Remote (1d)
 <span class="detail-tag">Official Trainer</span>
 <br>Attendees: 16
