@@ -1,1 +1,3 @@
-> CTO de Zenika Nantes, Julien est aussi Google Developer Expert Cloud. Il a co-fondé en Janvier 2011 le GDG Nantes, une communauté de développeurs des technologies Google et organise chaque année le DevFest Nantes.
+> CTO de TechTown, Julien est aussi Google Developer Expert Cloud. Il a co-fondé en Janvier 2011 le GDG Nantes, une communauté de développeurs des technologies Google et organise chaque année le DevFest Nantes.
+> Fondateur de TechTown, Julien est un expert reconnu dans le domaine du Cloud et de l’IA. Avec une solide expérience dans l’accompagnement des entreprises dans leur transformation numérique, il dirige TechTown avec passion et expertise pour offrir des solutions innovantes à ses clients.
+> Il vient aussi de créer un nouvelle conférence : TechReady dédiée au sujet IA & Cloud.
