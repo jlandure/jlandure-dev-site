@@ -10,8 +10,12 @@
 
 [bio-fr file](bio/bio-fr.md ':include')
 
-### Notes
+### 🔗 Direct links
 
+- Photos : 
+<a href="./jlandure-1500x1500.jpg" target="_blank" rel="noopener noreferrer">1500x1500</a>, 
+<a href="jlandure-450x450.jpg" target="_blank" rel="noopener noreferrer">450x450</a>,
+<a href="jlandure-450x450-grayscale.jpg" target="_blank" rel="noopener noreferrer">450x450-grayscale</a>
 - Talks on Youtube: https://www.youtube.com/playlist?list=PLdVDu8iO6zrMurVwGrFR23uw5OtGh4vFx
 - Slides on Speakerdeck: https://speakerdeck.com/jlandure
 - [Speaker Experience](#📣-conferences) / [Trainer Experience](#🎓-workshops-amp-training)
@@ -35,7 +39,7 @@
 
 - 🧵 [LinkedIn](https://linkedin.com/in/jlandure)
 - 🧵 [Bluesky](https://bsky.app/profile/jlandure.dev)
-- 🧵 [Twitter](https://twitter.com/jlandure)
+- 🧵 [X/Twitter](https://x.com/jlandure)
 - 💻 [GitHub](https://github.com/jlandure)
 - 📣 [Speakerdeck](https://speakerdeck.com/jlandure)
 - 📺 [Youtube](https://www.youtube.com/playlist?list=PLdVDu8iO6zrMurVwGrFR23uw5OtGh4vFx)
@@ -73,7 +77,7 @@ Very lucky to organize, sponsor, attend and speak at many conferences.
 
 - Google Cloud Official Trainer 
 - Docker Official Trainer 
-- Pivotal Cloud Foundry Official Trainer 
+- Pivotal Cloud Foundry Official Trainer
 
 [See listing here](workshop/)
 
