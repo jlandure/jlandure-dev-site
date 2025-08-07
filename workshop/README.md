@@ -1,3 +1,5 @@
+- _2025 Jun_ Cloud Workshops on Google Cloud & AWS at EPSI School 🇫🇷 - Nantes (8d)
+<br>Attendees: 43
 - _2025 Apr_ Training GCP Cloud Fundamentals: Security in Google Cloud 🇫🇷 - Tangram, Center Excellence CMA CGM, Marseille (3d)
 <span class="detail-tag">Official Trainer</span>
 <br>Attendees: 13
@@ -18,7 +20,7 @@
 - _2024 Apr_ Training GCP Architecting with Google Compute Engine 🇫🇷 - Nantes (3d)
 <span class="detail-tag">Official Trainer</span>
 <br>Attendees: 11
-- _2024 Jan_ Cloud Workshop at SupDeVinci School - 🇫🇷 - Nantes (4d)
+- _2024 Jan_ Cloud Workshops on Google Cloud at SupDeVinci School 🇫🇷 - Nantes (4d)
 <br>Attendees: 18
 - _2023 Nov_ Training GCP Security in Google Cloud 🇫🇷 - Remote (3d)
 <span class="detail-tag">Official Trainer</span>
@@ -64,7 +66,7 @@
 - _2022 Mar_ Training GCP Cloud Fundamentals: Core Infrastructure - Remote (1d)
 <span class="detail-tag">Official Trainer</span>
 <br>Attendees: 19
-- _2022 Jan_ Cloud Workshop at EPSI School - Remote (2d)
+- _2022 Jan_ Cloud Workshops at EPSI School - Remote (2d)
 <br>Attendees: 21
 - _2022 Jan_ Training GCP Developing Applications with Google Cloud - Remote (3d)
 <span class="detail-tag">Official Trainer</span>
