@@ -1,5 +1,144 @@
 # Conference
 
+## 2025
+
+- _2025 Jul_ [We Are Developers](https://wearedevelopers.com/world-congress/) - 🇩🇪 Berlin, Germany (2d)
+<span class="detail-tag">Speaker</span>
+<br><details><summary>Serverless GPU: Deploy your LLM seamlessly / [Slides](https://speakerdeck.com/jlandure/serverless-gpu-deploy-your-llm-seamlessly-at-wad25)
+</summary>
+<span><em>
+Attendees: 60<br>
+Github source code: https://github.com/jlandure/simple-gemma3-ollama-langchainjs-app
+Linkedin: https://www.linkedin.com/posts/jlandure_wwc25-gemma-googlecloud-activity-7348236927227097088-bZU3
+Linkedin: https://www.linkedin.com/posts/jlandure_wad2025-serverlessgpu-wwc25-activity-7349324082124922882-Cj_R
+AI solutions are booming, with best practices emerging, frameworks gaining popularity, and LLM switching becoming less cumbersome.
+However, the path to production—especially when it comes to securely hosting your own LLM—often presents significant hurdles. This talk introduces an exciting solution: leveraging Serverless GPU options to minimize infrastructure overhead and maximize your focus on innovation.
+We'll dive into how to use Google Cloud's Cloud Run with GPU to seamlessly deploy an open-source LLM, ensuring security and scalability without the usual headaches.
+</em>
+<img src="https://storage.googleapis.com/advocu-app/images/6597d5c3b52eaef4e46a602e/activity-images/d441ac2a-d25b-4064-9842-d96bf4513856">
+</span>
+</details>
+- _2025 Jun_ [Google I/O Connect 2025 + GDG Summit + Community Mixer + EMEA GDE Summit 2025](https://rsvp.withgoogle.com/events/ioconnect-berlin-2025/sessions) - 🇩🇪 Berlin, Germany (3d)
+<span class="detail-tag">Speaker</span>
+<br><details><summary>Starting a successful DevFest: Lessons learned from Nantes / [Slides](https://speakerdeck.com/jlandure/starting-a-successful-devfest-lessons-learned-from-nantes-at-gdg-summit-2025)
+</summary>
+<span><em>
+Attendees: 70<br>
+Linkedin : https://www.linkedin.com/posts/jlandure_googleioconnect-buildwithgemini-activity-7343518324569354240-VU8C
+Linkedin : https://www.linkedin.com/posts/jlandure_ioconnect-berlin-googleioconnect-activity-7342793622532112385-TstC
+Linkedin : https://www.linkedin.com/posts/jlandure_googleioconnect-buildwithgemini-activity-7346194192672452609-sNKJ
+At GDG Summit 2025 in Berlin
+When: June 24th, from 3.15pm - 3.30pm CET
+Where: Alte Münze (room name TBC)
+Talk Title: Starting a successful DevFest - Lessons learned from Nantes
+Talk Description:
+Ever dreamed of organizing your own DevFest but don't know where to start? Julien Landuré, co-creator of GDG Nantes and organizer of DevFest Nantes, shares his experience and advice for launching and scaling a community event. From finding a free venue to managing sponsors and speakers, this 15-minute talk will guide you through the key steps to creating a memorable DevFest. Discover how DevFest Nantes grew from 150 attendees to over 2500 per day in 10 years, by adopting strong principles and focusing on the attendee, sponsor, speaker, and organizer experience. Learn practical tips and useful tools to turn your event vision into a successful and sustainable reality.
+</em>
+<img src="https://storage.googleapis.com/advocu-app/images/6597d5c3b52eaef4e46a602e/activity-images/77a7013e-0bb5-47a5-999a-472b51cc40eb">
+</span>
+</details>
+- _2025 Jun_ [Soirée AWS User Group Nantes](https://www.linkedin.com/posts/jlandure_awsnantes-awsusergroup-activity-7338985616279326720-iPxv?utm_source=share&utm_medium=member_desktop&rcm=ACoAAACauFEB0eT0AnY440N6UK-z4676r5f7BmU) - 🇫🇷 Nantes, France
+<span class="detail-tag">Attendee</span>
+<span class="detail-tag">Meetup</span>
+- _2025 Jun_ [ENI Talks](https://www.editions-eni.fr/blog/gouvernance-des-donnees-bien-piloter-vos-actifs-numeriques/) - 🇫🇷 Nantes, France
+<span class="detail-tag">Speaker</span>
+<span class="detail-tag">Meetup</span>
+<br><details><summary>[Webinaire] Gouvernance des données : Bien piloter vos actifs numériques / [Video](https://www.youtube.com/watch?v=QaVzs2wc5U8&list=PLdVDu8iO6zrMurVwGrFR23uw5OtGh4vFx&index=2)
+</summary>
+<span><em>
+Attendees: 330<br>
+</em>
+<img src="https://storage.googleapis.com/advocu-app/images/6597d5c3b52eaef4e46a602e/activity-images/1f8b65c6-6567-42ee-b5af-f4625d884961">
+</span>
+</details>
+- _2025 Jun_ [DevQuest](https://www.devquest.fr/speaker/julien-landure) - 🇫🇷 Niort, France (1d)
+<span class="detail-tag">Speaker</span>
+<br><details><summary>Cloud Run... tout ce qu'il faut sans K8S / [Slides](https://speakerdeck.com/jlandure/cloud-run-dot-dot-dot-tout-ce-quil-faut-sans-k8s-at-devquest) / [Video](https://www.youtube.com/watch?v=pDlmKRgCzpg&list=PLdVDu8iO6zrMurVwGrFR23uw5OtGh4vFx)
+</summary>
+<span><em>
+Attendees: 40<br>
+Linkedin: https://www.linkedin.com/posts/devquest-niort_programme-matin%C3%A9e-du-vendredi-6-juin-activity-7330502602964533248-Fmdt
+Docker est arrivé en 2016 en France permettant de packager nos applications facilement. Il a fallu maîtriser les concepts de Docker : commandes, isolation, optimisation des layers etc.
+Ensuite, la solution leader d'orchestration Kubernetes est arrivée permettant de scaler ces containers. Pour permettre à K8S de gérer correctement un nom de domaine en TLS, livrer de façon transparente en production, faire du test A/B, il faut là encore retrousser les manches.
+Basé sur le projet Open Source Knative, Cloud Run est LA solution parfaite pour déployer des conteneurs et permet de gérer tout ça : autoscaling, gestion du traffic et bien d'autres fonctionnalités !
+Faisons un tour des petits plus de cette solution : nous y trouvons la majorité des features d'un Kubernetes sans Kubernetes.
+Je vous partagerai mon expérience et essaierai de montrer pourquoi les solutions Serverless & Cloud Run sont l'avenir.
+</em>
+<img src="https://storage.googleapis.com/advocu-app/images/6597d5c3b52eaef4e46a602e/activity-images/a1f14242-fff0-4515-adba-42003f956ce4">
+</span>
+</details>
+- _2025 Jun_ [TechReady](https://techready.live/) - 🇫🇷 Nantes, France (1d)
+<span class="detail-tag">TechReady Organizer</span>
+<br><details><summary>Organizer
+</summary>
+<span><em>
+Attendees: 300
+</em>
+<img src="https://media.licdn.com/dms/image/v2/D4E22AQE_o06Ay4WRWg/feedshare-shrink_800/B4EZc7PCIhHQAg-/0/1749045486572?e=1758153600&v=beta&t=yHhK6GtdPCGxseuoNxWF8ZScjHsMk4ygZtLj5eSrMRQ">
+</span>
+</details>
+- _2025 May_ [Soirée GDG Nantes au Melting potes](https://www.meetup.com/gdg-nantes/events/307602110/) - 🇫🇷 Nantes, France
+<span class="detail-tag">Attendee</span>
+<span class="detail-tag">Meetup</span>
+- _2025 May_ [Google Cloud Summit](https://cloudonair.withgoogle.com/events/summit-france-2025) - 🇫🇷 Paris, France (1d)
+<span class="detail-tag">Attendee</span>
+- _2025 Apr_ [Cloud Toulouse](https://www.linkedin.com/posts/cloud-toulouse_nous-sommes-tr%C3%A8s-heureux-que-le-greenit-activity-7309853769834377216-uZHN) - 🇫🇷 Toulouse, France (1d)
+<span class="detail-tag">Speaker</span>
+<br><details><summary>Bienvenue à la Green Software foundation / [Slides](https://speakerdeck.com/jlandure/bienvenue-a-la-green-software-foundation-at-cloud-toulouse)
+</summary>
+<span><em>
+Attendees: 60<br>
+Linkedin: https://www.linkedin.com/posts/jlandure_nous-sommes-tr%C3%A8s-heureux-que-le-greenit-activity-7328307350245621762-Sjs7
+https://www.linkedin.com/posts/jlandure_la-sustainability-un-sujet-qui-nous-tiens-activity-7329054649653616640-Bv_d
+Nous parlons beaucoup de démarche d’éco-conception, de « sustainability » dans le monde Tech ces dernières années.
+Ça tombe bien, la « Green Software Foundation » est une des dernières fondations filles de la Linux Foundation.
+Fondé en 2021, cette fondation tente de réunir les acteurs de la Tech pour partager une vision commune et des actions déclinables.
+Qui y participe à cette initiative ? Y-a-t-il déjà des actions en cours ?
+Venez découvrir comment partager les bonnes pratiques autour de l’éco-conception grâce à la GSF.
+</em>
+<img src="https://storage.googleapis.com/advocu-app/images/6597d5c3b52eaef4e46a602e/activity-images/d94b32e5-02c0-401c-8615-a146049560b7">
+</span>
+</details>
+- _2025 Apr_ [Zenikast - Saison 2 - Episode 2 - Créer sa conférence tech](https://www.youtube.com/watch?v=9MuzZk6tMMk) - 🇫🇷 Nantes, France
+<span class="detail-tag">Podcast</span>
+<span class="detail-tag">Speaker</span>
+<br>Créer sa conférence tech / [Video](https://www.youtube.com/watch?v=9MuzZk6tMMk&list=PLdVDu8iO6zrMurVwGrFR23uw5OtGh4vFx&index=6&pp=gAQBiAQB0gcJCa0JAYcqIYzv)
+- _2025 Apr_ [Soirée NantesJUG x AWS User Group Nantes](https://www.linkedin.com/posts/jlandure_awsnantes-awsusergroup-meetup-activity-7323035853298036736-1xp5) - 🇫🇷 Nantes, France
+<span class="detail-tag">Attendee</span>
+<span class="detail-tag">Meetup</span>
+- _2025 Apr_ Rencontre du Réseau FinOps de l'Ouest - 🇫🇷 Nantes, France
+<span class="detail-tag">Attendee</span>
+<span class="detail-tag">Meetup</span>
+- _2025 Apr_ [Google Cloud Next 2025](https://cloud.google.com/blog/topics/google-cloud-next/welcome-to-google-cloud-next25) - 🇺🇸 Las Vegas, NV, USA (3d) 
+<span class="detail-tag">Attendee</span>
+<br>[Blog "3 projets OpenSource pour l’IA Agentique"](https://medium.com/@jlandure/google-cloud-next-3-projets-opensource-pour-lia-agentique-e6cd1a59f3e2)
+- _2025 Mar_ [AWS UG Leaders Workshop France](https://www.linkedin.com/posts/jlandure_aws-awscommunitybuilders-aws-activity-7312372235208392704-h1TY) - 🇫🇷 Paris, France (1d)
+<span class="detail-tag">Attendee</span>
+- _2025 Mar_ [Gemma Developer Day](https://rsvp.withgoogle.com/events/gemma-dev-day-paris) - 🇫🇷 Paris, France (1d)
+<span class="detail-tag">Attendee</span>
+- _2025 Mar_ [Build with Gemini Developer day](https://cloudonair.withgoogle.com/events/build-with-gemini) - 🇫🇷 Paris, France (1d)
+<span class="detail-tag">Attendee</span>
+- _2025 Mar_ GDE Train the Trainer AI Bootcamp - 🇫🇷 Paris, France (1d)
+<span class="detail-tag">Attendee</span>
+- _2025 Feb_ [AWS User Group Nantes](https://www.meetup.com/aws-nantes/events/305877892/?eventOrigin=group_past_events) - 🇫🇷 Nantes, France
+<span class="detail-tag">Attendee</span>
+<span class="detail-tag">Meetup</span>
+- _2025 Feb_ [Epitech Nantes Summit](https://www.linkedin.com/posts/epitech-nantes_epitech-summit-2025-%C3%A0-nantes-activity-7293588495950839808-f98j/) - 🇫🇷 Nantes, France (1d)
+<span class="detail-tag">Speaker</span>
+<br><details><summary>Self-Marketing for Developers / [Slides](https://speakerdeck.com/jlandure/self-marketing-for-developers-at-epitech-summit-2025)
+</summary>
+<span><em>
+Attendees: 120<br>
+Linkedin: https://www.linkedin.com/posts/epitech-nantes_epitech-summit-2025-%C3%A0-nantes-activity-7293588495950839808-f98j/
+Nous sommes tous curieux et passionnés dans les communautés de dev.
+Nous aimons partager nos connaissances, présenter nos idées et challenger l'existant avec notre ouverture d'esprit.
+Comment diffuser cela plus largement à l'extérieur ? Quelles sont les bases pour créer "sa" marque ? Comment initier cette démarche ?
+L'idée est de présenter quelques concepts du Self-Marketing et d'imaginer ensemble une déclinaison pour nous développeur.
+</em>
+<img src="https://storage.googleapis.com/advocu-app/images/6597d5c3b52eaef4e46a602e/activity-images/ede4137e-c3d7-4c50-bfe0-defe21a39694">
+</span>
+</details>
+
 ## 2024
 
 - _2024 Oct_ [DevFest London 2024](https://devfestlondon.com/) - 🇬🇧 London, UK (1d)
@@ -18,6 +157,7 @@ Attendess to Code In The Dark: 39<br>
 - _2024 Jul_ [ChatGDG](https://www.linkedin.com/events/7219262271502372865/comments/)
 <span class="detail-tag">Podcast</span>
 <span class="detail-tag">Speaker</span>
+<br>ChatGDG #32 / [Video](https://www.youtube.com/watch?v=ZF1SVaW8f-Y&list=PLdVDu8iO6zrMurVwGrFR23uw5OtGh4vFx&index=3&pp=gAQBiAQB)
 - _2024 Jul_ [We Are Developers](https://wearedevelopers.com/world-congress/) - 🇩🇪 Berlin, Germany (2d)
 <span class="detail-tag">Speaker</span>
 <br><details><summary>What’s new in cloud development environments? / [Slides](https://speakerdeck.com/jlandure/whats-new-in-cloud-development-environments-at-wad24)
@@ -95,7 +235,7 @@ Proposé avec Zenika
 <img src="https://storage.googleapis.com/advocu-app/images/6597d5c3b52eaef4e46a602e/activity-images/9442e497-d0a2-4c1a-87f5-640b1db345cd">
 </span>
 </details>
-- _2023 May_ [Google Cloud Summit](https://cloudonair.withgoogle.com/events/summit-france-2024) - 🇫🇷 Paris, France
+- _2024 May_ [Google Cloud Summit](https://cloudonair.withgoogle.com/events/summit-france-2024) - 🇫🇷 Paris, France (1d)
 <span class="detail-tag">Attendee</span>
 - _2024 Apr_ [GDG Cloud Nantes](https://gdg.community.dev/events/details/google-gdg-cloud-nantes-presents-recap-next-2024/) - 🇫🇷 Nantes, France
 <span class="detail-tag">Meetup Speaker</span>
@@ -121,7 +261,7 @@ https://www.linkedin.com/posts/jlandure_cloud-activity-7188116278279053312-2c4h
 <img src="https://storage.googleapis.com/advocu-app/images/6597d5c3b52eaef4e46a602e/activity-images/53ee9984-48fb-423f-b359-e04063f097a5">
 </span>
 </details>
-- _2024 Apr_ [Google Cloud Next 2024](https://cloud.google.com/blog/topics/google-cloud-next/welcome-to-google-cloud-next-23) - 🇺🇸 Las Vegas, NV, USA (3d) 
+- _2024 Apr_ [Google Cloud Next 2024](https://cloud.google.com/blog/topics/google-cloud-next/welcome-to-google-cloud-next24) - 🇺🇸 Las Vegas, NV, USA (3d) 
 <span class="detail-tag">Attendee</span>
 <br>[Blog "Retour sur Google Cloud Next 2024"](https://blog.zenika.com/2024/04/23/retour-sur-google-cloud-next-2024/)
 - _2024 Apr_ [AWS Summit France + AWS Partner Summit Paris 2024](https://www.linkedin.com/posts/jlandure_aws-codetheworld-awssummit-activity-7181274487101779969-BWMW) - 🇫🇷 Paris, France
@@ -301,7 +441,7 @@ En retraçant le chemin du Cloud et en étudiant la FinOps Foundation, fondation
 - _2023 Aug_ [Google Cloud Next 2023](https://cloud.google.com/blog/topics/google-cloud-next/welcome-to-google-cloud-next-23) - 🇺🇸 San Francisco, CA, USA (3d) 
 <span class="detail-tag">Attendee</span>
 <br>[Blog "Retour sur Google Cloud Next 2023"](https://blog.zenika.com/2023/09/13/retour-sur-google-cloud-next-2023/)
-- _2023 Jun_ [Google Cloud Summit](https://cloudonair.withgoogle.com/events/summit-france-2023) - 🇫🇷 Paris, France
+- _2023 Jun_ [Google Cloud Summit](https://cloudonair.withgoogle.com/events/summit-france-2023) - 🇫🇷 Paris, France (1d)
 <span class="detail-tag">Attendee</span>
 - _2023 Jun_ Google Cloud CTO Council - 🇫🇷 Paris, France
 <span class="detail-tag">Attendee</span>
