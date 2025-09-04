@@ -1,4 +1,4 @@
-> Founder & CTO TechTown _since 2025_<br>
+> Co-Founder & CTO TechTown _since 2025_<br>
 > Cursor Ambassador _since Aug 2025_<br>
 > Google Developer Group Nantes & DevFest Nantes Organizer _President from 2011 to 2020_ | _Organizer since 2011_<br>
 > Google Cloud Official Trainer _since Feb 2021_<br>

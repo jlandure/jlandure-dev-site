@@ -1,6 +1,6 @@
 # 👋 Hi, I'm **Julien Landuré**
 <br>
-Founder & CTO at TechTown<br>
+Co-Founder & CTO at TechTown<br>
 Google Dev Expert, Cursor Ambassador, Dev Advocate<br>
 Community leader GDG, AWS, DevFest Nantes, TechReady
 
