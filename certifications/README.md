@@ -1,3 +1,5 @@
+- *Google Cloud* - [Gen AI Leader](https://www.credly.com/badges/0563ac90-c9c8-45d1-9907-ac094113aeca)
+ <small>Issued Sep 2025</small>
 - *Google Cloud* - [Professional Cloud DevOps Engineer](https://www.credly.com/badges/623e6646-29c5-42f2-9d99-d27b89df8336)
  <small>Issued Jul 2025 -- renewal</small>
 - *Google Cloud* - [Professional Cloud Developer](https://www.credly.com/badges/ae558534-ecc4-44b8-8418-dcb5ba6dd3cf)
