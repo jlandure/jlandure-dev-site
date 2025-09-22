@@ -2,6 +2,24 @@
 
 ## 2025
 
+- _2025 Sep_ [GDG Cloud Nantes](https://gdg.community.dev/events/details/google-gdg-cloud-nantes-presents-the-clouds-club-3-talks-pour-3-communautes-cloud/) - 🇫🇷 Nantes, France
+<span class="detail-tag">Meetup</span>
+<span class="detail-tag">Speaker</span>
+<br><details><summary>Serverless GPU ou comment déployer facilement son LLM / [Slides](https://speakerdeck.com/jlandure/serverless-gpu-ou-comment-deployer-facilement-son-llm-at-gdg-cloud-nantes)
+</summary>
+<span><em>
+Attendees: 51<br>
+Github source code: https://github.com/jlandure/simple-gemma3-ollama-langchainjs-app
+Linkedin: https://www.linkedin.com/posts/jlandure_tr%C3%A8s-fier-dorganiser-ce-soir-the-clouds-activity-7373613608989106177-Xnaq/
+Linkedin: https://www.linkedin.com/posts/aws-user-group-nantes_50-personnes-r%C3%A9unies-mission-r%C3%A9ussie-activity-7374009051375882241-DXsr/
+Les solutions d'IA fleurissent : de bonnes pratiques se mettent en place, des frameworks deviennent populaires, le changement de LLM est moins contraignant...
+Par contre, quand il faut aller en production afin de pouvoir héberger son propre LLM pour assurer la sécurité, il n'y a moins de monde.
+Une solution intéressante est de s'appuyer sur les solutions Serverless avec du GPU pour passer moins de temps sur l'infrastructure et plus de temps ailleurs !
+Durant ce talk, nous regarderons comment utiliser Cloud Run GPU de la plateforme Google Cloud pour déployer un LLM open (Gemma3).
+</em>
+<img src="https://storage.googleapis.com/advocu-app/images/6597d5c3b52eaef4e46a602e/activity-images/ff4aa20c-85ad-4b18-873f-fc31683a3315">
+</span>
+</details>
 - _2025 Jul_ [We Are Developers](https://wearedevelopers.com/world-congress/) - 🇩🇪 Berlin, Germany (2d)
 <span class="detail-tag">Speaker</span>
 <br><details><summary>Serverless GPU: Deploy your LLM seamlessly / [Slides](https://speakerdeck.com/jlandure/serverless-gpu-deploy-your-llm-seamlessly-at-wad25)

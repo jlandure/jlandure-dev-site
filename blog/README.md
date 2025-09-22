@@ -1,5 +1,10 @@
 # Blog
 
+## 2025
+
+- _2025 Sep 03_ [🚀 Boosting Your Dev Workflow with Cursor Docs](https://medium.com/@jlandure/boosting-your-dev-workflow-with-cursor-docs-e4bcfd1c9efe) -- [Original](https://medium.com/@jlandure/boosting-your-dev-workflow-with-cursor-docs-e4bcfd1c9efe)
+- _2025 Apr 11_ [Google Cloud Next : 3 projets OpenSource pour l’IA Agentique](https://medium.com/@jlandure/google-cloud-next-3-projets-opensource-pour-lia-agentique-e6cd1a59f3e2) -- [Original](https://medium.com/@jlandure/google-cloud-next-3-projets-opensource-pour-lia-agentique-e6cd1a59f3e2)
+
 ## 2024
 
 - _2024 Jul 23_ [Running Google’s Gemma2 LLM locally with LangchainJS & Ollama](blog/2024-07-23-running-googles-gemma2-llm-locally-with-langchainjs-ollama.md) -- [Original](https://medium.com/google-cloud/running-googles-gemma2-llm-locally-with-langchainjs-ollama-ea4b0bc8747b)
