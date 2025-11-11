@@ -7,6 +7,7 @@
 ## Co-founder & CTO • TechTown <small>(Janvier 2025)</small>
 - Co-création de la société TechTown • Associé
 - Création de la conférence TechReady (1ère édition en Juin 2025) rassemblant 300p pour 35 speakers
+- Gestion du partenariat avec Google Cloud
 - Création du site web, du chatbot et des outils internes
 - Recrutement de profils (entretiens techniques)
 - Marketing & Alimentation des pages Linkedin
