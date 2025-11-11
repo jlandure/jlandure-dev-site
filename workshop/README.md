@@ -1,3 +1,12 @@
+- _2025 Nov_ Getting Started with Terraform for Google Cloud 🇬🇧 - Remote (5d)
+<span class="detail-tag">Official Trainer</span>
+<br>Attendees: 10
+- _2025 Nov_ Getting Started with Google Kubernetes Engine 🇬🇧 - Remote (1d)
+<span class="detail-tag">Official Trainer</span>
+<br>Attendees: 10
+- _2025 Oct_ Machine Learning on Google Cloud 🇬🇧 - Remote (5d)
+<span class="detail-tag">Official Trainer</span>
+<br>Attendees: 16
 - _2025 Oct_ Introduction to AI & ML with Google Cloud 🇫🇷 - Remote (1d)
 <span class="detail-tag">Official Trainer</span>
 <br>Attendees: 13
