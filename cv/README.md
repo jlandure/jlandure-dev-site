@@ -4,10 +4,20 @@
 
 ## [Speaker](../conference/) & [Trainer](../workshop/) & [Open Source contributor](../opensource/)
 
-## Associate • Zenika <small>(Février 2022)</small>
+## Co-founder & CTO • TechTown <small>(Janvier 2025)</small>
+- Co-création de la société TechTown • Associé
+- Création de la conférence TechReady (1ère édition en Juin 2025) rassemblant 300p pour 35 speakers
+- Création du site web, du chatbot et des outils internes
+- Recrutement de profils (entretiens techniques)
+- Marketing & Alimentation des pages Linkedin
+- Sponsoring & Partenariat : La Cantine X La French Tech Nantes / Nantes Métropole / Nantes Digital Week / Gen AI Nantes / DevFest Nantes / Images & Réseaux
+- Accompagnement par le Réseau Entreprendre Atlantique (REA)
+
+## Associate • Zenika <small>(Février 2022 - Octobre 2024)</small>
+- Associé Zenika
 - Participation au Comité de pilotage et Comité Exécutif
 
-## Cloud Engineering Manager • Zenika <small>(Janvier 2023)</small>
+## Cloud Engineering Manager • Zenika <small>(Janvier 2023 - Octobre 2024)</small>
 
 - Head of Cloud Practice at Zenika
   - 🎯 from 0 to 2.5M Influenced Revenue on Google Cloud in 5y / 50% yoy
