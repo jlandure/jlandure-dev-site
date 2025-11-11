@@ -13,6 +13,9 @@
 - _2025 Oct_ Introduction to AI & ML with Google Cloud 🇬🇧 - Remote (1d)
 <span class="detail-tag">Official Trainer</span>
 <br>Attendees: 20
+- _2025 Sep_ Generative AI Leader by Google Cloud 🇬🇧 - Remote (2d)
+<span class="detail-tag">Official Trainer</span>
+<br>Attendees: 14
 - _2025 Jun_ Cloud Workshops on Google Cloud & AWS at EPSI School 🇫🇷 - Nantes (8d)
 <br>Attendees: 43
 - _2025 Apr_ Training GCP Cloud Fundamentals: Security in Google Cloud 🇫🇷 - Tangram, Center Excellence CMA CGM, Marseille (3d)
