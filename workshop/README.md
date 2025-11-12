@@ -1,6 +1,6 @@
 - _2025 Nov_ Getting Started with Terraform for Google Cloud 🇬🇧 - Remote (5d)
 <span class="detail-tag">Official Trainer</span>
-<br>Attendees: 10
+<br>Attendees: 8
 - _2025 Nov_ Getting Started with Google Kubernetes Engine 🇬🇧 - Remote (1d)
 <span class="detail-tag">Official Trainer</span>
 <br>Attendees: 10
