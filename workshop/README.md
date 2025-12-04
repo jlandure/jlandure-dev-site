@@ -1,4 +1,6 @@
-- _2025 Nov_ Getting Started with Terraform for Google Cloud 🇬🇧 - Remote (5d)
+- _2025 Nov_ Getting Started with MCP 🇫🇷 - Decathlon, Nantes (1d)
+<br>Attendees: 11
+- _2025 Nov_ Getting Started with Terraform for Google Cloud 🇬🇧 - Remote (5d) 
 <span class="detail-tag">Official Trainer</span>
 <br>Attendees: 8
 - _2025 Nov_ Getting Started with Google Kubernetes Engine 🇬🇧 - Remote (1d)
@@ -18,7 +20,7 @@
 <br>Attendees: 14
 - _2025 Jun_ Cloud Workshops on Google Cloud & AWS at EPSI School 🇫🇷 - Nantes (8d)
 <br>Attendees: 43
-- _2025 Apr_ Training GCP Cloud Fundamentals: Security in Google Cloud 🇫🇷 - Tangram, Center Excellence CMA CGM, Marseille (3d)
+- _2025 Apr_ Training GCP Cloud Fundamentals: Security in Google Cloud 🇫🇷 - Tangram, Center Excellence, CMA CGM, Marseille (3d)
 <span class="detail-tag">Official Trainer</span>
 <br>Attendees: 13
 - _2025 Mar_ Training GCP Cloud Fundamentals: Core Infrastructure 🇬🇧 - Remote (1d)

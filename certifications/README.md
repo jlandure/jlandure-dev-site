@@ -1,4 +1,6 @@
-- *Google Cloud* - [Gen AI Leader](https://www.credly.com/badges/0563ac90-c9c8-45d1-9907-ac094113aeca)
+- *GitHub* - [GitHub Copilot](https://learn.microsoft.com/en-us/users/julienlandur-7113/credentials/aa3431da02c9a641)
+ <small>Issued Dec 2025</small>
+ - *Google Cloud* - [Gen AI Leader](https://www.credly.com/badges/0563ac90-c9c8-45d1-9907-ac094113aeca)
  <small>Issued Sep 2025</small>
 - *Google Cloud* - [Professional Cloud DevOps Engineer](https://www.credly.com/badges/623e6646-29c5-42f2-9d99-d27b89df8336)
  <small>Issued Jul 2025 -- renewal</small>
