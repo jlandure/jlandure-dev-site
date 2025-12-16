@@ -1,4 +1,7 @@
-- _2025 Nov_ Getting Started with MCP 🇫🇷 - Decathlon, Nantes (1d)
+- _2025 Dec_ Machine Learning on Google Cloud 🇫🇷 - Remote (5d)
+<span class="detail-tag">Official Trainer</span>
+<br>Attendees: 4
+- _2025 Dec_ Getting Started with MCP 🇫🇷 - Decathlon, Nantes (1d)
 <br>Attendees: 11
 - _2025 Nov_ Getting Started with Terraform for Google Cloud 🇬🇧 - Remote (5d) 
 <span class="detail-tag">Official Trainer</span>
