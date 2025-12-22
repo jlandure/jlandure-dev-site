@@ -1,4 +1,6 @@
-- *Google Cloud* - [Professional Cloud Security Engineer](https://www.credly.com/badges/6761d627-2fe9-4d8c-9bf4-64d3bd959127)
+- *Google Cloud* - [Professional Machine Learning Engineer](https://www.credly.com/badges/7d4666c0-b3e3-4406-8c88-7c2cb581bf17)
+ <small>Issued Dec 2025</small>
+ - *Google Cloud* - [Professional Cloud Security Engineer](https://www.credly.com/badges/6761d627-2fe9-4d8c-9bf4-64d3bd959127)
  <small>Issued Dec 2025 -- renewal</small>
  - *GitHub* - [GitHub Copilot](https://learn.microsoft.com/en-us/users/julienlandur-7113/credentials/aa3431da02c9a641)
  <small>Issued Dec 2025</small>
