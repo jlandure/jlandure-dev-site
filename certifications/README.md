@@ -1,3 +1,5 @@
+- *AWS* - [AWS Certified AI Practitioner](https://www.credly.com/badges/010461cf-227a-483f-86fa-4bbf987c8d2b)
+ <small>Issued Feb 2026</small>
 - *Google Cloud* - [Professional Machine Learning Engineer](https://www.credly.com/badges/7d4666c0-b3e3-4406-8c88-7c2cb581bf17)
  <small>Issued Dec 2025</small>
  - *Google Cloud* - [Professional Cloud Security Engineer](https://www.credly.com/badges/6761d627-2fe9-4d8c-9bf4-64d3bd959127)
