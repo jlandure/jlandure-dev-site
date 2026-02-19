@@ -1,3 +1,6 @@
+- _2026 Jan_ Google Cloud Digital Leader 🇬🇧 - Remote (2d) 
+<span class="detail-tag">Official Trainer</span>
+<br>Attendees: 10
 - _2025 Dec_ Machine Learning on Google Cloud 🇫🇷 - Remote (5d)
 <span class="detail-tag">Official Trainer</span>
 <br>Attendees: 4
