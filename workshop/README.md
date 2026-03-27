@@ -1,3 +1,6 @@
+- _2026 Mar_ Getting Started with Google Kubernetes Engine 🇬🇧 - Remote (1d)
+<span class="detail-tag">Official Trainer</span>
+<br>Attendees: 9
 - _2026 Jan_ Google Cloud Digital Leader 🇬🇧 - Remote (2d) 
 <span class="detail-tag">Official Trainer</span>
 <br>Attendees: 10
