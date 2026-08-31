@@ -1,4 +1,10 @@
-- *AWS* - [AWS Certified AI Practitioner](https://www.credly.com/badges/010461cf-227a-483f-86fa-4bbf987c8d2b)
+- *Anthropic* - [Claude Certified Architect - Professional](https://www.credly.com/badges/39052915-f930-4859-880a-ccaaebc7110c)
+ <small>Issued Aug 2026</small>
+- *Google Cloud* - [Professional Cloud Architect](https://www.credly.com/badges/2f5bc1a6-792c-4e71-a2e4-e3b09633e0dd)
+ <small>Issued July 2026 -- renewal</small>
+ - *Google Cloud* - [Professional Data Engineer](https://www.credly.com/badges/8b67157e-e887-44aa-b6e9-3b4e72019990)
+<small>Issued Feb 2026 -- renewal</small>
+ - *AWS* - [AWS Certified AI Practitioner](https://www.credly.com/badges/010461cf-227a-483f-86fa-4bbf987c8d2b)
  <small>Issued Feb 2026</small>
 - *Google Cloud* - [Professional Machine Learning Engineer](https://www.credly.com/badges/7d4666c0-b3e3-4406-8c88-7c2cb581bf17)
  <small>Issued Dec 2025</small>
