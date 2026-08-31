@@ -2,6 +2,39 @@
 
 ## 2025
 
+- _2025 Nov_ [DevFest London 2025](https://devfestlondon.com/) - 🇬🇧 London, UK (1d)
+<span class="detail-tag">Speaker</span>
+<br><details><summary>Intergalactic AI : Smarter Agents for a Safer Earth with [Seifeddin Mansri](https://www.linkedin.com/in/seifeddinmansri/) / [Slides](https://speakerdeck.com/jlandure/intergalactic-ai-smarter-agents-for-a-safer-earth-at-devfest-london-2025)
+</summary>
+<span><em>
+Attendees: 80<br>
+Github source code: https://github.com/jlandure/mib-demos
+Linkedin: https://www.linkedin.com/posts/seifeddinmansri_adk-mcp-a2a-activity-7398006997322764289-Ft2g
+In the year 2140, intergalactic travel is routine, and Earth’s safety hinges on a cutting-edge alien registration system. Agents J and S are on a mission to modernize this critical platform using AI-powered agents to ensure alien vessels and lifeforms are compatible with our planet.
+Join us to explore how ADK, Gemma, and serverless deployment (Cloud Run) power autonomous solutions for efficient alien screening.
+Whether you're passionate about AI, serverless technology, or sci-fi-inspired projects, this talk is your gateway to exploring how we protect Earth from intergalactic surprises. Don’t miss it!
+</em>
+<img src="https://storage.googleapis.com/advocu-app/images/6597d5c3b52eaef4e46a602e/activity-images/eb4c608c-bc5e-4c15-871d-7a4120e245c8">
+</span>
+</details>
+- _2025 Oct_ [DevFest Afrique Francophone](https://gdg.community.dev/events/details/google-gdg-ouaga-presents-devfest-afrique-francophone-2025/)
+<span class="detail-tag">Remote</span>
+<span class="detail-tag">Speaker</span>
+<br><details><summary>Serverless GPU ou comment déployer facilement son LLM / [Slides](https://speakerdeck.com/jlandure/serverless-gpu-ou-comment-deployer-facilement-son-llm-at-devfest-afrique-francophone) / [Video](https://www.youtube.com/watch?v=nDRAqnAFOUI&list=PLdVDu8iO6zrMurVwGrFR23uw5OtGh4vFx&t=6s)
+</summary>
+<span><em>
+Attendees: 40<br>
+Github source code: https://github.com/jlandure/simple-gemma3-ollama-langchainjs-app
+Linkedin: https://www.linkedin.com/posts/jlandure_speaker-devfest-afrique-activity-7373974073145737216-CcH6
+DevFest exceptionnel mélangeant les communautés africaines.
+Les solutions d'IA fleurissent : de bonnes pratiques se mettent en place, des frameworks deviennent populaires, le changement de LLM est moins contraignant...
+Par contre, quand il faut aller en production afin de pouvoir héberger son propre LLM pour assurer la sécurité, il n'y a moins de monde.
+Une solution intéressante est de s'appuyer sur les solutions Serverless avec du GPU pour passer moins de temps sur l'infrastructure et plus de temps ailleurs !
+Durant ce talk, nous regarderons comment utiliser Cloud Run GPU de la plateforme Google Cloud pour déployer un LLM open (Gemma3).
+</em>
+<img src="https://media.licdn.com/dms/image/v2/D5622AQHTJBcLFEMlnQ/feedshare-shrink_800/B56ZlOPg2PI4Ag-/0/1757954314495?e=2147483647&v=beta&t=BqnVzUckiHgRiHYiheYdHhx4OVO_pl0y0FjCDVF7liM">
+</span>
+</details>
 - _2025 Sep_ [GDG Cloud Nantes](https://gdg.community.dev/events/details/google-gdg-cloud-nantes-presents-the-clouds-club-3-talks-pour-3-communautes-cloud/) - 🇫🇷 Nantes, France
 <span class="detail-tag">Meetup</span>
 <span class="detail-tag">Speaker</span>
