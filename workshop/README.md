@@ -1,3 +1,13 @@
+- _2026 Jul_ Formation Claude Code 🇫🇷 - RCA, Nantes (2d)
+- _2026 Jun_ Formation Cursor 🇫🇷 - Sigma, Nantes (0.5d)
+- _2026 Jun_ Cloud Workshops on Google Cloud at EPSI School 🇫🇷 - Nantes (8d)
+<br>Attendees: 24
+- _2026 Apr_ Coder avec l'IA 🇫🇷 - Sirehna, Nantes (0.5d)
+<br>[Slides](/slides/2026-04-16-coder-avec-lia-at-sirehna/ ':ignore')
+- _2026 Apr_ Coder avec l'IA 🇫🇷 - IPL / Kereis, Nantes (0.5d)
+<br>[Slides](/slides/2026-04-09-coder-avec-lia-at-ipl-kereis/ ':ignore')
+- _2026 Mar_ Atelier Claude Code - Méthodo & SDD 🇫🇷 - RCA, Nantes (1d)
+<br>Attendees: 8
 - _2026 Mar_ Getting Started with Google Kubernetes Engine 🇬🇧 - Remote (1d)
 <span class="detail-tag">Official Trainer</span>
 <br>Attendees: 9
