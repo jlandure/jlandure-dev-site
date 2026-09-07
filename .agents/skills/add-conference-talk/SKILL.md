@@ -122,7 +122,12 @@ Other optional prefixes already used: `Twitter:`, `Blog "…"` as a sibling line
 ## Image
 
 - Prefer a stable Advocu URL: `https://storage.googleapis.com/advocu-app/images/...`
-- LinkedIn CDN (`media.licdn.com/...`) expires — use only if that is what the user gives and no Advocu URL exists.
+- LinkedIn CDN (`media.licdn.com/...`) expires. Never leave that URL in README.
+- If the user gives a LinkedIn image (or any other expiring CDN), download it locally:
+  1. Save as `conference/images/YYYY-MM-DD-<event-slug>.webp`
+  2. Convert with `cwebp -q 80` when the source is not already WebP
+  3. Reference `<img src="/conference/images/YYYY-MM-DD-<event-slug>.webp">`
+- If a slides folder already exists for this talk, `slides/<slug>/conference.webp` is also fine.
 - Omit `<img>` if there is no image. Never invent a URL.
 
 ## Attendee-only

@@ -227,6 +227,23 @@ Venez assister à ce talk pour apprendre comment bien générer du code en utili
 </em>
 </span>
 </details>
+- _2025 Dec_ [Magazine Programmez](https://www.programmez.com/actualites/cursor-20-et-mode-plan-prise-en-main-et-live-demo-38679)
+<span class="detail-tag">Remote</span>
+<span class="detail-tag">Speaker</span>
+<span class="detail-tag tech">Cursor</span>
+<br><details><summary>Présentation de Cursor 2.0 et de son mode plan / [Video](https://www.youtube.com/watch?v=5V7sHjUbPog&list=PLdVDu8iO6zrMurVwGrFR23uw5OtGh4vFx&index=3&t=1s)
+</summary>
+<span><em>
+Linkedin: https://www.linkedin.com/posts/jlandure_contentcreation-magazine-share-7415033969521401856-bFXG/
+Julien Landuré (TechTown) nous présente le mode plan de Cursor 2.0 :
+introduction à Cursor
+qu'est-ce que le mode plan
+comment l'utiliser et générer le plan
+test de l'application générée
+</em>
+<img src="/conference/images/2025-12-09-magazine-programmez.webp">
+</span>
+</details>
 - _2025 Nov_ [DevFest London 2025](https://devfestlondon.com/) - 🇬🇧 London, UK (1d)
 <span class="detail-tag">Speaker</span>
 <span class="detail-tag tech">Google</span>
