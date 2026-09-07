@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Introduction au FinOps avec Google Cloud - Cloud Alpes — Julien Landuré</title>
+  <meta name="description" content="Video : https://www.youtube.com/watch?v=UuTI2PKNP2I&amp;list=PLdVDu8iO6zrMurVwGrFR23uw5OtGh4vFx&amp;index=2&amp;t=1s https://cloudalpes.fr/speakers/julien-landure Twitter: https://twitter.com/dadideo/status/1699363052045373762 Twitter: http">
+  <link rel="canonical" href="https://jlandure.dev/slides/2023-09-05-introduction-au-finops-avec-google-cloud-cloud-alpes/">
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="Introduction au FinOps avec Google Cloud - Cloud Alpes">
+  <meta property="og:description" content="Video : https://www.youtube.com/watch?v=UuTI2PKNP2I&amp;list=PLdVDu8iO6zrMurVwGrFR23uw5OtGh4vFx&amp;index=2&amp;t=1s https://cloudalpes.fr/speakers/julien-landure Twitter: https://twitter.com/dadideo/status/1699363052045373762 Twitter: http">
+  <meta property="og:url" content="https://jlandure.dev/slides/2023-09-05-introduction-au-finops-avec-google-cloud-cloud-alpes/">
+  <meta property="og:image" content="https://jlandure.dev/slides/2023-09-05-introduction-au-finops-avec-google-cloud-cloud-alpes/cover.webp">
+  <meta property="og:site_name" content="Julien Landuré">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Introduction au FinOps avec Google Cloud - Cloud Alpes">
+  <meta name="twitter:description" content="Video : https://www.youtube.com/watch?v=UuTI2PKNP2I&amp;list=PLdVDu8iO6zrMurVwGrFR23uw5OtGh4vFx&amp;index=2&amp;t=1s https://cloudalpes.fr/speakers/julien-landure Twitter: https://twitter.com/dadideo/status/1699363052045373762 Twitter: http">
+  <meta name="twitter:image" content="https://jlandure.dev/slides/2023-09-05-introduction-au-finops-avec-google-cloud-cloud-alpes/cover.webp">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🚀</text></svg>">
+  <link rel="stylesheet" href="/slides/assets/viewer.css">
+</head>
+<body>
+  <article class="deck-page" data-deck data-pdf="https://storage.googleapis.com/jlandure-dev-slides/slides/2023-09-05-introduction-au-finops-avec-google-cloud-cloud-alpes/deck.pdf" data-title="Introduction au FinOps avec Google Cloud - Cloud Alpes">
+    <header class="player-chrome player-top">
+      <a class="player-logo" href="/slides/">JL</a>
+      <h1 class="player-title">Introduction au FinOps avec Google Cloud - Cloud Alpes</h1>
+      <a class="player-logo" href="/">Home</a>
+    </header>
+    <section class="player-chrome player-stage">
+      <p class="status" data-status hidden></p>
+      <canvas class="player-canvas" data-canvas></canvas>
+      <div class="player-controls">
+        <div class="player-nav">
+          <button class="icon-btn" type="button" data-prev aria-label="Previous slide">‹</button>
+          <button class="icon-btn" type="button" data-next aria-label="Next slide">›</button>
+        </div>
+        <div class="player-actions">
+          <div class="share-menu" data-share-menu>
+            <button class="icon-btn" type="button" data-share aria-label="Share">↗</button>
+            <div class="share-panel">
+              <button type="button" data-copy-link>Copy link</button>
+              <a data-share-linkedin target="_blank" rel="noopener noreferrer">LinkedIn</a>
+              <a data-share-bluesky target="_blank" rel="noopener noreferrer">Bluesky</a>
+              <a data-share-x target="_blank" rel="noopener noreferrer">X</a>
+            </div>
+          </div>
+          <button class="icon-btn" type="button" data-present aria-label="Slides only">▣</button>
+          <button class="icon-btn" type="button" data-fullscreen aria-label="Fullscreen">⛶</button>
+        </div>
+      </div>
+      <div class="progress" aria-hidden="true"><div class="progress-bar" data-progress></div></div>
+    </section>
+    <div class="meta-bar">
+      <div class="meta-author">
+        <img class="avatar" src="/jlandure-450x450.jpg" alt="" width="28" height="28">
+        <span>Julien Landuré</span>
+        <time datetime="2023-09-05">September 5, 2023</time>
+      </div>
+      <div class="meta-actions">
+        <span>Programming</span>
+        <a href="https://storage.googleapis.com/jlandure-dev-slides/slides/2023-09-05-introduction-au-finops-avec-google-cloud-cloud-alpes/deck.pdf" download>Download PDF</a>
+        <a href="https://jlandure.dev/slides/2023-09-05-introduction-au-finops-avec-google-cloud-cloud-alpes/?present=1">Slides only</a>
+      </div>
+    </div>
+    <div class="deck-body">
+      <h1>Introduction au FinOps avec Google Cloud - Cloud Alpes</h1>
+      
+      <div class="deck-description"><p>Video : https://www.youtube.com/watch?v=UuTI2PKNP2I&amp;list=PLdVDu8iO6zrMurVwGrFR23uw5OtGh4vFx&amp;index=2&amp;t=1s</p>
+<p>https://cloudalpes.fr/speakers/julien-landure</p>
+<p>Twitter: https://twitter.com/dadideo/status/1699363052045373762</p>
+<p>Twitter: https://twitter.com/TheBidouilleur/status/1699344114221818057</p>
+<p>&quot;FinOps&quot; est un nouveau mot-clé apparu courant 2020 qui ne cesse de prendre de l'ampleur sur Linkedin au côtés de &quot;Cloud&quot; ou &quot;SRE&quot;.</p>
+<p>Mais c'est quoi le FinOps? (D'ailleurs, on dit peut-être la FinOps en 🇫🇷 😅 ?) Est-ce lié au fait que les devs peuvent tout déployer n'importe comment sans regarder le coût engendré ? Est-ce une nouvelle organisation dans l'entreprise ? Et toi, peux-tu devenir certifié &quot;FinOps&quot; ?</p>
+<p>Quelles sont les mécanismes disponibles en standard avec Google Cloud ? Peut-on facilement profiter de ces optimisations ?</p>
+<p>En retraçant le chemin du Cloud et en étudiant la FinOps Foundation, fondation fille de la Linux Foundation, découvre ce qui se cache derrière ce buzzword! 💸</p></div>
+      <div class="deck-author">
+        <img src="/jlandure-450x450.jpg" alt="" width="48" height="48">
+        <div>
+          <strong>Julien Landuré</strong>
+          <div>September 5, 2023</div>
+        </div>
+      </div>
+    </div>
+  </article>
+  <section class="more-decks">
+  <div class="more-decks-head">
+    <h2>More Decks by Julien Landuré</h2>
+    <a class="see-all" href="/slides/">See All by Julien Landuré</a>
+  </div>
+  <div class="deck-grid"><a class="deck-card" href="/slides/2026-06-11-kiro-ne-codez-plus-seul-pilotez-vos-agents-de-code-at-aws-nantes/">
+  <img class="deck-card-cover" src="/slides/2026-06-11-kiro-ne-codez-plus-seul-pilotez-vos-agents-de-code-at-aws-nantes/cover.webp" alt="" width="1280" height="720" fetchpriority="high" loading="eager" decoding="async">
+  <h3 class="deck-card-title">Kiro : Ne codez plus seul, pilotez vos agents de code @AWS Nantes</h3>
+  <p class="deck-card-meta">June 11, 2026 · AWS Nantes</p>
+</a>
+<a class="deck-card" href="/slides/2026-05-05-recap-cloud-next-2026-at-gdg-cloud-nantes-and-gdg-rennes/">
+  <img class="deck-card-cover" src="/slides/2026-05-05-recap-cloud-next-2026-at-gdg-cloud-nantes-and-gdg-rennes/cover.webp" alt="" width="1280" height="720" loading="lazy" decoding="async">
+  <h3 class="deck-card-title">Récap Cloud Next 2026 @ GDG Cloud Nantes &amp; GDG Rennes</h3>
+  <p class="deck-card-meta">May 5, 2026 · GDG Cloud Nantes &amp; GDG Rennes</p>
+</a>
+<a class="deck-card" href="/slides/2026-04-16-coder-avec-lia-at-sirehna/">
+  <img class="deck-card-cover" src="/slides/2026-04-16-coder-avec-lia-at-sirehna/cover.webp" alt="" width="1280" height="720" loading="lazy" decoding="async">
+  <h3 class="deck-card-title">Coder avec l'IA @Sirehna</h3>
+  <p class="deck-card-meta">April 16, 2026 · Sirehna</p>
+</a></div>
+</section>
+  <footer class="site-footer">
+    <a href="/">jlandure.dev</a> · <a href="/slides/">All slides</a>
+  </footer>
+  <script type="module" src="/slides/assets/viewer.js"></script>
+  <script>
+    const url = location.href.split("#")[0];
+    const encoded = encodeURIComponent(url);
+    const title = encodeURIComponent(document.title);
+    const linkedin = document.querySelector("[data-share-linkedin]");
+    const bluesky = document.querySelector("[data-share-bluesky]");
+    const x = document.querySelector("[data-share-x]");
+    if (linkedin) linkedin.href = `https://www.linkedin.com/sharing/share-offsite/?url=${encoded}`;
+    if (bluesky) bluesky.href = `https://bsky.app/intent/compose?text=${title}%20${encoded}`;
+    if (x) x.href = `https://twitter.com/intent/tweet?url=${encoded}&text=${title}`;
+  </script>
+  <script async src="https://eu.umami.is/script.js" data-website-id="2f1e79be-313e-4f52-891f-c186ab603162"></script>
+</body>
+</html>

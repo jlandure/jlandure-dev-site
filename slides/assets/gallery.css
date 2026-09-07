@@ -1,0 +1,18 @@
+@import url("./viewer.css");
+
+.gallery-page {
+  background: #f7f7f5;
+}
+
+.gallery-toolbar {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 1rem;
+  margin: 0 0 1rem;
+}
+
+.gallery-toolbar h2 {
+  margin: 0;
+  font-size: 1.15rem;
+}
