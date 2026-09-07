@@ -106,10 +106,7 @@ Assurer l'excellence technique. De la rédaction d'un Call for Papers (CFP) qui 
 <img src="https://media.licdn.com/dms/image/v2/D4E22AQE2lUOLcrjlyw/feedshare-shrink_800/B4EZ18fTswHQAc-/0/1775910075422?e=1790208000&v=beta&t=sN9DEs1vGmO-1MXBAZPQcnk7XaMr7i17N6tg0j94slE">
 </span>
 </details>
-- _2026 Apr_ AWS Summit Paris Community Dinner - 🇫🇷 Paris, France
-<span class="detail-tag">Attendee</span>
-<span class="detail-tag tech">AWS</span>
-- _2026 Apr_ [AWS Summit Paris](https://aws.amazon.com/fr/events/summits/paris/) - 🇫🇷 Paris, France (1d)
+- _2026 Apr_ [AWS Summit Paris](https://aws.amazon.com/fr/events/summits/paris/) + AWS Summit Paris Community Dinner - 🇫🇷 Paris, France (1d)
 <span class="detail-tag">Speaker</span>
 <span class="detail-tag tech">AWS</span>
 <br><details><summary>Kiro : Ne codez plus seul, pilotez vos agents de code with [Benjamin Bourgeois](https://www.linkedin.com/in/bengeois/) / [Slides](/slides/2026-04-01-kiro-ne-codez-plus-seul-pilotez-vos-agents-de-code-at-aws-summit-paris/ ':ignore')
