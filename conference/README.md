@@ -1,10 +1,239 @@
 # Conference
 
+## 2026
+
+- _2026 Jun_ [Google I/O Connect 2026 + Google for Developers Community Leads Summit + Community Happy Hour 🌭 + GDE Europe Summit 2026](https://rsvp.withgoogle.com/events/ioconnect-berlin-2026) - 🇩🇪 Berlin, Germany (3d)
+<span class="detail-tag">Attendee</span>
+<span class="detail-tag tech">Google</span>
+<br>Linkedin: https://www.linkedin.com/posts/jlandure_io-connect-berlin-2026-activity-7477266773361369088-NlVG
+- _2026 Jun_ [Soirée Spéciale IA "Design to Code"](https://www.meetup.com/aws-nantes/events/314847786/) - 🇫🇷 Nantes, France
+<span class="detail-tag">Speaker</span>
+<span class="detail-tag">Meetup</span>
+<span class="detail-tag tech">AWS</span>
+<br><details><summary>Kiro : Ne codez plus seul, pilotez vos agents de code / [Slides](/slides/2026-06-11-kiro-ne-codez-plus-seul-pilotez-vos-agents-de-code-at-aws-nantes/ ':ignore')
+</summary>
+<span><em>
+Linkedin: https://www.linkedin.com/posts/jlandure_kiro-aws-ia-share-7471148739118739456-vhCH
+Linkedin: https://www.linkedin.com/posts/aws-user-group-nantes_retrouvez-la-communaut%C3%A9-aws-pour-le-meetup-activity-7470034610433712128-c-nR
+Kiro redéfinit le développement avec un workflow IA-native intégré pour bâtir des applications complexes respectant les standards de qualité. Bien plus qu'un simple éditeur, cet IDE utilise le Spec-Driven Development : une approche qui transforme vos prompts en spécifications structurées pour valider l'intention avant de générer le code.
+Nous partagerons également les bonnes pratiques du Développeur Augmenté : Context Engineering, AGENTS.md, Steering, Skill, MCP…
+Que vous soyez curieux ou utilisateur aguerri, venez découvrir comment transformer votre productivité et générer du code pertinent sans perdre le contrôle.
+</em>
+<img src="https://media.licdn.com/dms/image/v2/D4E1EAQFnn793qloa0Q/event-background-image-crop_720_1280/B4EZ48AmtYIcAQ-/0/1779123252712?e=1789380000&v=beta&t=lu326UQPmkv-e94oBVPFj5cawMDAiIznXQf74RZCP8M">
+</span>
+</details>
+- _2026 Jun_ [French Tech Night](https://www.lacantine.co/french-tech-night/) - 🇫🇷 Nantes, France
+<span class="detail-tag">Attendee</span>
+<br>Linkedin: https://www.linkedin.com/posts/jlandure_tech-frenchtechnight-activity-7470485601105125376-wa-U
+- _2026 May_ [GDG Cloud Nantes](https://gdg.community.dev/events/details/google-gdg-cloud-nantes-presents-workshop-google-antigravity-de-lidee-a-lapp-de-lassistance-a-lorchestration/) - 🇫🇷 Nantes, France
+<span class="detail-tag">Organizer</span>
+<span class="detail-tag">Meetup</span>
+<span class="detail-tag tech">Google</span>
+<br><details><summary>Google Antigravity : De l'idée à l'app, de l'assistance à l'orchestration
+</summary>
+<span><em>
+Attendees: 15<br>
+Soirée spéciale AI pour les développeurs avec l'IDE agentique Google Antigravity
+</em>
+</span>
+</details>
+- _2026 May_ [GDG Rennes](https://gdg.community.dev/events/details/google-gdg-rennes-presents-rex-dun-homelab-overkill-avec-lia-amp-recap-google-cloud-next26/) - 🇫🇷 Rennes, France
+<span class="detail-tag">Speaker</span>
+<span class="detail-tag">Meetup</span>
+<span class="detail-tag tech">Google</span>
+<br><details><summary>Récap "Cloud Next" 2026 with [Nicolas Bouron](https://www.linkedin.com/in/nbouron) / [Slides](/slides/2026-05-05-recap-cloud-next-2026-at-gdg-cloud-nantes-and-gdg-rennes/ ':ignore')
+</summary>
+<span><em>
+Attendees: 35<br>
+Linkedin: https://www.linkedin.com/posts/jlandure_vegas-activity-7460278503268278274-Gqc5
+Julien LANDURE & Nicolas BOURON vous feront un retour des annonces Cloud et IA suite à la conférence Google Cloud Next'26 qui s'est déroulé du 22 au 24 avril à Las Vegas.
+</em>
+</span>
+</details>
+- _2026 May_ [GDG Cloud Nantes](https://www.meetup.com/gdg-cloud-nantes/events/314390404/) - 🇫🇷 Nantes, France
+<span class="detail-tag">Speaker</span>
+<span class="detail-tag">Meetup</span>
+<span class="detail-tag tech">Google</span>
+<br><details><summary>Récap "Cloud Next" 2026 / [Slides](/slides/2026-05-05-recap-cloud-next-2026-at-gdg-cloud-nantes-and-gdg-rennes/ ':ignore')
+</summary>
+<span><em>
+Attendees: 25<br>
+Linkedin: https://www.linkedin.com/posts/jlandure_gemini-activity-7456949501522677760-09ER
+Linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7457091446018326528
+👋 Venez découvrir les dernières nouveautés du Cloud de Google durant cette soirée dédiée à l'événement Cloud Next de Las Vegas. 🚀☁️
+Cet événement a plusieurs objectifs :
+• découvrir les dernières tendances et nouveautés Cloud
+• échanger sur ces technos et créer une communauté Cloud locale
+• promouvoir et donner accès à des codelabs
+• échanger sur les certifications
+• montrer quelques démos !
+• avoir un retour de plusieurs personnes qui étaient physiquement là-bas
+Co-organisé avec le meetup GDG Nantes 🙌
+</em>
+<img src="https://media.licdn.com/dms/image/v2/D4D22AQEWFIlpTgmAyA/feedshare-shrink_800/B4DZ3zpJznHwAg-/0/1777909145361?e=1790208000&v=beta&t=XkeJd7AmEZMZL2hRHOgTT4pHEytxg8iEkYgIPyTO2Zg">
+</span>
+</details>
+- _2026 Apr_ [Cursor Meetup Nantes LIVE](https://www.youtube.com/watch?v=qco6EARpuU8&list=PLdVDu8iO6zrMurVwGrFR23uw5OtGh4vFx)
+<span class="detail-tag">Remote</span>
+<span class="detail-tag">Organizer</span>
+<span class="detail-tag">Meetup</span>
+<span class="detail-tag tech">Cursor</span>
+<br><details><summary>Interview of Juan Bautista Martinez, Cursor AI / [Video](https://www.youtube.com/watch?v=qco6EARpuU8&list=PLdVDu8iO6zrMurVwGrFR23uw5OtGh4vFx)
+</summary>
+<span><em>
+Ready to take your Cursor game to the next level? Join us for Cursor Meetup Nantes LIVE hosted by Julien Landuré, Cursor Ambassador. Juan Bautista Martinez, QA Engineer at Cursor AI, joins the community for an interview and Q&A.
+</em>
+</span>
+</details>
+- _2026 Apr_ [Google Cloud Next 2026](https://cloud.google.com/blog/topics/google-cloud-next/welcome-to-google-cloud-next26) - 🇺🇸 Las Vegas, NV, USA (3d)
+<span class="detail-tag">Attendee</span>
+<span class="detail-tag tech">Google</span>
+<br>Linkedin: https://www.linkedin.com/posts/jlandure_gde-nantes-rennes-activity-7452745681036943360-q_Wb
+Linkedin: https://www.linkedin.com/posts/jlandure_vegas-award-gde-activity-7455536885109620736-i9sk
+- _2026 Apr_ [GDG Mons](https://gdg.community.dev/events/details/google-gdg-mons-presents-le-kit-du-parfait-organizer-partie-1-devenez-le-couteau-suisse-de-la-communaute/)
+<span class="detail-tag">Remote</span>
+<span class="detail-tag">Speaker</span>
+<span class="detail-tag">Meetup</span>
+<span class="detail-tag tech">Google</span>
+<br><details><summary>Content & Speaker Management / [Slides](/slides/2026-04-14-content-and-speaker-management-at-gdg-mons/ ':ignore')
+</summary>
+<span><em>
+Attendees: 15<br>
+Linkedin: https://www.linkedin.com/posts/jlandure_gdgmons-organizer-event-activity-7449351276179566592-DVKI
+Le Kit du Parfait Organizer (Partie 1) : Devenez le "Couteau Suisse" de la Communauté.
+Assurer l'excellence technique. De la rédaction d'un Call for Papers (CFP) qui attire les meilleurs talents à l'accompagnement logistique des orateurs, apprenez à garantir un contenu captivant qui fidélise la communauté.
+</em>
+<img src="https://media.licdn.com/dms/image/v2/D4E22AQE2lUOLcrjlyw/feedshare-shrink_800/B4EZ18fTswHQAc-/0/1775910075422?e=1790208000&v=beta&t=sN9DEs1vGmO-1MXBAZPQcnk7XaMr7i17N6tg0j94slE">
+</span>
+</details>
+- _2026 Apr_ AWS Summit Paris Community Dinner - 🇫🇷 Paris, France
+<span class="detail-tag">Attendee</span>
+<span class="detail-tag tech">AWS</span>
+- _2026 Apr_ [AWS Summit Paris](https://aws.amazon.com/fr/events/summits/paris/) - 🇫🇷 Paris, France (1d)
+<span class="detail-tag">Speaker</span>
+<span class="detail-tag tech">AWS</span>
+<br><details><summary>Kiro : Ne codez plus seul, pilotez vos agents de code with [Benjamin Bourgeois](https://www.linkedin.com/in/bengeois/) / [Slides](/slides/2026-04-01-kiro-ne-codez-plus-seul-pilotez-vos-agents-de-code-at-aws-summit-paris/ ':ignore')
+</summary>
+<span><em>
+Attendees: 235<br>
+Linkedin: https://www.linkedin.com/posts/jlandure_awssummit-aws-kiro-activity-7442583036245790740-rOK6
+Linkedin: https://www.linkedin.com/posts/jlandure_awssummit-aws-awscommunitybuilders-activity-7447531637208178688-_XMN
+Session DEV211, Developer Community Zone, 13:00–13:45. Feedback (19 responses): Content 4.74/5, Speaker 4.79/5, Tech Depth 4.68/5, Learned New 94.7%. Room fill 235% (capacity 100). "Très instructif."
+Kiro redéfinit le développement avec un workflow IA-native intégré pour bâtir des applications complexes respectant les standards de qualité. Bien plus qu'un simple éditeur, cet IDE utilise le Spec-Driven Development : une approche qui transforme vos prompts en spécifications structurées pour valider l'intention avant de générer le code.
+Nous partagerons également les bonnes pratiques du Développeur Augmenté : Context Engineering, AGENTS.md, Steering, Skill, MCP…
+Que vous soyez curieux ou utilisateur aguerri, venez découvrir comment transformer votre productivité et générer du code pertinent sans perdre le contrôle.
+</em>
+<img src="/slides/2026-04-01-kiro-ne-codez-plus-seul-pilotez-vos-agents-de-code-at-aws-summit-paris/conference.webp">
+</span>
+</details>
+- _2026 Feb_ [GDG Paris](https://gdg.community.dev/events/details/google-gdg-paris-presents-hands-on-with-agent-development-kit-adk-google/cohost-gdg-cloud-paris/) - 🇫🇷 Paris, France
+<span class="detail-tag">Attendee</span>
+<span class="detail-tag">Meetup</span>
+<span class="detail-tag tech">Google</span>
+- _2026 Feb_ [Cloud & AI Train the Trainer Roadshow Paris](https://rsvp.withgoogle.com/events/cloud-ai-ttt-fr) - 🇫🇷 Paris, France (1d)
+<span class="detail-tag">Attendee</span>
+<span class="detail-tag tech">Google</span>
+- _2026 Feb_ [GDG Cloud Nantes x Gen AI Nantes](https://gdg.community.dev/events/details/google-gdg-cloud-nantes-presents-comment-google-antigravity-transforme-le-vibe-coding/cohost-gdg-cloud-nantes/) - 🇫🇷 Nantes, France
+<span class="detail-tag">Attendee</span>
+<span class="detail-tag">Meetup</span>
+<span class="detail-tag tech">Google</span>
+- _2026 Feb_ [La Cantine X La French Tech Nantes](https://www.linkedin.com/posts/la-cantine-french-tech-nantes_ia-specdrivendevelopment-devops-activity-7406955062733742080-wpOi) - 🇫🇷 Nantes, France
+<span class="detail-tag">Speaker</span>
+<br><details><summary>Réinventer le delivery logiciel grace à l'IA et au Spec Driven Development with [Emmanuel Cordente](https://www.linkedin.com/in/emmanuel-cordente/) / [Video](https://www.youtube.com/watch?v=hokzODwTH00&list=PLdVDu8iO6zrMurVwGrFR23uw5OtGh4vFx)
+</summary>
+<span><em>
+Attendees: 120<br>
+Linkedin: https://www.linkedin.com/posts/jlandure_molbot-activity-7422225853713059840-xsUm
+Linkedin: https://www.linkedin.com/posts/la-cantine-french-tech-nantes_ia-specdrivendevelopment-devops-activity-7406955062733742080-wpOi
+Linkedin: https://www.linkedin.com/posts/guest-suite_%C3%A9crire-du-code-na-jamais-%C3%A9t%C3%A9-aussi-simple-activity-7422557674946465793-AdFD
+Linkedin: https://www.linkedin.com/posts/sncfconnecttech_la-recette-dun-deliverylogiciel-performant-activity-7428106749125050370-ZasR
+Article: https://www.sncf-connect-tech.fr/fr/actualites/mieux-developper-ia-retour-experimentation-concrete/
+Retour en images de notre prise de parole à La Cantine x La French Tech Nantes.
+Emmanuel Cordente CTO de SNCF Connect & Tech et Julien Landuré Co-fondateur et CTO de TechTown, accompagnés de Florian Perréon CTO de Guest suite, ont partagé leurs retours d'expérience sur le Spec Driven Development : des specs claires pour un delivery plus fiable avec l’IA.
+</em>
+<img src="https://storage.googleapis.com/advocu-app/images/6597d5c3b52eaef4e46a602e/activity-images/d11ca0c2-2397-40cf-a703-a1c26a200906">
+</span>
+</details>
+- _2026 Feb_ [EPSI Nantes](https://www.linkedin.com/posts/sol%C3%A8ne-trivi%C3%A8re-a049021a8_cloudcomputing-devops-genai-activity-7427279496065552384-Ucgb) - 🇫🇷 Nantes, France
+<span class="detail-tag">Speaker</span>
+<br><details><summary>Tour du Cloud en 90 minutes with [Benjamin Bourgeois](https://www.linkedin.com/in/bengeois/)
+</summary>
+<span><em>
+Attendees: 60<br>
+Linkedin: https://www.linkedin.com/posts/sol%C3%A8ne-trivi%C3%A8re-a049021a8_cloudcomputing-devops-genai-activity-7427279496065552384-Ucgb
+Le Cloud n’est pas une destination, c’est un voyage.
+Un condensé d’exploration, de démos pour comprendre où va le Cloud…
+💡 Question de départ
+Le Cloud a-t-il encore des secrets pour vous ? Entre les providers historiques, les modèles hybrides, la montée en puissance des conteneurs et l’arrivée fulgurante de l’IA générative… comment garder le cap dans cet écosystème en constante évolution ?
+🚀 Programme express pour un voyage complet :
+1️⃣ Panorama du Cloud – Les principaux Cloud Providers, leurs modèles de déploiement, et les stratégies de migration les plus efficaces.
+💻 Démo live
+2️⃣ L’évolution du Cloud – Du monolithe aux microservices, du DevOps aux conteneurs : comment ces pratiques transforment nos architectures et nos équipes.
+3️⃣ Les tendances de demain – Sécurité, FinOps et GenAI : quand le Cloud devient intelligent, économe et (parfois) un peu trop bavard.
+🧠 Démo live
+4️⃣ Carrières & communautés – Métiers, certifications et écosystème nantais : où trouver sa place et comment progresser.
+🎯 Et pour finir…
+Un Kahoot pour tester vos connaissances (et gagner quelques goodies 😎)
+</em>
+<img src="https://storage.googleapis.com/advocu-app/images/6597d5c3b52eaef4e46a602e/activity-images/4af93cc5-6600-469b-9669-5b76123973ff">
+</span>
+</details>
+- _2026 Feb_ [Epitech Summit](https://www.linkedin.com/posts/jlandure_github-copilot-activity-7419642466514931712-57ZQ) - 🇫🇷 Nantes, France
+<span class="detail-tag">Speaker</span>
+<br><details><summary>Prise en main de GitHub Copilot & Adoption en Entreprise with [Quentin Michineau](https://www.linkedin.com/in/quentin-michineau/) / [Slides](/slides/2026-02-03-prise-en-main-de-github-copilot-and-adoption-en-entreprise-at-epitech-summit-2026/ ':ignore')
+</summary>
+<span><em>
+Attendees: 50<br>
+Linkedin: https://www.linkedin.com/posts/jlandure_github-copilot-activity-7419642466514931712-57ZQ
+Linkedin: https://www.linkedin.com/posts/u-tech-dsi-cooperative-u_retour-sur-lepitech-summit-2026-hier-activity-7424831742966136832-dfQF
+Les outils d’IA pour les développeurs se sont imposés comme compagnons de code au sein des entreprises pour obtenir un workflow de développement simple et intégré.
+Disponible avec différents modèles, nous montrerons quelques exemples de génération de code pertinente tout en partageant les bonnes pratiques autour de Copilot : Context Engineering, AGENTS.md, Plan Mode, Serveur MCP.
+De la mise en œuvre en entreprise à son utilisation par les équipes Dev & Devops, nous ferons un retour d’expérience sur la démarche adoptée ainsi que les métriques collectées.
+Venez assister à cette présentation pour apprendre comment bien générer du code en utilisant l’IA dans un contexte professionnel !
+</em>
+<img src="/slides/2026-02-03-prise-en-main-de-github-copilot-and-adoption-en-entreprise-at-epitech-summit-2026/cover.webp">
+</span>
+</details>
+- _2026 Feb_ [AWS re:Invent re:Caps](https://www.meetup.com/aws-nantes/events/312404802/) - 🇫🇷 Nantes, France
+<span class="detail-tag">Organizer</span>
+<span class="detail-tag">Meetup</span>
+<span class="detail-tag tech">AWS</span>
+- _2026 Jan_ [Cursor Meetup Nantes LIVE](https://www.youtube.com/watch?v=-04QC1nHFX4&list=PLdVDu8iO6zrMurVwGrFR23uw5OtGh4vFx)
+<span class="detail-tag">Remote</span>
+<span class="detail-tag">Organizer</span>
+<span class="detail-tag">Meetup</span>
+<span class="detail-tag tech">Cursor</span>
+<br><details><summary>Interview de @alexsoyes, AI Driven Dev / [Video](https://www.youtube.com/watch?v=-04QC1nHFX4&list=PLdVDu8iO6zrMurVwGrFR23uw5OtGh4vFx)
+</summary>
+<span><em>
+Prêt à devenir un Pro de Cursor ? Rejoignez-nous pour le Cursor Meetup Nantes LIVE, animé par Julien Landuré, ambassadeur Cursor. Alexandre Soyez, créateur de la communauté AI Driven Dev, sera parmi nous pour une discussion exclusive autour de Cursor et une session Q&A avec la communauté.
+</em>
+</span>
+</details>
+
 ## 2025
 
+- _2025 Dec_ [Soirée Lambda, Spring & Cursor AI](https://nantesjug.org/#/events/2025_12_11) - 🇫🇷 Nantes, France
+<span class="detail-tag">Speaker</span>
+<span class="detail-tag">Meetup</span>
+<span class="detail-tag tech">Cursor</span>
+<br><details><summary>Cursor ou comment mixer Code & IA pour être plus productif ! / [Slides](/slides/2025-12-11-cursor-ou-comment-mixer-code-and-ia-pour-etre-plus-productif-at-nantes-jug/ ':ignore')
+</summary>
+<span><em>
+Attendees: 40<br>
+Linkedin: https://www.linkedin.com/posts/jlandure_cursorai-ia-daezveloppement-activity-7407801264962420736-GlgO
+Cursor AI s'est imposé comme compagnon de code avec un workflow de développement simple et intégré.
+Au delà de nous aider à créer un projet depuis zéro en respectant les bonnes pratiques, ce nouvel IDE sait répondre à beaucoup de choses...
+Disponible avec différents modèles, je montrerai quelques exemples de génération de code pertinente tout en partageant les bonnes pratiques autour de Cursor : Context Engineering, AGENTS.md, Plan Mode, Manipulation du navigateur, Serveur MCP.
+Vous souhaitez générer des apps sans coder mais vous ne savez pas par où commencer ? Vous avez essayé et vous n'êtes pas convaincu ?
+Venez assister à ce talk pour apprendre comment bien générer du code en utilisant l'IA !
+</em>
+</span>
+</details>
 - _2025 Nov_ [DevFest London 2025](https://devfestlondon.com/) - 🇬🇧 London, UK (1d)
 <span class="detail-tag">Speaker</span>
-<br><details><summary>Intergalactic AI : Smarter Agents for a Safer Earth with [Seifeddin Mansri](https://www.linkedin.com/in/seifeddinmansri/) / [Slides](https://speakerdeck.com/jlandure/intergalactic-ai-smarter-agents-for-a-safer-earth-at-devfest-london-2025)
+<span class="detail-tag tech">Google</span>
+<br><details><summary>Intergalactic AI : Smarter Agents for a Safer Earth with [Seifeddin Mansri](https://www.linkedin.com/in/seifeddinmansri/) / [Slides](/slides/2025-11-21-intergalactic-ai-smarter-agents-for-a-safer-earth-at-devfest-london-2025/ ':ignore')
 </summary>
 <span><em>
 Attendees: 80<br>
@@ -20,7 +249,8 @@ Whether you're passionate about AI, serverless technology, or sci-fi-inspired pr
 - _2025 Oct_ [DevFest Afrique Francophone](https://gdg.community.dev/events/details/google-gdg-ouaga-presents-devfest-afrique-francophone-2025/)
 <span class="detail-tag">Remote</span>
 <span class="detail-tag">Speaker</span>
-<br><details><summary>Serverless GPU ou comment déployer facilement son LLM / [Slides](https://speakerdeck.com/jlandure/serverless-gpu-ou-comment-deployer-facilement-son-llm-at-devfest-afrique-francophone) / [Video](https://www.youtube.com/watch?v=nDRAqnAFOUI&list=PLdVDu8iO6zrMurVwGrFR23uw5OtGh4vFx&t=6s)
+<span class="detail-tag tech">Google</span>
+<br><details><summary>Serverless GPU ou comment déployer facilement son LLM / [Slides](/slides/2025-10-03-serverless-gpu-ou-comment-deployer-facilement-son-llm-at-devfest-afrique-francophone/ ':ignore') / [Video](https://www.youtube.com/watch?v=nDRAqnAFOUI&list=PLdVDu8iO6zrMurVwGrFR23uw5OtGh4vFx&t=6s)
 </summary>
 <span><em>
 Attendees: 40<br>
@@ -35,10 +265,27 @@ Durant ce talk, nous regarderons comment utiliser Cloud Run GPU de la plateforme
 <img src="https://media.licdn.com/dms/image/v2/D5622AQHTJBcLFEMlnQ/feedshare-shrink_800/B56ZlOPg2PI4Ag-/0/1757954314495?e=2147483647&v=beta&t=BqnVzUckiHgRiHYiheYdHhx4OVO_pl0y0FjCDVF7liM">
 </span>
 </details>
+- _2025 Sep_ [Cursor Meetup Nantes LIVE](https://luma.com/xb7q1dh4)
+<span class="detail-tag">Remote</span>
+<span class="detail-tag">Organizer</span>
+<span class="detail-tag">Meetup</span>
+<span class="detail-tag tech">Cursor</span>
+<br><details><summary>Interview of Nick Miller, Anysphere / [Slides](/slides/2025-09-24-host-at-cursor-nantes-meetup-live/ ':ignore') / [Video](https://www.youtube.com/watch?v=kU1b8ZFH3gw&list=PLdVDu8iO6zrMurVwGrFR23uw5OtGh4vFx)
+</summary>
+<span><em>
+Attendees: 37<br>
+Linkedin: https://www.linkedin.com/posts/jlandure_cursor-nantes-cursorambassador-activity-7378791235144159232-fiaC
+Linkedin: https://www.linkedin.com/posts/jlandure_et-si-vous-pouviez-diminuer-le-temps-activity-7376152500363612160-Ipag
+Linkedin: https://www.linkedin.com/posts/ayoubsadouri_cursor-aimeetscode-anysphere-activity-7377052633112485889-j1_O
+Ready to take your Cursor game to the next level? Join us for Cursor Meetup Nantes LIVE hosted by Julien Landuré, Cursor Ambassador. Nick Miller from Anysphere joins to share new Cursor features and a Q&A with the community.
+</em>
+</span>
+</details>
 - _2025 Sep_ [GDG Cloud Nantes](https://gdg.community.dev/events/details/google-gdg-cloud-nantes-presents-the-clouds-club-3-talks-pour-3-communautes-cloud/) - 🇫🇷 Nantes, France
 <span class="detail-tag">Meetup</span>
 <span class="detail-tag">Speaker</span>
-<br><details><summary>Serverless GPU ou comment déployer facilement son LLM / [Slides](https://speakerdeck.com/jlandure/serverless-gpu-ou-comment-deployer-facilement-son-llm-at-gdg-cloud-nantes)
+<span class="detail-tag tech">Google</span>
+<br><details><summary>Serverless GPU ou comment déployer facilement son LLM / [Slides](/slides/2025-09-15-serverless-gpu-ou-comment-deployer-facilement-son-llm-at-gdg-cloud-nantes/ ':ignore')
 </summary>
 <span><em>
 Attendees: 51<br>
@@ -55,7 +302,8 @@ Durant ce talk, nous regarderons comment utiliser Cloud Run GPU de la plateforme
 </details>
 - _2025 Jul_ [We Are Developers](https://wearedevelopers.com/world-congress/) - 🇩🇪 Berlin, Germany (2d)
 <span class="detail-tag">Speaker</span>
-<br><details><summary>Serverless GPU: Deploy your LLM seamlessly / [Slides](https://speakerdeck.com/jlandure/serverless-gpu-deploy-your-llm-seamlessly-at-wad25)
+<span class="detail-tag tech">Google</span>
+<br><details><summary>Serverless GPU: Deploy your LLM seamlessly / [Slides](/slides/2025-07-09-serverless-gpu-deploy-your-llm-seamlessly-at-wad25/ ':ignore')
 </summary>
 <span><em>
 Attendees: 60<br>
@@ -71,7 +319,8 @@ We'll dive into how to use Google Cloud's Cloud Run with GPU to seamlessly deplo
 </details>
 - _2025 Jun_ [Google I/O Connect 2025 + GDG Summit + Community Mixer + EMEA GDE Summit 2025](https://rsvp.withgoogle.com/events/ioconnect-berlin-2025/sessions) - 🇩🇪 Berlin, Germany (3d)
 <span class="detail-tag">Speaker</span>
-<br><details><summary>Starting a successful DevFest: Lessons learned from Nantes / [Slides](https://speakerdeck.com/jlandure/starting-a-successful-devfest-lessons-learned-from-nantes-at-gdg-summit-2025)
+<span class="detail-tag tech">Google</span>
+<br><details><summary>Starting a successful DevFest: Lessons learned from Nantes / [Slides](/slides/2025-06-23-starting-a-successful-devfest-lessons-learned-from-nantes-at-gdg-summit-2025/ ':ignore')
 </summary>
 <span><em>
 Attendees: 70<br>
@@ -89,8 +338,9 @@ Ever dreamed of organizing your own DevFest but don't know where to start? Julie
 </span>
 </details>
 - _2025 Jun_ [Soirée AWS User Group Nantes](https://www.linkedin.com/posts/jlandure_awsnantes-awsusergroup-activity-7338985616279326720-iPxv?utm_source=share&utm_medium=member_desktop&rcm=ACoAAACauFEB0eT0AnY440N6UK-z4676r5f7BmU) - 🇫🇷 Nantes, France
-<span class="detail-tag">Attendee</span>
+<span class="detail-tag">Organizer</span>
 <span class="detail-tag">Meetup</span>
+<span class="detail-tag tech">AWS</span>
 - _2025 Jun_ [ENI Talks](https://www.editions-eni.fr/blog/gouvernance-des-donnees-bien-piloter-vos-actifs-numeriques/) - 🇫🇷 Nantes, France
 <span class="detail-tag">Speaker</span>
 <span class="detail-tag">Meetup</span>
@@ -104,7 +354,8 @@ Attendees: 330<br>
 </details>
 - _2025 Jun_ [DevQuest](https://www.devquest.fr/speaker/julien-landure) - 🇫🇷 Niort, France (1d)
 <span class="detail-tag">Speaker</span>
-<br><details><summary>Cloud Run... tout ce qu'il faut sans K8S / [Slides](https://speakerdeck.com/jlandure/cloud-run-dot-dot-dot-tout-ce-quil-faut-sans-k8s-at-devquest) / [Video](https://www.youtube.com/watch?v=pDlmKRgCzpg&list=PLdVDu8iO6zrMurVwGrFR23uw5OtGh4vFx)
+<span class="detail-tag tech">Google</span>
+<br><details><summary>Cloud Run... tout ce qu'il faut sans K8S / [Slides](/slides/2025-06-05-cloud-run-dot-dot-dot-tout-ce-quil-faut-sans-k8s-at-devquest/ ':ignore') / [Video](https://www.youtube.com/watch?v=pDlmKRgCzpg&list=PLdVDu8iO6zrMurVwGrFR23uw5OtGh4vFx)
 </summary>
 <span><em>
 Attendees: 40<br>
@@ -131,11 +382,13 @@ Attendees: 300
 - _2025 May_ [Soirée GDG Nantes au Melting potes](https://www.meetup.com/gdg-nantes/events/307602110/) - 🇫🇷 Nantes, France
 <span class="detail-tag">Attendee</span>
 <span class="detail-tag">Meetup</span>
+<span class="detail-tag tech">Google</span>
 - _2025 May_ [Google Cloud Summit](https://cloudonair.withgoogle.com/events/summit-france-2025) - 🇫🇷 Paris, France (1d)
 <span class="detail-tag">Attendee</span>
+<span class="detail-tag tech">Google</span>
 - _2025 Apr_ [Cloud Toulouse](https://www.linkedin.com/posts/cloud-toulouse_nous-sommes-tr%C3%A8s-heureux-que-le-greenit-activity-7309853769834377216-uZHN) - 🇫🇷 Toulouse, France (1d)
 <span class="detail-tag">Speaker</span>
-<br><details><summary>Bienvenue à la Green Software foundation / [Slides](https://speakerdeck.com/jlandure/bienvenue-a-la-green-software-foundation-at-cloud-toulouse)
+<br><details><summary>Bienvenue à la Green Software foundation / [Slides](/slides/2025-05-14-bienvenue-a-la-green-software-foundation-at-cloud-toulouse/ ':ignore')
 </summary>
 <span><em>
 Attendees: 60<br>
@@ -157,26 +410,33 @@ Venez découvrir comment partager les bonnes pratiques autour de l’éco-concep
 - _2025 Apr_ [Soirée NantesJUG x AWS User Group Nantes](https://www.linkedin.com/posts/jlandure_awsnantes-awsusergroup-meetup-activity-7323035853298036736-1xp5) - 🇫🇷 Nantes, France
 <span class="detail-tag">Attendee</span>
 <span class="detail-tag">Meetup</span>
+<span class="detail-tag tech">AWS</span>
 - _2025 Apr_ Rencontre du Réseau FinOps de l'Ouest - 🇫🇷 Nantes, France
 <span class="detail-tag">Attendee</span>
 <span class="detail-tag">Meetup</span>
 - _2025 Apr_ [Google Cloud Next 2025](https://cloud.google.com/blog/topics/google-cloud-next/welcome-to-google-cloud-next25) - 🇺🇸 Las Vegas, NV, USA (3d) 
 <span class="detail-tag">Attendee</span>
+<span class="detail-tag tech">Google</span>
 <br>[Blog "3 projets OpenSource pour l’IA Agentique"](https://medium.com/@jlandure/google-cloud-next-3-projets-opensource-pour-lia-agentique-e6cd1a59f3e2)
 - _2025 Mar_ [AWS UG Leaders Workshop France](https://www.linkedin.com/posts/jlandure_aws-awscommunitybuilders-aws-activity-7312372235208392704-h1TY) - 🇫🇷 Paris, France (1d)
 <span class="detail-tag">Attendee</span>
+<span class="detail-tag tech">AWS</span>
 - _2025 Mar_ [Gemma Developer Day](https://rsvp.withgoogle.com/events/gemma-dev-day-paris) - 🇫🇷 Paris, France (1d)
 <span class="detail-tag">Attendee</span>
+<span class="detail-tag tech">Google</span>
 - _2025 Mar_ [Build with Gemini Developer day](https://cloudonair.withgoogle.com/events/build-with-gemini) - 🇫🇷 Paris, France (1d)
 <span class="detail-tag">Attendee</span>
+<span class="detail-tag tech">Google</span>
 - _2025 Mar_ GDE Train the Trainer AI Bootcamp - 🇫🇷 Paris, France (1d)
 <span class="detail-tag">Attendee</span>
+<span class="detail-tag tech">Google</span>
 - _2025 Feb_ [AWS User Group Nantes](https://www.meetup.com/aws-nantes/events/305877892/?eventOrigin=group_past_events) - 🇫🇷 Nantes, France
 <span class="detail-tag">Attendee</span>
 <span class="detail-tag">Meetup</span>
+<span class="detail-tag tech">AWS</span>
 - _2025 Feb_ [Epitech Nantes Summit](https://www.linkedin.com/posts/epitech-nantes_epitech-summit-2025-%C3%A0-nantes-activity-7293588495950839808-f98j/) - 🇫🇷 Nantes, France (1d)
 <span class="detail-tag">Speaker</span>
-<br><details><summary>Self-Marketing for Developers / [Slides](https://speakerdeck.com/jlandure/self-marketing-for-developers-at-epitech-summit-2025)
+<br><details><summary>Self-Marketing for Developers / [Slides](/slides/2025-02-03-self-marketing-for-developers-at-epitech-summit-2025/ ':ignore')
 </summary>
 <span><em>
 Attendees: 120<br>
@@ -211,7 +471,7 @@ Attendess to Code In The Dark: 39<br>
 <br>ChatGDG #32 / [Video](https://www.youtube.com/watch?v=ZF1SVaW8f-Y&list=PLdVDu8iO6zrMurVwGrFR23uw5OtGh4vFx&index=3&pp=gAQBiAQB)
 - _2024 Jul_ [We Are Developers](https://wearedevelopers.com/world-congress/) - 🇩🇪 Berlin, Germany (2d)
 <span class="detail-tag">Speaker</span>
-<br><details><summary>What’s new in cloud development environments? / [Slides](https://speakerdeck.com/jlandure/whats-new-in-cloud-development-environments-at-wad24)
+<br><details><summary>What’s new in cloud development environments? / [Slides](/slides/2024-07-17-whats-new-in-cloud-development-environments-at-wad24/ ':ignore')
 </summary>
 <span><em>
 Attendees: 50<br>
@@ -229,7 +489,7 @@ Let’s discover IDX and Google Cloud Workstations to imagine the future of DX.
 <br>[Blog "Google I/O Berlin 2024 Recap"](https://medium.com/googledeveloperseurope/google-i-o-berlin-2024-recap-fa2735385caf)
 - _2024 Jun_ [DevQuest Opening Keynote](https://www.devquest.fr/sessions/level-up-ta-conf-12-ans-daventure-au-devfest-nantes) - 🇫🇷 Niort, France
 <span class="detail-tag">Speaker</span>
-<br><details><summary>Level up ta conf : 12 ans d'aventure au DevFest Nantes with [Annabelle Koster](https://www.linkedin.com/in/annabelle-koster/) / [Slides](https://speakerdeck.com/jlandure/level-up-ta-conf-12-ans-daventure-au-devfest-nantes-at-devquest) / [Video](https://www.youtube.com/watch?v=BIbCacNYObQ&list=PLdVDu8iO6zrMurVwGrFR23uw5OtGh4vFx)
+<br><details><summary>Level up ta conf : 12 ans d'aventure au DevFest Nantes with [Annabelle Koster](https://www.linkedin.com/in/annabelle-koster/) / [Slides](/slides/2024-06-13-level-up-ta-conf-12-ans-daventure-au-devfest-nantes-at-devquest/ ':ignore') / [Video](https://www.youtube.com/watch?v=BIbCacNYObQ&list=PLdVDu8iO6zrMurVwGrFR23uw5OtGh4vFx)
 </summary>
 <span><em>
 Attendees: 400<br>
@@ -265,7 +525,7 @@ Venez (re) découvrir K8S avec 2 workshops et tentez de remporter un cadeau spé
 - _2024 May_ [Zenika](https://speakerdeck.com/jlandure/whats-new-in-cloud-development-environments-conference) - 🇫🇷 Nantes, France
 <span class="detail-tag">Enterprise</span>
 <span class="detail-tag">Speaker</span>
-<br><details><summary>What’s new in cloud development environments? with [Jean-Philippe Baconnais](https://www.linkedin.com/in/jean-philippe-baconnais-931544116/) / [Slides](https://speakerdeck.com/jlandure/whats-new-in-cloud-development-environments-conference)
+<br><details><summary>What’s new in cloud development environments? with [Jean-Philippe Baconnais](https://www.linkedin.com/in/jean-philippe-baconnais-931544116/) / [Slides](/slides/2024-06-10-whats-new-in-cloud-development-environments-conference/ ':ignore')
 </summary>
 <span><em>
 Attendees: 50<br>
@@ -277,7 +537,7 @@ Proposé avec Zenika et joué avec Jean-Philippe Baconnais
 - _2024 May_ [Zenika](https://speakerdeck.com/jlandure/recap-next-2024-at-gdg-toulouse-and-gdg-cloud-nantes) - 🇫🇷 Nantes, France
 <span class="detail-tag">Enterprise</span>
 <span class="detail-tag">Speaker</span>
-<br><details><summary>Recap Cloud Next 2024 / [Slides](https://speakerdeck.com/jlandure/recap-next-2024-at-gdg-toulouse-and-gdg-cloud-nantes)
+<br><details><summary>Recap Cloud Next 2024 / [Slides](/slides/2024-04-23-recap-next-2024-at-gdg-toulouse-and-gdg-cloud-nantes/ ':ignore')
 </summary>
 <span><em>
 Attendees: 100<br>
@@ -290,7 +550,7 @@ Proposé avec Zenika
 <span class="detail-tag">Attendee</span>
 - _2024 Apr_ [GDG Cloud Nantes](https://gdg.community.dev/events/details/google-gdg-cloud-nantes-presents-recap-next-2024/) - 🇫🇷 Nantes, France
 <span class="detail-tag">Meetup Speaker</span>
-<br><details><summary>Recap Next 2024 / [Slides](https://speakerdeck.com/jlandure/recap-next-2024-at-gdg-toulouse-and-gdg-cloud-nantes) / [Video](https://www.youtube.com/watch?v=wg27XXraM5I&list=PLdVDu8iO6zrMurVwGrFR23uw5OtGh4vFx&index=3)
+<br><details><summary>Recap Next 2024 / [Slides](/slides/2024-04-23-recap-next-2024-at-gdg-toulouse-and-gdg-cloud-nantes/ ':ignore') / [Video](https://www.youtube.com/watch?v=wg27XXraM5I&list=PLdVDu8iO6zrMurVwGrFR23uw5OtGh4vFx&index=3)
 </summary>
 <span><em>
 Attendees: 10<br>
@@ -302,7 +562,7 @@ https://www.linkedin.com/posts/gdg-nantes_rendez-vous-jeudi-prochain-pour-un-r%C
 </details>
 - _2024 Apr_ [GDG Toulouse](https://gdg.community.dev/events/details/google-gdg-toulouse-presents-meet-up-100-cloud/) - 🇫🇷 Toulouse, France
 <span class="detail-tag">Meetup Speaker</span>
-<br><details><summary>Meet up 100% Cloud / [Slides](https://speakerdeck.com/jlandure/recap-next-2024-at-gdg-toulouse-and-gdg-cloud-nantes) / [Video](https://youtu.be/gSNtMM61Y_k?si=nh28fqpZHBXC1J3R&t=436)
+<br><details><summary>Meet up 100% Cloud / [Slides](/slides/2024-04-23-recap-next-2024-at-gdg-toulouse-and-gdg-cloud-nantes/ ':ignore') / [Video](https://youtu.be/gSNtMM61Y_k?si=nh28fqpZHBXC1J3R&t=436)
 </summary>
 <span><em>
 Attendees: 50<br>
@@ -319,7 +579,7 @@ https://www.linkedin.com/posts/jlandure_cloud-activity-7188116278279053312-2c4h
 <span class="detail-tag">Attendee</span>
 - _2024 Mar_ [Zenika](https://www.meetup.com/nightclazz-by-zenika-nantes/events/299291152/) - 🇫🇷 Nantes, France
 <span class="detail-tag">Meetup Speaker</span>
-<br><details><summary>👋 Bienvenue à la Green Software Foundation / [Slides](https://speakerdeck.com/jlandure/bienvenue-a-la-green-software-foundation-at-nightclazz-zenika-nantes) / [Video](https://www.youtube.com/watch?v=qc3ggDyrUTQ&list=PLdVDu8iO6zrMurVwGrFR23uw5OtGh4vFx&index=4&t=2310s)
+<br><details><summary>👋 Bienvenue à la Green Software Foundation / [Slides](/slides/2024-03-04-bienvenue-a-la-green-software-foundation-at-nightclazz-zenika-nantes/ ':ignore') / [Video](https://www.youtube.com/watch?v=qc3ggDyrUTQ&list=PLdVDu8iO6zrMurVwGrFR23uw5OtGh4vFx&index=4&t=2310s)
 </summary>
 <span><em>
 Attendees: 25<br>
@@ -335,7 +595,7 @@ Venez découvrir comment partager les bonnes pratiques autour de l’éco-concep
 </details>
 - _2024 Feb_ [Station F](https://www.opensource-experience.com/programme/intervenants/) - 🇫🇷 Paris, France
 <span class="detail-tag">Speaker</span>
-<br><details><summary>Introduction au FinOps avec Google Cloud @ Station F / [Slides](https://speakerdeck.com/jlandure/introduction-au-finops-avec-google-cloud-at-station-f)
+<br><details><summary>Introduction au FinOps avec Google Cloud @ Station F / [Slides](/slides/2024-02-27-introduction-au-finops-avec-google-cloud-at-station-f/ ':ignore')
 </summary>
 <span><em>
 Attendees: 9<br>
@@ -358,7 +618,7 @@ En retraçant le chemin du Cloud et en étudiant la FinOps Foundation, fondation
 <span class="detail-tag">Remote</span>
 <span class="detail-tag">Enterprise</span>
 <span class="detail-tag">Speaker</span>
-<br><details><summary>Tendances IT with [Jimmy Kasprzack](https://www.linkedin.com/in/jimmy-kasprzak/) / [Slides](https://speakerdeck.com/jlandure/tendances-it-2023)
+<br><details><summary>Tendances IT with [Jimmy Kasprzack](https://www.linkedin.com/in/jimmy-kasprzak/) / [Slides](/slides/2023-12-13-tendances-it-2023/ ':ignore')
 </summary>
 <span><em>
 Attendees: 170<br>
@@ -382,7 +642,7 @@ https://www.linkedin.com/posts/jlandure_navigating-the-multicultural-world-of-te
 </details>
 - _2023 Dec_ [OpenSource Experience](https://www.opensource-experience.com/programme/intervenants/) - 🇫🇷 Paris, France
 <span class="detail-tag">Speaker</span>
-<br><details><summary>👋 Bienvenue à la Green Software Foundation / [Slides](https://speakerdeck.com/jlandure/bienvenue-a-la-green-software-foundation-at-opensource-experience-paris)
+<br><details><summary>👋 Bienvenue à la Green Software Foundation / [Slides](/slides/2023-12-05-bienvenue-a-la-green-software-foundation-at-opensource-experience-paris/ ':ignore')
 </summary>
 <span><em>
 Attendees: 60<br>
@@ -399,7 +659,7 @@ Venez découvrir comment partager les bonnes pratiques autour de l’éco-concep
 </details>
 - _2023 Dec_ [Station F](https://rsvp.withgoogle.com/events/gofurther-genai-breakfastlearn) - 🇫🇷 Paris, France
 <span class="detail-tag">Speaker</span>
-<br><details><summary>Gen AI Breakfast & Learn with [Florent Machen](https://www.linkedin.com/in/florentmachen/) / [Slides](https://speakerdeck.com/jlandure/generative-ai-on-google-cloud-at-station-f)
+<br><details><summary>Gen AI Breakfast & Learn with [Florent Machen](https://www.linkedin.com/in/florentmachen/) / [Slides](/slides/2023-12-04-generative-ai-on-google-cloud-at-station-f/ ':ignore')
 </summary>
 <span><em>
 Attendees: 20<br>
@@ -437,7 +697,7 @@ Merci à Google de nous accueillir dans ses locaux et à Zenika de sponsoriser l
 </details>
 - _2023 Sep_ [GDG Cloud Nantes](https://gdg.community.dev/events/details/google-gdg-cloud-nantes-presents-next-recap-2023/) - 🇫🇷 Nantes, France
 <span class="detail-tag">Meetup Speaker</span>
-<br><details><summary>Recap "Cloud Next 2023" / [Slides](https://speakerdeck.com/jlandure/recap-cloud-next-2023-at-gdg-cloud-nantes) / [Video](https://www.youtube.com/watch?v=Fy9w-Gsfr-A)
+<br><details><summary>Recap "Cloud Next 2023" / [Slides](/slides/2023-09-18-recap-cloud-next-2023-at-gdg-cloud-nantes/ ':ignore') / [Video](https://www.youtube.com/watch?v=Fy9w-Gsfr-A)
 </summary>
 <span><em>
 Attendees: 20<br>
@@ -459,7 +719,7 @@ Co-organisé avec le meetup GDG Nantes 🙌
 - _2023 Sep_ [Cloud Sud](https://cloudsud.fr/) 
 <span class="detail-tag">Remote</span>
 <span class="detail-tag">Speaker</span>
-<br><details><summary>Cloud, OpenSource and Community / [Slides](https://speakerdeck.com/jlandure/cloud-opensource-and-community-at-cloud-sud)
+<br><details><summary>Cloud, OpenSource and Community / [Slides](/slides/2023-09-13-cloud-opensource-and-community-at-cloud-sud/ ':ignore')
 </summary>
 <span><em>
 Attendees: 20<br>
@@ -474,7 +734,7 @@ D’une idée open source à l’adoption par une communauté, découvrons comme
 </details>
 - _2023 Sep_ [Cloud Alpes](https://cloudalpes.fr/speakers/julien-landure) - 🇫🇷 Lyon, France
 <span class="detail-tag">Speaker</span>
-<br><details><summary>Introduction au FinOps avec Google Cloud / [Slides](https://speakerdeck.com/jlandure/introduction-au-finops-avec-google-cloud-cloud-alpes) / [Video](https://www.youtube.com/watch?v=UuTI2PKNP2I&list=PLdVDu8iO6zrMurVwGrFR23uw5OtGh4vFx&index=2)
+<br><details><summary>Introduction au FinOps avec Google Cloud / [Slides](/slides/2023-09-05-introduction-au-finops-avec-google-cloud-cloud-alpes/ ':ignore') / [Video](https://www.youtube.com/watch?v=UuTI2PKNP2I&list=PLdVDu8iO6zrMurVwGrFR23uw5OtGh4vFx&index=2)
 </summary>
 <span><em>
 Attendees: 60<br>
@@ -501,7 +761,7 @@ En retraçant le chemin du Cloud et en étudiant la FinOps Foundation, fondation
 <br>[Blog "Retour sur le Google I/O Connect 2023"](https://medium.com/zenika/retour-sur-le-google-i-o-connect-2023-fr-2cb220346042)
 - _2023 May_ [Nuit des Meetups](https://www.lacantine.co/agenda/event/04-05-2023-dugtugnantesaudevfestnantes10ansdecommunautdedevs/) - 🇫🇷 Nantes, France
 <span class="detail-tag">Meetup Speaker</span>
-<br><details><summary>Du GTUG Nantes au DevFest Nantes, 10 ans de communauté de devs with [Annabelle Koster](https://twitter.com/AnnabelleKoster) / [Slides](https://speakerdeck.com/jlandure/du-gtug-nantes-au-devfest-nantes-10-ans-de-communaute-de-devs-a3e35786-d797-485a-b123-7d59ffbc51b5)
+<br><details><summary>Du GTUG Nantes au DevFest Nantes, 10 ans de communauté de devs with [Annabelle Koster](https://twitter.com/AnnabelleKoster) / [Slides](/slides/2023-05-03-du-gtug-nantes-au-devfest-nantes-10-ans-de-communaute-de-devs-a3e35786-d797-485a-b123-7d59ffbc51b5/ ':ignore')
 </summary>
 <span><em>
 Attendees: 30<br>
@@ -519,7 +779,7 @@ Nous avons monté le meetup et le DevFest from scratch avec une association loi 
 <span class="detail-tag">Remote</span>
 <span class="detail-tag">Enterprise</span>
 <span class="detail-tag">Speaker</span>
-<br><details><summary>Tendances IT with [Antoine Bonneau](https://twitter.com/CallMeGoodWater) / [Slides](https://speakerdeck.com/jlandure/tendances-it)
+<br><details><summary>Tendances IT with [Antoine Bonneau](https://twitter.com/CallMeGoodWater) / [Slides](/slides/2022-10-05-tendances-it/ ':ignore')
 </summary>
 <span><em>
 Attendees: 15<br>
@@ -531,7 +791,7 @@ Parcourrons les sujets du moment autour de 6 thématiques : le recrutement, le n
 - _2023 May_ [Zenika - Best Of TZ](https://www.eventbrite.fr/e/billets-best-of-technozaure-4-par-et-pour-des-passionnes-de-tech-592457485287)
 <span class="detail-tag">Remote</span>
 <span class="detail-tag">Speaker</span>
-<br><details><summary>Introduction to FinOps with Google Cloud / [Slides](https://speakerdeck.com/jlandure/introduction-au-finops-avec-google-cloud) / [Video](https://www.youtube.com/watch?v=CKJ2JbhSqQs&list=PLdVDu8iO6zrMurVwGrFR23uw5OtGh4vFx&index=1)
+<br><details><summary>Introduction to FinOps with Google Cloud / [Slides](/slides/2023-05-10-introduction-au-finops-avec-google-cloud/ ':ignore') / [Video](https://www.youtube.com/watch?v=CKJ2JbhSqQs&list=PLdVDu8iO6zrMurVwGrFR23uw5OtGh4vFx&index=1)
 </summary>
 <span><em>
 Attendees: 20<br>
@@ -546,7 +806,7 @@ En retraçant le chemin du Cloud et en étudiant la FinOps Foundation, fondation
 - _2023 Apr_ [GDG Cloud Nantes - 6 weeks Certification Study Group](https://gdg.community.dev/events/details/google-gdg-cloud-nantes-presents-certification-study-group-road-to-certification-pca-2023-04-18/)
 <span class="detail-tag">Remote</span>
 <span class="detail-tag">Meetup Speaker</span>
-<br><details><summary>Certification Study Group - Road to certification PCA Week 1 to Week 6 / [Slides](https://speakerdeck.com/jlandure/certification-study-group-road-to-certification-pca-week1) / [Video](https://www.youtube.com/watch?v=Hz6ftEqxIXY)
+<br><details><summary>Certification Study Group - Road to certification PCA Week 1 to Week 6 / [Slides](/slides/2023-04-17-certification-study-group-road-to-certification-pca-week1/ ':ignore') / [Video](https://www.youtube.com/watch?v=Hz6ftEqxIXY)
 </summary>
 <span><em>
 Attendees: 85<br>
@@ -559,7 +819,7 @@ Attendees: 85<br>
 <span class="detail-tag">Remote</span>
 <span class="detail-tag">Enterprise</span>
 <span class="detail-tag">Speaker</span>
-<br><details><summary>Tendances IT with [Antoine Bonneau](https://twitter.com/CallMeGoodWater) / [Slides](https://speakerdeck.com/jlandure/tendances-it)
+<br><details><summary>Tendances IT with [Antoine Bonneau](https://twitter.com/CallMeGoodWater) / [Slides](/slides/2022-10-05-tendances-it/ ':ignore')
 </summary>
 <span><em>
 Attendees: 100<br>
@@ -572,7 +832,7 @@ Parcourrons les sujets du moment autour de 6 thématiques : le recrutement, le n
 - _2023 Mar_ [GDG Cloud Nantes](https://gdg.community.dev/events/details/google-gdg-cloud-nantes-presents-certification-study-group-info-session-session-dinformation/)
 <span class="detail-tag">Remote</span>
 <span class="detail-tag">Meetup Speaker</span>
-<br><details><summary>Certification Study Group - Info Session // Session d’information / [Slides](https://speakerdeck.com/jlandure/certification-study-group-session-dinformation-sur-les-certifications-google-cloud) / [Video](https://www.youtube.com/watch?v=lSE_iT2bO4g)
+<br><details><summary>Certification Study Group - Info Session // Session d’information / [Slides](/slides/2023-03-29-certification-study-group-session-dinformation-sur-les-certifications-google-cloud/ ':ignore') / [Video](https://www.youtube.com/watch?v=lSE_iT2bO4g)
 </summary>
 <span><em>
 Attendees: 50<br>
@@ -584,7 +844,7 @@ Attendees: 50<br>
 - _2023 Feb_ [Very Tech Trip](https://verytechtrip.com/programme) - 🇫🇷 Paris, France
 <span class="detail-tag">Speaker</span>
 <br><details><summary>Introduction to FinOps ☁️
- / [Slides](https://speakerdeck.com/jlandure/introduction-to-finops)
+ / [Slides](/slides/2023-02-01-introduction-to-finops/ ':ignore')
 </summary>
 <span><em>
 Attendees: 25<br>
@@ -596,13 +856,13 @@ Mais c'est quoi le FinOps? (D'ailleurs, on dit peut-être la FinOps en 🇫🇷 
 </details>
 - _2023 Jan_ [Station F & GDG Cloud Nantes](https://rsvp.withgoogle.com/events/zenika-talk-1/home) - 🇫🇷 Paris, France
 <span class="detail-tag">Speaker</span>
-<br><details><summary>Cloud Code - Comment déployer facilement des applications cloud depuis votre IDE? with [Mael Galite](https://www.linkedin.com/in/mael-galite/) / [Slides](https://speakerdeck.com/jlandure/gdg-cloud-nantes-cloud-code-comment-deployer-facilement-des-applications-cloud-depuis-votre-ide) / [Video](https://www.youtube.com/watch?v=PQuoZX-Sr_Q)
+<br><details><summary>Cloud Code - Comment déployer facilement des applications cloud depuis votre IDE? with [Mael Galite](https://www.linkedin.com/in/mael-galite/) / [Slides](/slides/2023-01-09-gdg-cloud-nantes-cloud-code-comment-deployer-facilement-des-applications-cloud-depuis-votre-ide/ ':ignore') / [Video](https://www.youtube.com/watch?v=PQuoZX-Sr_Q)
 </summary>
 <span><em>
 Attendees: 12<br>
 Soirée spéciale à Station F
 Video: https://www.youtube.com/watch?v=PQuoZX-Sr_Q
-Slides: https://speakerdeck.com/jlandure/gdg-cloud-nantes-cloud-code-comment-deployer-facilement-des-applications-cloud-depuis-votre-ide
+Slides: /slides/2023-01-09-gdg-cloud-nantes-cloud-code-comment-deployer-facilement-des-applications-cloud-depuis-votre-ide/
 Comment déployer facilement des applications cloud depuis votre IDE ?
 Vous développez des apps en utilisant images Docker ? Vous les déployez sur K8S ? Venez découvrir un outil bien pratique : Cloud Code.
 Cette extension d'IDE va vous permettre de déployer facilement vos applications dans le Cloud. Cloud Code est livré avec des outils pour vous aider à écrire et exécuter facilement des applications cloud-native et permet la collaboration entre Ops et Dev.
@@ -619,7 +879,7 @@ https://gdg.community.dev/events/details/google-gdg-cloud-nantes-presents-cloud-
 - _2022 Nov_ [Google Community Dev Summit](https://twitter.com/jlandure/status/1588822129583476739) - 🇫🇷 Paris, France (2d)
 <span class="detail-tag">Speaker</span>
 <span class="detail-tag">Attendee</span>
-<br><details><summary>Du GTUG Nantes au DevFest Nantes, 10 ans de communauté de devs with [Annabelle Koster](https://twitter.com/AnnabelleKoster) / [Slides](https://speakerdeck.com/jlandure/du-gtug-nantes-au-devfest-nantes-10-ans-de-communaute-de-devs)
+<br><details><summary>Du GTUG Nantes au DevFest Nantes, 10 ans de communauté de devs with [Annabelle Koster](https://twitter.com/AnnabelleKoster) / [Slides](/slides/2022-11-04-du-gtug-nantes-au-devfest-nantes-10-ans-de-communaute-de-devs/ ':ignore')
 </summary>
 <span><em>
 Attendees: 40<br>
@@ -639,7 +899,7 @@ Revenons sur l'histoire d'une communauté technique qui a su trouver sa place da
 <span class="detail-tag">Speaker</span>
 - _2022 Sep_ [Agile Tour Nantes](https://agilenantes.org/evenements/agile-tour-nantes/agile-tour-nantais-2022/) - 🇫🇷 Nantes, France (1d)
 <span class="detail-tag">Speaker</span>
-<br><details><summary>Cloud, OpenSource and Community / [Slides](https://speakerdeck.com/jlandure/cloud-opensource-and-community-1c2f7826-3d53-46dd-81bf-c07376cce52b)
+<br><details><summary>Cloud, OpenSource and Community / [Slides](/slides/2022-11-02-cloud-opensource-and-community-1c2f7826-3d53-46dd-81bf-c07376cce52b/ ':ignore')
 </summary>
 <span><em>
 Attendees: 15<br>
@@ -655,7 +915,7 @@ D’une idée open source à l’adoption par une communauté, découvrons comme
 - _2022 Oct_ [Zenika Women Empowerment](https://speakerdeck.com/jlandure/women-empowerment-personal-branding)
 <span class="detail-tag">Remote</span>
 <span class="detail-tag">Speaker</span>
-<br><details><summary>Women Empowerment: Personal Branding & Self-Marketing with [Lise Quesnel](https://twitter.com/QuesnelLise) / [Slides](https://speakerdeck.com/jlandure/women-empowerment-personal-branding)
+<br><details><summary>Women Empowerment: Personal Branding & Self-Marketing with [Lise Quesnel](https://twitter.com/QuesnelLise) / [Slides](/slides/2022-03-08-women-empowerment-personal-branding/ ':ignore')
 </summary>
 <span><em>
 Attendees: 12<br>
@@ -684,7 +944,7 @@ Video: https://twitter.com/devfestnantes/status/1583412109861613569
 <span class="detail-tag">Remote</span>
 <span class="detail-tag">Enterprise</span>
 <span class="detail-tag">Speaker</span>
-<br><details><summary>Tendances IT with [Antoine Bonneau](https://twitter.com/CallMeGoodWater) / [Slides](https://speakerdeck.com/jlandure/tendances-it)
+<br><details><summary>Tendances IT with [Antoine Bonneau](https://twitter.com/CallMeGoodWater) / [Slides](/slides/2022-10-05-tendances-it/ ':ignore')
 </summary>
 <span><em>
 Attendees: 250<br>
@@ -695,7 +955,7 @@ Parcourrons les sujets du moment autour de 6 thématiques : le recrutement, le n
 </details>
 - _2022 Sep_ [Salon Data](https://salondata.fr/index.php/conferences-2022) - 🇫🇷 Nantes, France (1d)
 <span class="detail-tag">Speaker</span>
-<br><details><summary>Cloud, OpenSource and Community / [Slides](https://speakerdeck.com/jlandure/cloud-opensource-and-community-salon-data) / [Video](https://www.youtube.com/watch?v=jf-aPborO0A&list=PLdVDu8iO6zrMurVwGrFR23uw5OtGh4vFx&index=1)
+<br><details><summary>Cloud, OpenSource and Community / [Slides](/slides/2022-09-19-cloud-opensource-and-community-salon-data/ ':ignore') / [Video](https://www.youtube.com/watch?v=jf-aPborO0A&list=PLdVDu8iO6zrMurVwGrFR23uw5OtGh4vFx&index=1)
 </summary>
 <span><em>
 Attendees: 15<br>
@@ -714,7 +974,7 @@ D’une idée open source à l’adoption par une communauté, découvrons comme
 </details>
 - _2022 Sep_ [Jug Summer Camp 2022](https://www.jugsummercamp.org/edition/13/presentations/igqwAsQzSYfnmWjJzj0B) - 🇫🇷 La Rochelle, France (1d)
 <span class="detail-tag">Speaker</span>
-<br><details><summary>Cloud, OpenSource and Community / [Slides](https://speakerdeck.com/jlandure/cloud-opensource-and-community-f1aead30-4c0a-4298-a0d4-25ce510b23ed) / [Video](https://www.youtube.com/watch?v=dIql5fbreSM&list=PLdVDu8iO6zrMurVwGrFR23uw5OtGh4vFx&index=2)
+<br><details><summary>Cloud, OpenSource and Community / [Slides](/slides/2022-09-08-cloud-opensource-and-community-f1aead30-4c0a-4298-a0d4-25ce510b23ed/ ':ignore') / [Video](https://www.youtube.com/watch?v=dIql5fbreSM&list=PLdVDu8iO6zrMurVwGrFR23uw5OtGh4vFx&index=2)
 </summary>
 <span><em>
 Attendees: 35<br>
@@ -750,7 +1010,7 @@ https://www.linkedin.com/feed/update/urn:li:activity:6942441568922423296/
 <span class="detail-tag">Attendee</span>
 - _2022 May_ [GDG Nantes](https://gdg.community.dev/events/details/google-gdg-nantes-presents-devenir-speaker-tips-tricks/) - 🇫🇷 Nantes, France
 <span class="detail-tag">Meetup Speaker</span>
-<br><details><summary>"Devenir speaker" tips & tricks with [Jean-François Garreau](https://twitter.com/jefbinomed) / [Slides](https://speakerdeck.com/jlandure/devenir-speaker-tips-and-tricks) / [Video](https://www.youtube.com/watch?v=oZO56qV17dw&list=PLdVDu8iO6zrMurVwGrFR23uw5OtGh4vFx&index=3)
+<br><details><summary>"Devenir speaker" tips & tricks with [Jean-François Garreau](https://twitter.com/jefbinomed) / [Slides](/slides/2022-05-09-devenir-speaker-tips-and-tricks/ ':ignore') / [Video](https://www.youtube.com/watch?v=oZO56qV17dw&list=PLdVDu8iO6zrMurVwGrFR23uw5OtGh4vFx&index=3)
 </summary>
 <span><em>
 Attendees: 30<br>
@@ -764,7 +1024,7 @@ Julien LANDURE et Jean-François GARREAU expliqueront toutes les étapes pour de
 </details>
 - _2022 Apr_ [Zenika](https://tz-nantes.zenika.com/)  - 🇫🇷 Nantes, France (1d)
 <span class="detail-tag">Speaker</span>
-<br><details><summary>Tips pour l'animation d'un partenariat with [Antoine Oili](https://www.linkedin.com/in/antoine-oili) / [Slides](https://speakerdeck.com/jlandure/lanimation-dun-partenariat-zenika-nantes)
+<br><details><summary>Tips pour l'animation d'un partenariat with [Antoine Oili](https://www.linkedin.com/in/antoine-oili) / [Slides](/slides/2022-04-27-lanimation-dun-partenariat-zenika-nantes/ ':ignore')
 </summary>
 <span><em>
 Attendees: 15<br>
@@ -777,7 +1037,7 @@ Zenika s'associe depuis des années à des éditeurs pour créer des partenariat
 - _2022 Mar_ [Zenika Women Empowerment](https://speakerdeck.com/jlandure/women-empowerment-personal-branding)
 <span class="detail-tag">Remote</span>
 <span class="detail-tag">Speaker</span>
-<br><details><summary>Women Empowerment: Personal Branding & Self-Marketing with [Lise Quesnel](https://twitter.com/QuesnelLise) / [Slides](https://speakerdeck.com/jlandure/women-empowerment-personal-branding)
+<br><details><summary>Women Empowerment: Personal Branding & Self-Marketing with [Lise Quesnel](https://twitter.com/QuesnelLise) / [Slides](/slides/2022-03-08-women-empowerment-personal-branding/ ':ignore')
 </summary>
 <span><em>
 Attendees: 12<br>
@@ -787,7 +1047,7 @@ Attendees: 12<br>
 - _2022 May_ [DevOps France](https://www.francedevops.fr/webinars/cloud-run-tout-ce-quil-faut-sans-k8s)
 <span class="detail-tag">Remote</span>
 <span class="detail-tag">Meetup Speaker</span>
-<br><details><summary>Cloud Run... everything you need without K8S / [Slides](https://speakerdeck.com/jlandure/cloud-run-dot-dot-dot-everything-you-need-without-k8s-france-devops) / [Video](https://www.youtube.com/watch?v=kszDwRlU3ho)
+<br><details><summary>Cloud Run... everything you need without K8S / [Slides](/slides/2022-05-02-cloud-run-dot-dot-dot-everything-you-need-without-k8s-france-devops/ ':ignore') / [Video](https://www.youtube.com/watch?v=kszDwRlU3ho)
 </summary>
 <span><em>
 Attendees: 55<br>
@@ -804,7 +1064,7 @@ Faisons un tour des petits plus de cette solution : nous y trouvons la majorité
 - _2022 Mar_ [Zenika - Best Of TZ](https://www.eventbrite.fr/e/billets-best-of-technozaure-2-par-et-pour-des-passionnes-de-tech-269021369157)
 <span class="detail-tag">Remote</span>
 <span class="detail-tag">Speaker</span>
-<br><details><summary>Serverless with Google Cloud with [Éric Briand](https://twitter.com/eric_briand) / [Slides](https://speakerdeck.com/jlandure/serverless-with-google-cloud-at-best-of-tz)
+<br><details><summary>Serverless with Google Cloud with [Éric Briand](https://twitter.com/eric_briand) / [Slides](/slides/2022-03-23-serverless-with-google-cloud-at-best-of-tz/ ':ignore')
 </summary>
 <span><em>
 Attendees: 30<br>
@@ -819,7 +1079,7 @@ Venez découvrir ces différentes solutions !
 - _2022 Mar_ [Cloud Sud](https://www.linkedin.com/feed/update/urn:li:activity:6911949784463360002/)
 <span class="detail-tag">Remote</span>
 <span class="detail-tag">Speaker</span>
-<br><details><summary>Cloud Run... everything you need without K8S / [Slides](https://speakerdeck.com/jlandure/cloud-run-dot-dot-dot-everything-you-need-without-k8s-cloud-sud)
+<br><details><summary>Cloud Run... everything you need without K8S / [Slides](/slides/2022-03-23-cloud-run-dot-dot-dot-everything-you-need-without-k8s-cloud-sud/ ':ignore')
 </summary>
 <span><em>
 Attendees: 40<br>
@@ -836,7 +1096,7 @@ Faisons un tour des petits plus de cette solution : nous y trouvons la majorité
 - _2022 Mar_ Microsoft Tech Group Summit 2022 - 🇫🇷 Paris, France (2d)
 <span class="detail-tag">Speaker</span>
 <span class="detail-tag">Attendee</span>
-<br><details><summary>Du GTUG Nantes au DevFest Nantes, 10 ans de communauté de devs with [Annabelle Koster](https://twitter.com/AnnabelleKoster) / [Slides](https://speakerdeck.com/jlandure/du-gtug-nantes-au-devfest-nantes-10-ans-de-communaute-de-devs)
+<br><details><summary>Du GTUG Nantes au DevFest Nantes, 10 ans de communauté de devs with [Annabelle Koster](https://twitter.com/AnnabelleKoster) / [Slides](/slides/2022-11-04-du-gtug-nantes-au-devfest-nantes-10-ans-de-communaute-de-devs/ ':ignore')
 </summary>
 <span><em>
 Attendees: 30<br>
@@ -854,7 +1114,7 @@ https://twitter.com/jlandure/status/1504817019426082819
 - _2022 Mar_ [Zenika Women Empowerment](https://speakerdeck.com/jlandure/women-empowerment-personal-branding)
 <span class="detail-tag">Remote</span>
 <span class="detail-tag">Speaker</span>
-<br><details><summary>Women Empowerment: Personal Branding & Self-Marketing with [Lise Quesnel](https://twitter.com/QuesnelLise) / [Slides](https://speakerdeck.com/jlandure/women-empowerment-personal-branding)
+<br><details><summary>Women Empowerment: Personal Branding & Self-Marketing with [Lise Quesnel](https://twitter.com/QuesnelLise) / [Slides](/slides/2022-03-08-women-empowerment-personal-branding/ ':ignore')
 </summary>
 <span><em>
 Attendees: 16<br>
@@ -881,7 +1141,7 @@ Attendees: 56<br>
 - _2021 Dec_ [DevFest Cloud Abidjan](https://gdg.community.dev/events/details/google-gdg-cloud-abidjan-presents-devfest-cloud-abidjan-2021/)
 <span class="detail-tag">Remote</span>
 <span class="detail-tag">Speaker</span>
-<br><details><summary>Cloud Run... everything you need without K8S / [Slides](https://speakerdeck.com/jlandure/cloud-run-dot-dot-dot-everything-you-need-without-k8s-593400c9-156f-4021-8bd4-7a79dcd51aac)
+<br><details><summary>Cloud Run... everything you need without K8S / [Slides](/slides/2021-12-03-cloud-run-dot-dot-dot-everything-you-need-without-k8s-593400c9-156f-4021-8bd4-7a79dcd51aac/ ':ignore')
 </summary>
 <span><em>
 Attendees: 20<br>
@@ -912,7 +1172,7 @@ https://www.linkedin.com/feed/update/urn:li:activity:6873655934682591232/
 - _2021 Sep_ [Zenika](https://www.meetup.com/fr-FR/NightClazz-by-Zenika-Nantes/events/281671121/)
 <span class="detail-tag">Remote</span>
 <span class="detail-tag">Meetup Speaker</span>
-<br><details><summary>How to create an open source project? with [Julia Lehoux](https://twitter.com/julia_lehoux) / [Slides](https://speakerdeck.com/jlandure/creer-un-projet-open-source-ou-adopter-un-chaton-meme-combat) / [Video](https://www.youtube.com/watch?v=FzVBqSZR9As&list=PLdVDu8iO6zrMurVwGrFR23uw5OtGh4vFx&index=2)
+<br><details><summary>How to create an open source project? with [Julia Lehoux](https://twitter.com/julia_lehoux) / [Slides](/slides/2021-09-23-creer-un-projet-open-source-ou-adopter-un-chaton-meme-combat/ ':ignore') / [Video](https://www.youtube.com/watch?v=FzVBqSZR9As&list=PLdVDu8iO6zrMurVwGrFR23uw5OtGh4vFx&index=2)
 </summary>
 <span><em>
 Attendees: 25<br>
@@ -938,7 +1198,7 @@ Si vous ne venez pas nous écouter, vous pouvez toujours faire un don à la SPA.
 <span class="detail-tag">Remote</span>
 <span class="detail-tag">Meetup Speaker</span>
 <br><details><summary>Serverless avec Google Cloud with [Thibault Ruaro
-](https://twitter.com/ThibaultRuaro) / [Slides](https://speakerdeck.com/jlandure/serverless-avec-google-cloud-comment-mettre-rapidement-en-production-vos-applications) / [Video](https://webikeo.fr/webinar/serverless-avec-google-cloud-comment-mettre-rapidement-en-production-vos-applications-2)
+](https://twitter.com/ThibaultRuaro) / [Slides](/slides/2021-11-29-serverless-avec-google-cloud-comment-mettre-rapidement-en-production-vos-applications/ ':ignore') / [Video](https://webikeo.fr/webinar/serverless-avec-google-cloud-comment-mettre-rapidement-en-production-vos-applications-2)
 </summary>
 <span><em>
 Attendees: 60<br>
@@ -957,7 +1217,7 @@ Grâce à notre partenariat avec Google Cloud, Zenika est fier de proposer ce we
 - _2021 Nov_ [DevFest Mons](https://gdg.community.dev/events/details/google-gdg-mons-presents-devfest-mons/)
 <span class="detail-tag">Remote</span>
 <span class="detail-tag">Speaker</span>
-<br><details><summary>Cloud Run... everything you need without K8S / [Slides](https://speakerdeck.com/jlandure/cloud-run-dot-dot-dot-everything-you-need-without-k8s-9a958057-4e2d-4690-951b-3c90050a5bfc) / [Video](https://www.youtube.com/watch?v=c-ORpm9Z7Fc&list=PLdVDu8iO6zrMurVwGrFR23uw5OtGh4vFx&index=1)
+<br><details><summary>Cloud Run... everything you need without K8S / [Slides](/slides/2021-11-26-cloud-run-dot-dot-dot-everything-you-need-without-k8s-9a958057-4e2d-4690-951b-3c90050a5bfc/ ':ignore') / [Video](https://www.youtube.com/watch?v=c-ORpm9Z7Fc&list=PLdVDu8iO6zrMurVwGrFR23uw5OtGh4vFx&index=1)
 </summary>
 <span><em>
 Attendees: 20<br>
@@ -974,7 +1234,7 @@ Faisons un tour des petits plus de cette solution : nous y trouvons la majorité
 - _2021 Nov_ [Codeurs en Seine](https://www.codeursenseine.com/2021/programme)
 <span class="detail-tag">Remote</span>
 <span class="detail-tag">Speaker</span>
-<br><details><summary>New Big Players with [Antoine Bonneau](https://twitter.com/CallMeGoodWater) / [Slides](https://speakerdeck.com/jlandure/les-nouveaux-geants-du-web-c5fdecbd-cb5c-46f5-96de-070029f31dfd)
+<br><details><summary>New Big Players with [Antoine Bonneau](https://twitter.com/CallMeGoodWater) / [Slides](/slides/2021-11-17-les-nouveaux-geants-du-web-c5fdecbd-cb5c-46f5-96de-070029f31dfd/ ':ignore')
 </summary>
 <span><em>
 Attendees: 200<br>
@@ -1006,7 +1266,7 @@ Linkedin: https://www.linkedin.com/posts/annabelle-koster_quelles-retrouvailles-
 - _2021 Oct_ [Cloud Nord](https://www.cloudnord.fr/programme2021)
 <span class="detail-tag">Remote</span>
 <span class="detail-tag">Speaker</span>
-<br><details><summary>Cloud Run... everything you need without K8S / [Slides](https://speakerdeck.com/jlandure/cloud-run-dot-dot-dot-everything-you-need-without-k8s-cloud-nord)
+<br><details><summary>Cloud Run... everything you need without K8S / [Slides](/slides/2021-10-06-cloud-run-dot-dot-dot-everything-you-need-without-k8s-cloud-nord/ ':ignore')
 </summary>
 <span><em>
 Attendees: 100<br>
@@ -1049,7 +1309,7 @@ https://www.linkedin.com/feed/update/urn:li:activity:6855896473989730305
 </details>
 - _2021 Sep_ [Serverless Days Paris 2021](https://paris.serverlessdays.io/fr/#talks) - 🇫🇷 Paris, France (1d)
 <span class="detail-tag">Speaker</span>
-<br><details><summary>Cloud Run... everything you need without K8S / [Slides](https://speakerdeck.com/jlandure/cloud-run-dot-dot-dot-everything-you-need-without-k8s) / [Video](https://www.youtube.com/watch?v=Sj22ioXHchE&list=PLdVDu8iO6zrMurVwGrFR23uw5OtGh4vFx&index=2)
+<br><details><summary>Cloud Run... everything you need without K8S / [Slides](/slides/2021-09-27-cloud-run-dot-dot-dot-everything-you-need-without-k8s/ ':ignore') / [Video](https://www.youtube.com/watch?v=Sj22ioXHchE&list=PLdVDu8iO6zrMurVwGrFR23uw5OtGh4vFx&index=2)
 </summary>
 <span><em>
 Attendees: 100<br>
@@ -1065,7 +1325,7 @@ Faisons un tour des petits plus de cette solution : nous y trouvons la majorité
 </details>
 - _2021 Sep_ [Zenika](https://tz-nantes.zenika.com/)
 <span class="detail-tag">Speaker</span>
-<br><details><summary>How to create an open source project? with [Julia Lehoux](https://twitter.com/julia_lehoux) / [Slides](https://speakerdeck.com/jlandure/creer-un-projet-open-source-ou-adopter-un-chaton-meme-combat)
+<br><details><summary>How to create an open source project? with [Julia Lehoux](https://twitter.com/julia_lehoux) / [Slides](/slides/2021-09-23-creer-un-projet-open-source-ou-adopter-un-chaton-meme-combat/ ':ignore')
 </summary>
 <span><em>
 Attendees: 25<br>
@@ -1086,7 +1346,7 @@ Si vous ne venez pas nous écouter, vous pouvez toujours faire un don à la SPA.
 - _2021 Sep_ [RRLL - Les Rencontres Régionales du Logiciel Libre 2021](https://eventyay.com/e/bcf0a8e9/schedule?date=2021-09-21)
 <span class="detail-tag">Remote</span>
 <span class="detail-tag">Speaker</span>
-<br><details><summary>Cloud, OpenSource and Community / [Slides](https://speakerdeck.com/jlandure/cloud-opensource-and-community-8d1aa149-90cb-49d6-be46-497094b7196b) / [Video](https://youtu.be/wUFDIf8kJa0?t=5595)
+<br><details><summary>Cloud, OpenSource and Community / [Slides](/slides/2021-09-20-cloud-opensource-and-community-8d1aa149-90cb-49d6-be46-497094b7196b/ ':ignore') / [Video](https://youtu.be/wUFDIf8kJa0?t=5595)
 </summary>
 <span><em>
 Attendees: 40<br>
@@ -1103,7 +1363,7 @@ https://twitter.com/AllianceLibre/status/1440286270492532742
 - _2021 Jul_ [Zenika - Best Of TZ](https://www.eventbrite.fr/e/billets-best-of-technozaure-par-et-pour-des-passionnes-de-tech-158403927411)
 <span class="detail-tag">Remote</span>
 <span class="detail-tag">Speaker</span>
-<br><details><summary>Self-Marketing for Developers / [Slides](https://speakerdeck.com/jlandure/self-marketing-for-developers-df79f8ba-4631-4d37-b00c-3fb73f7cc332) / [Video](https://www.youtube.com/watch?v=Eumotc5_v44&list=PLdVDu8iO6zrMurVwGrFR23uw5OtGh4vFx&index=3)
+<br><details><summary>Self-Marketing for Developers / [Slides](/slides/2021-04-22-self-marketing-for-developers-df79f8ba-4631-4d37-b00c-3fb73f7cc332/ ':ignore') / [Video](https://www.youtube.com/watch?v=Eumotc5_v44&list=PLdVDu8iO6zrMurVwGrFR23uw5OtGh4vFx&index=3)
 </summary>
 <span><em>
 Attendees: 20<br>
@@ -1138,7 +1398,7 @@ Training GCP Cloud Fundamentals: Core Infrastructure @Zenika as official ATP tra
 - _2021 Jun_ [Skillsmatter CloudNative eXchange Forum](https://skillsmatter.com/conferences/13490-cloudnative-exchange-forum-21#program)
 <span class="detail-tag">Remote</span>
 <span class="detail-tag">Speaker</span>
-<br><details><summary>Cloud, OpenSource and Community / [Slides](https://speakerdeck.com/jlandure/cloud-opensource-and-community) / [Video](https://skillsmatter.com/skillscasts/17016-cloud-opensource-and-community)
+<br><details><summary>Cloud, OpenSource and Community / [Slides](/slides/2021-06-21-cloud-opensource-and-community/ ':ignore') / [Video](https://skillsmatter.com/skillscasts/17016-cloud-opensource-and-community)
 </summary>
 <span><em>
 Attendees: 50<br>
@@ -1180,7 +1440,7 @@ Avec cet atelier, vous comprendrez l'idée générale, ces mécanismes et les r�
 - _2021 May_ [DockerCon 2021](https://docker.events.cube365.net/dockercon-live/2021/community)
 <span class="detail-tag">Remote</span>
 <span class="detail-tag">Speaker</span>
-<br><details><summary>Automatically tag your images with Docker Hub hooks! / [Slides](https://speakerdeck.com/jlandure/automatically-tag-your-images-with-docker-hub-hooks)
+<br><details><summary>Automatically tag your images with Docker Hub hooks! / [Slides](/slides/2021-05-27-automatically-tag-your-images-with-docker-hub-hooks/ ':ignore')
 </summary>
 <span><em>
 Attendees: 20<br>
@@ -1237,7 +1497,7 @@ https://twitter.com/ZenikaNantes/status/1395286008200040448
 - _2021 Apr_ [Zenika](https://tz.zenika.com/)
 <span class="detail-tag">Remote</span>
 <span class="detail-tag">Speaker</span>
-<br><details><summary>Self-Marketing for Developers / [Slides](https://speakerdeck.com/jlandure/self-marketing-for-developers-df79f8ba-4631-4d37-b00c-3fb73f7cc332) / [Video](https://youtu.be/9k7i2d3BZ1k)
+<br><details><summary>Self-Marketing for Developers / [Slides](/slides/2021-04-22-self-marketing-for-developers-df79f8ba-4631-4d37-b00c-3fb73f7cc332/ ':ignore') / [Video](https://youtu.be/9k7i2d3BZ1k)
 </summary>
 <span><em>
 Attendees: 25<br>
@@ -1285,7 +1545,7 @@ N'hésite plus, inscris-toi dès maintenant pour être sûr d’obtenir ta place
 <span class="detail-tag">Remote</span>
 <span class="detail-tag">Meetup Speaker</span>
 <span class="detail-tag">Meetup Organizer</span>
-<br><details><summary>Découvrir les Cloud Events avec Cloud Run - Cloud Run Week with [Éric Briand](https://twitter.com/eric_briand) / [Slides](https://speakerdeck.com/jlandure/discovering-cloud-events-with-cloud-run) / [Video](https://www.youtube.com/watch?v=ginM03MEbJY&list=PLdVDu8iO6zrMurVwGrFR23uw5OtGh4vFx&index=5)
+<br><details><summary>Découvrir les Cloud Events avec Cloud Run - Cloud Run Week with [Éric Briand](https://twitter.com/eric_briand) / [Slides](/slides/2021-03-10-discovering-cloud-events-with-cloud-run/ ':ignore') / [Video](https://www.youtube.com/watch?v=ginM03MEbJY&list=PLdVDu8iO6zrMurVwGrFR23uw5OtGh4vFx&index=5)
 </summary>
 <span><em>
 Attendees: 28<br>
@@ -1340,7 +1600,7 @@ _ _2020 Dec_ [Tech.Rocks Summit 2020](https://events.tech.rocks/summit-2020/)
 - _2020 Dec_ [Zenika](https://twitter.com/ZenikaNantes/status/1334808425079959553)
 <span class="detail-tag">Remote</span>
 <span class="detail-tag">Speaker</span>
-<br><details><summary>Dark, a language built for deployless backends / [Slides](https://speakerdeck.com/jlandure/dark-a-language-built-for-deployless-backends)
+<br><details><summary>Dark, a language built for deployless backends / [Slides](/slides/2020-12-03-dark-a-language-built-for-deployless-backends/ ':ignore')
 </summary>
 <span><em>
 Attendees: 34<br>
@@ -1362,7 +1622,7 @@ Voyons ensemble ce que cela donne ! 🚀
 - _2020 Sep_ [GDG Cloud Abidjan & GDG Cloud Nantes](https://www.meetup.com/fr-FR/GDG-Cloud-Nantes/events/273404410/)
 <span class="detail-tag">Remote</span>
 <span class="detail-tag">Speaker</span>
-<br><details><summary>AppEngine : le Serverless au service des développeurs ! / [Slides](https://speakerdeck.com/jlandure/appengine-le-serverless-au-service-des-developpeurs) / [Video](https://www.youtube.com/watch?v=pdWdbPFmj7Y&list=PLdVDu8iO6zrMurVwGrFR23uw5OtGh4vFx&index=8)
+<br><details><summary>AppEngine : le Serverless au service des développeurs ! / [Slides](/slides/2020-09-23-appengine-le-serverless-au-service-des-developpeurs/ ':ignore') / [Video](https://www.youtube.com/watch?v=pdWdbPFmj7Y&list=PLdVDu8iO6zrMurVwGrFR23uw5OtGh4vFx&index=8)
 </summary>
 <span><em>
 Attendees: 25<br>
@@ -1392,7 +1652,7 @@ https://twitter.com/ZenikaIT/status/1298224925040357379
 - _2020 Sep_ [Nantes JS](https://nantesjs.org/meetup-52)
 <span class="detail-tag">Remote</span>
 <span class="detail-tag">Speaker</span>
-<br><details><summary>Self-Marketing for Developers / [Slides](https://speakerdeck.com/jlandure/self-marketing-for-developers-880da038-0322-4233-aeb3-f2baa9497fd1) / [Video](https://www.youtube.com/watch?v=diJAyifTaSc&list=PLdVDu8iO6zrMurVwGrFR23uw5OtGh4vFx&index=7)
+<br><details><summary>Self-Marketing for Developers / [Slides](/slides/2020-09-16-self-marketing-for-developers-880da038-0322-4233-aeb3-f2baa9497fd1/ ':ignore') / [Video](https://www.youtube.com/watch?v=diJAyifTaSc&list=PLdVDu8iO6zrMurVwGrFR23uw5OtGh4vFx&index=7)
 </summary>
 <span><em>
 Attendees: 20<br>
@@ -1409,7 +1669,7 @@ https://twitter.com/NantesJS/status/1306641289811832843
 - _2020 Jun_ [Skillsmatter](https://skillsmatter.com/meetups/13111-let-s-play-with-cloud-code-to-run-cloud-native-applications)
 <span class="detail-tag">Remote</span>
 <span class="detail-tag">Meetup Speaker</span>
-<br><details><summary>Let’s Play with Cloud Code to Run Cloud Native Applications / [Slides](https://speakerdeck.com/jlandure/lets-play-with-cloud-code-to-run-cloud-native-applications) / [Video](https://www.youtube.com/watch?v=31xlUN4CQVE&list=PLdVDu8iO6zrMurVwGrFR23uw5OtGh4vFx&index=9)
+<br><details><summary>Let’s Play with Cloud Code to Run Cloud Native Applications / [Slides](/slides/2020-06-17-lets-play-with-cloud-code-to-run-cloud-native-applications/ ':ignore') / [Video](https://www.youtube.com/watch?v=31xlUN4CQVE&list=PLdVDu8iO6zrMurVwGrFR23uw5OtGh4vFx&index=9)
 </summary>
 <span><em>
 Attendees: 30<br>
@@ -1443,7 +1703,7 @@ Alex Astrum @Google Firebase Team joined me to organize a Firebase Study Jam Onl
 - _2020 Apr_ [Zenika](https://www.meetup.com/fr-FR/NightClazz-by-Zenika-Singapore/events/266776253/)
 <span class="detail-tag">Remote</span>
 <span class="detail-tag">Meetup Speaker</span>
-<br><details><summary>Cloud Patterns ou comment développer une application Cloud-Native / [Slides](https://speakerdeck.com/jlandure/cloud-patterns-ou-comment-developper-une-application-cloud-native) / [Video](https://www.youtube.com/watch?v=qlF378oDqW8&list=PLdVDu8iO6zrMurVwGrFR23uw5OtGh4vFx&index=9)
+<br><details><summary>Cloud Patterns ou comment développer une application Cloud-Native / [Slides](/slides/2020-04-20-cloud-patterns-ou-comment-developper-une-application-cloud-native/ ':ignore') / [Video](https://www.youtube.com/watch?v=qlF378oDqW8&list=PLdVDu8iO6zrMurVwGrFR23uw5OtGh4vFx&index=9)
 </summary>
 <span><em>
 Attendees: 40<br>
@@ -1460,7 +1720,7 @@ Toute une partie sur les concepts de 12-factor ainsi que d'autres patterns seron
 
 - _2019 Dec_ [Singapore Kubernetes User Group](https://www.meetup.com/fr-FR/Singapore-Kubernetes-User-Group/events/266944233/) - 🇸🇬 Singapore
 <span class="detail-tag">Meetup Speaker</span>
-<br><details><summary>Let's play with Cloud Code to Run Cloud Native Applications / [Slides](https://speakerdeck.com/jlandure/lets-play-with-cloud-code)
+<br><details><summary>Let's play with Cloud Code to Run Cloud Native Applications / [Slides](/slides/2019-12-11-lets-play-with-cloud-code/ ':ignore')
 </summary>
 <span><em>
 Attendees: 55<br>
@@ -1474,7 +1734,7 @@ Speaker Profile: CTO at Zenika, Julien is also Google Developer Expert Cloud. He
 </details>
 - _2019 Dec_ [Zenika](https://www.meetup.com/fr-FR/NightClazz-by-Zenika-Singapore/events/266776253/) - 🇸🇬 Singapore
 <span class="detail-tag">Meetup Speaker</span>
-<br><details><summary>Cloud Study Jam / [Slides](https://speakerdeck.com/jlandure/cloud-study-jam-codelab-gcp)
+<br><details><summary>Cloud Study Jam / [Slides](/slides/2019-12-10-cloud-study-jam-codelab-gcp/ ':ignore')
 </summary>
 <span><em>
 Attendees: 26<br>
@@ -1510,7 +1770,7 @@ We've done two codelabs together on StackDriver with qwiklabs
 <br>_Attendees: 50_
 - _2019 Oct_ Agile Tour Nantes - 🇫🇷 Nantes, France 
 <span class="detail-tag">Speaker</span>
-<br><details><summary>New Big Players with [Antoine Bonneau](https://twitter.com/CallMeGoodWater) / [Slides](https://speakerdeck.com/jlandure/les-nouveaux-geants-du-web)
+<br><details><summary>New Big Players with [Antoine Bonneau](https://twitter.com/CallMeGoodWater) / [Slides](/slides/2019-10-28-les-nouveaux-geants-du-web/ ':ignore')
 </summary>
 <span><em>
 Attendees: 50<br>
@@ -1534,7 +1794,7 @@ https://twitter.com/benjifontaine5/status/1189110405420986368
 <br>[Blog "Retour sur le Firebase Summit 2019"](https://blog.zenika.com/2019/10/04/retour-sur-le-firebase-summit-2019/)
 - _2019 Sep_ [Jug Summer Camp 2019](https://www.jugsummercamp.org/edition/10/presentations/GhHS1WVBLFnbRz4lkTkR) - 🇫🇷 La Rochelle, France
 <span class="detail-tag">Speaker</span>
-<br><details><summary>Self-Marketing for Developers / [Slides](https://speakerdeck.com/jlandure/self-marketing-for-developers-ab8e0dff-67e8-4782-a0f2-c6b6c641a11b) / [Video](https://www.youtube.com/watch?v=MEQXY3dv2dg&list=PLdVDu8iO6zrMurVwGrFR23uw5OtGh4vFx&index=11)
+<br><details><summary>Self-Marketing for Developers / [Slides](/slides/2019-12-23-self-marketing-for-developers-ab8e0dff-67e8-4782-a0f2-c6b6c641a11b/ ':ignore') / [Video](https://www.youtube.com/watch?v=MEQXY3dv2dg&list=PLdVDu8iO6zrMurVwGrFR23uw5OtGh4vFx&index=11)
 </summary>
 <span><em>
 Attendees: 75<br>
@@ -1547,7 +1807,7 @@ L'idée est de présenter quelques concepts du Self-Marketing et d'imaginer ense
 </details>
 - _2019 Jun_ [Sunny Tech](https://2019.sunny-tech.io/) - 🇫🇷 Montpellier, France (2d)
 <span class="detail-tag">Speaker</span>
-<br><details><summary>Playing with Skaffold & Container Structure Test & Cloud Run & Cloud Code / [Slides](https://speakerdeck.com/jlandure/jouons-avec-skaffold-and-container-structure-test-dot-dot-dot-and-cloud-code-and-cloud-run)
+<br><details><summary>Playing with Skaffold & Container Structure Test & Cloud Run & Cloud Code / [Slides](/slides/2019-06-26-jouons-avec-skaffold-and-container-structure-test-dot-dot-dot-and-cloud-code-and-cloud-run/ ':ignore')
 </summary>
 <span><em>
 Attendees: 25<br>
@@ -1601,7 +1861,7 @@ https://twitter.com/gdgnantes/status/1121436995581034496
 - _2019 Mar_ [Zenika](https://twitter.com/jlandure/status/1105058578304512001) - 🇫🇷 Rennes, France
 <span class="detail-tag">Enterprise</span>
 <span class="detail-tag">Speaker</span>
-<br><details><summary>Self-Marketing for Developers / [Slides](https://speakerdeck.com/jlandure/101-self-marketing-for-developers) / [Video](https://www.youtube.com/watch?v=T1dnmWdWTAY)
+<br><details><summary>Self-Marketing for Developers / [Slides](/slides/2019-03-07-101-self-marketing-for-developers/ ':ignore') / [Video](https://www.youtube.com/watch?v=T1dnmWdWTAY)
 </summary>
 <span><em>
 Attendees: 40<br>
@@ -1632,7 +1892,7 @@ https://twitter.com/nantesjug/status/1100832919961116672
 </details>
 - _2019 Feb_ [DevFest du bout du monde](https://devfest.duboutdumonde.bzh/speakers/julien_landure/) - 🇫🇷 Brest, France (1d)
 <span class="detail-tag">Speaker</span>
-<br><details><summary>La CNCF et son écosystème / [Slides](https://speakerdeck.com/jlandure/la-cncf-et-son-ecosysteme-81eadbce-9f2b-4511-99db-5cdadc4dafc2) / [Video](https://www.youtube.com/watch?v=mkC_kFN14oQ&list=PLdVDu8iO6zrMurVwGrFR23uw5OtGh4vFx&index=12)
+<br><details><summary>La CNCF et son écosystème / [Slides](/slides/2019-02-21-la-cncf-et-son-ecosysteme-81eadbce-9f2b-4511-99db-5cdadc4dafc2/ ':ignore') / [Video](https://www.youtube.com/watch?v=mkC_kFN14oQ&list=PLdVDu8iO6zrMurVwGrFR23uw5OtGh4vFx&index=12)
 </summary>
 <span><em>
 Attendees: 25<br>
@@ -1713,7 +1973,7 @@ https://twitter.com/ZenikaNantes/status/1067357469880537088
 </details>
 - _2018 Nov_ [Devoxx Marocco](https://cfp.devoxx.ma/schedule/day/wednesday) - 🇲🇦 Marrakesh, Morocco (3d)
 <span class="detail-tag">Speaker</span>
-<br><details><summary>Things you can learn from Big Players with [Antoine Bonneau](https://twitter.com/CallMeGoodWater) / [Slides](https://speakerdeck.com/jlandure/things-you-can-learn-from-big-players)
+<br><details><summary>Things you can learn from Big Players with [Antoine Bonneau](https://twitter.com/CallMeGoodWater) / [Slides](/slides/2018-11-27-things-you-can-learn-from-big-players/ ':ignore')
 </summary>
 <span><em>
 Attendees: 50<br>
@@ -1724,7 +1984,7 @@ Talk about IT and disruption (GAFAM) and fun facts https://twitter.com/laurentgr
 </details>
 - _2018 Nov_ [Devops D-Day](https://devopsdday2018.sched.com/) - 🇫🇷 Marseille, France (1d)
 <span class="detail-tag">Speaker</span>
-<br><details><summary>Playing with Skaffold & Container Structure Test / [Slides](https://speakerdeck.com/jlandure/playing-with-skaffold-and-container-structure-test) / [Video](https://www.youtube.com/watch?v=eeUOL0838Hg&list=PLdVDu8iO6zrMurVwGrFR23uw5OtGh4vFx&index=13)
+<br><details><summary>Playing with Skaffold & Container Structure Test / [Slides](/slides/2018-11-09-playing-with-skaffold-and-container-structure-test/ ':ignore') / [Video](https://www.youtube.com/watch?v=eeUOL0838Hg&list=PLdVDu8iO6zrMurVwGrFR23uw5OtGh4vFx&index=13)
 </summary>
 <span><em>
 Attendees: 100<br>
@@ -1735,7 +1995,7 @@ Vous développez des images Docker ? Vous les déployez sur K8S ? L’un permet 
 </details>
 - _2018 Nov_ [GDE Summit - Google Developers Expert](https://events.withgoogle.com/experts-summit-2018/summit-agenda-18/#content) - 🇺🇸 Sunnyvale, CA, USA (2d)
 <span class="detail-tag">Speaker</span>
-<br><details><summary>Playing with Skaffold & Container Structure Test / [Slides](https://speakerdeck.com/jlandure/playing-with-skaffold-and-container-structure-test)
+<br><details><summary>Playing with Skaffold & Container Structure Test / [Slides](/slides/2018-11-09-playing-with-skaffold-and-container-structure-test/ ':ignore')
 </summary>
 <span><em>
 Attendees: 25<br>
@@ -1763,7 +2023,7 @@ On parle beaucoup de Kubernetes mais tout ce projet est supporté par la fameuse
 - _2018 Oct_ Cloud Next London - 🇬🇧 London, UK (2d)
 <span class="detail-tag">Attendee</span>
 <span class="detail-tag">Speaker</span>
-<br><details><summary>What's the Google Developer Expert program? / [Slides](https://speakerdeck.com/jlandure/what-is-the-google-developer-expert-program)
+<br><details><summary>What's the Google Developer Expert program? / [Slides](/slides/2018-10-09-what-is-the-google-developer-expert-program/ ':ignore')
 </summary>
 <span><em>
 Attendees: 15<br>
@@ -1774,7 +2034,7 @@ During Next London, I made a lightning talk on the community booth. It was an in
 </details>
 - _2018 Sep_ [Jug Summer Camp 2018](https://www.jugsummercamp.org/edition/9) - 🇫🇷 La Rochelle, France (1d)
 <span class="detail-tag">Speaker</span>
-<br><details><summary>La CNCF et son écosystème / [Slides](https://speakerdeck.com/jlandure/la-cncf-et-son-ecosysteme) / [Video](https://www.youtube.com/watch?v=nJsEJ3JouPE&list=PLdVDu8iO6zrMurVwGrFR23uw5OtGh4vFx&index=15)
+<br><details><summary>La CNCF et son écosystème / [Slides](/slides/2018-09-13-la-cncf-et-son-ecosysteme/ ':ignore') / [Video](https://www.youtube.com/watch?v=nJsEJ3JouPE&list=PLdVDu8iO6zrMurVwGrFR23uw5OtGh4vFx&index=15)
 </summary>
 <span><em>
 Attendees: 20<br>
@@ -1785,7 +2045,7 @@ On parle beaucoup de Kubernetes mais tout ce projet est supporté par la fameuse
 </details>
 - _2018 Sep_ [Jug Summer Camp 2018](https://www.jugsummercamp.org/edition/9) - 🇫🇷 La Rochelle, France (1d)
 <span class="detail-tag">Speaker</span>
-<br><details><summary>Playing with Skaffold & Container Structure Test / [Slides](https://speakerdeck.com/jlandure/jouons-avec-skaffold-and-container-structure-test) / [Video](https://www.youtube.com/watch?v=CMVTEqLpOxY&list=PLdVDu8iO6zrMurVwGrFR23uw5OtGh4vFx&index=14)
+<br><details><summary>Playing with Skaffold & Container Structure Test / [Slides](/slides/2018-09-13-jouons-avec-skaffold-and-container-structure-test/ ':ignore') / [Video](https://www.youtube.com/watch?v=CMVTEqLpOxY&list=PLdVDu8iO6zrMurVwGrFR23uw5OtGh4vFx&index=14)
 </summary>
 <span><em>
 Attendees: 30<br>
@@ -1803,7 +2063,7 @@ Vous développez des images Docker ? Vous les déployez sur K8S ? Venez découvr
 - _2018 Jul_ Cloud Next San Francisco - 🇺🇸 San Francisco, CA, USA (3d)
 <span class="detail-tag">Attendee</span>
 <span class="detail-tag">Speaker</span>
-<br><details><summary>The perfect CFP for your community / [Slides](https://speakerdeck.com/jlandure/the-perfect-cfp-for-your-community)
+<br><details><summary>The perfect CFP for your community / [Slides](/slides/2018-07-24-the-perfect-cfp-for-your-community/ ':ignore')
 </summary>
 <span><em>
 Attendees: 10<br>
@@ -1822,7 +2082,7 @@ It was about the evolution of DevFest Nantes and why we created a new CFP to get
 <br>[Blog "Retour sur le Google I/O 2018"](https://blog.zenika.com/2018/05/25/retour-sur-le-google-i-o-2018/)
 - _2018 Apr_ U LEARN by IMIE - 🇫🇷 Nantes, France
 <span class="detail-tag">Speaker</span>
-<br><details><summary>Premiers pas dans la Silicon Valley with [Benjamin Petetot](https://twitter.com/bpetetot) [Éric Briand](https://twitter.com/eric_briand) / [Slides](https://speakerdeck.com/jlandure/premiers-pas-dans-la-silicon-valley)
+<br><details><summary>Premiers pas dans la Silicon Valley with [Benjamin Petetot](https://twitter.com/bpetetot) [Éric Briand](https://twitter.com/eric_briand) / [Slides](/slides/2018-04-05-premiers-pas-dans-la-silicon-valley/ ':ignore')
 </summary>
 <span><em>
 Attendees: 100<br>
@@ -1868,7 +2128,7 @@ Nous profiterons également de cette conférence pour faire un retour sur le Goo
 <span class="detail-tag">Speaker</span>
 - _2017 Jun_ [DevFest Lille 2017](https://devfest-2018.gdglille.org/archives/2017/index.html#/speakers) - 🇫🇷 Lille, France
 <span class="detail-tag">Speaker</span>
-<br><details><summary>Serverless, just a buzzword with [Éric Briand](https://twitter.com/eric_briand) / [Slides](https://speakerdeck.com/jlandure/serverless-just-a-buzzword)
+<br><details><summary>Serverless, just a buzzword with [Éric Briand](https://twitter.com/eric_briand) / [Slides](/slides/2017-06-08-serverless-just-a-buzzword/ ':ignore')
 </summary>
 <span><em>
 Attendees: 39<br>
@@ -1882,7 +2142,7 @@ Les conteneurs se généralisent depuis maintenant quelques temps. Et un nouveau
 </details>
 - _2017 Jun_ Web2Day 2017 - 🇫🇷 Nantes, France
 <span class="detail-tag">Speaker</span>
-<br><details><summary>Cloud Patterns - Writing applications that scale / [Slides](https://speakerdeck.com/jlandure/cloud-patterns-writing-applications-that-scale) / [Video](https://www.youtube.com/watch?v=vxofZQFwtUI&list=PLdVDu8iO6zrMurVwGrFR23uw5OtGh4vFx&index=19)
+<br><details><summary>Cloud Patterns - Writing applications that scale / [Slides](/slides/2016-10-27-cloud-patterns-writing-applications-that-scale/ ':ignore') / [Video](https://www.youtube.com/watch?v=vxofZQFwtUI&list=PLdVDu8iO6zrMurVwGrFR23uw5OtGh4vFx&index=19)
 </summary>
 <span><em>
 Attendees: 38<br>
@@ -1892,7 +2152,7 @@ Connaissez-vous les 12-factor apps ? Au travers de ce talk, nous expliquerons le
 </details>
 - _2017 Jun_ Web2Day 2017 - 🇫🇷 Nantes, France
 <span class="detail-tag">Speaker</span>
-<br><details><summary>Serverless, just a buzzword with [Éric Briand](https://twitter.com/eric_briand) / [Slides](https://speakerdeck.com/jlandure/serverless-just-a-buzzword) / [Video](https://www.youtube.com/watch?v=P8pCWhPl9B4&list=PLdVDu8iO6zrMurVwGrFR23uw5OtGh4vFx&index=18)
+<br><details><summary>Serverless, just a buzzword with [Éric Briand](https://twitter.com/eric_briand) / [Slides](/slides/2017-06-08-serverless-just-a-buzzword/ ':ignore') / [Video](https://www.youtube.com/watch?v=P8pCWhPl9B4&list=PLdVDu8iO6zrMurVwGrFR23uw5OtGh4vFx&index=18)
 </summary>
 <span><em>
 Attendees: 45<br>
@@ -1944,7 +2204,7 @@ Les conteneurs se généralisent depuis maintenant quelques temps. Et un nouveau
 - _2016 Nov_ [DevFest Nantes 2016](https://devfest2016.gdgnantes.com/session.html?id=995) - 🇫🇷 Nantes, France (2d)
 <span class="detail-tag">DevFest Organizer</span>
 <span class="detail-tag">Speaker</span>
-<br><details><summary>Cloud Patterns with [Didier Girard](https://twitter.com/DidierGirard) / [Slides](https://speakerdeck.com/jlandure/cloud-patterns-to-serverless-and-beyond) / [Video](https://www.youtube.com/watch?v=Jv5LmQOXmjU&list=PLdVDu8iO6zrMurVwGrFR23uw5OtGh4vFx&index=20)
+<br><details><summary>Cloud Patterns with [Didier Girard](https://twitter.com/DidierGirard) / [Slides](/slides/2016-11-08-cloud-patterns-to-serverless-and-beyond/ ':ignore') / [Video](https://www.youtube.com/watch?v=Jv5LmQOXmjU&list=PLdVDu8iO6zrMurVwGrFR23uw5OtGh4vFx&index=20)
 </summary>
 <span><em>
 Attendees: 200<br>
@@ -1980,7 +2240,7 @@ C'est un tour d'horizon des bonnes pratiques des géants du web agrémentées d'
 </details>
 - _2016 Sep_ [Jug Summer Camp 2016](https://www.jugsummercamp.org/edition/7/presentations/1151) - 🇫🇷 La Rochelle, France (1d)
 <span class="detail-tag">Speaker</span>
-<br><details><summary>HTTP2, ce qui va changer ! / [Slides](https://speakerdeck.com/jlandure/http2-ce-qui-va-changer) / [Video](https://www.youtube.com/watch?v=3yPUjl_KFOA&list=PLdVDu8iO6zrMurVwGrFR23uw5OtGh4vFx&index=21)
+<br><details><summary>HTTP2, ce qui va changer ! / [Slides](/slides/2016-02-04-http2-ce-qui-va-changer/ ':ignore') / [Video](https://www.youtube.com/watch?v=3yPUjl_KFOA&list=PLdVDu8iO6zrMurVwGrFR23uw5OtGh4vFx&index=21)
 </summary>
 <span><em>
 Attendees: 30<br>
@@ -1995,7 +2255,7 @@ Venez découvrir HTTP2, le futur protocole du Web !
 </details>
 - _2016 Jun_ [Nantes JUG](https://nantesjug.org/#/events/2016_06_14) - 🇫🇷 Nantes, France
 <span class="detail-tag">Meetup Speaker</span>
-<br><details><summary>HTTP2, ce qui va changer ! / [Slides](https://speakerdeck.com/jlandure/http2-ce-qui-va-changer)
+<br><details><summary>HTTP2, ce qui va changer ! / [Slides](/slides/2016-02-04-http2-ce-qui-va-changer/ ':ignore')
 </summary>
 <span><em>
 Attendees: 40<br>
@@ -2011,7 +2271,7 @@ Venez découvrir HTTP2, le futur protocole du Web !
 </details>
 - _2016 Mar_ Web2Day 2016 - 🇫🇷 Nantes, France (3d)
 <span class="detail-tag">Speaker</span>
-<br><details><summary>HTTP2, ce qui va changer ! / [Slides](https://speakerdeck.com/jlandure/http2-ce-qui-va-changer) / [Video](https://www.youtube.com/watch?v=39ER9F4mBvc&list=PLdVDu8iO6zrMurVwGrFR23uw5OtGh4vFx&index=22)
+<br><details><summary>HTTP2, ce qui va changer ! / [Slides](/slides/2016-02-04-http2-ce-qui-va-changer/ ':ignore') / [Video](https://www.youtube.com/watch?v=39ER9F4mBvc&list=PLdVDu8iO6zrMurVwGrFR23uw5OtGh4vFx&index=22)
 </summary>
 <span><em>
 Attendees: 30<br>
@@ -2027,7 +2287,7 @@ Venez découvrir HTTP2, le futur protocole du Web !
 </details>
 - _2016 Mar_ [BreizhCamp 2016](http://2016.breizhcamp.org/) - 🇫🇷 Rennes, France (2d)
 <span class="detail-tag">Speaker</span>
-<br><details><summary>HTTP2, ce qui va changer ! / [Slides](https://speakerdeck.com/jlandure/http2-ce-qui-va-changer)
+<br><details><summary>HTTP2, ce qui va changer ! / [Slides](/slides/2016-02-04-http2-ce-qui-va-changer/ ':ignore')
 </summary>
 <span><em>
 Attendees: 25<br>
@@ -2040,7 +2300,7 @@ Venez découvrir HTTP2, le futur protocole du Web !
 </details>
 - _2016 Feb_ Zenika - 🇫🇷 Paris, France
 <span class="detail-tag">Speaker</span>
-<br><details><summary>HTTP2, ce qui va changer ! / [Slides](https://speakerdeck.com/jlandure/http2-ce-qui-va-changer)
+<br><details><summary>HTTP2, ce qui va changer ! / [Slides](/slides/2016-02-04-http2-ce-qui-va-changer/ ':ignore')
 </summary>
 <span><em>
 Attendees: 40<br>
@@ -2055,7 +2315,7 @@ Venez découvrir HTTP2, le futur protocole du Web !
 </details>
 - _2016 Feb_ DevFest Paris - 🇫🇷 Paris, France
 <span class="detail-tag">Speaker</span>
-<br><details><summary>HTTP2, ce qui va changer ! / [Slides](https://speakerdeck.com/jlandure/http2-ce-qui-va-changer)
+<br><details><summary>HTTP2, ce qui va changer ! / [Slides](/slides/2016-02-04-http2-ce-qui-va-changer/ ':ignore')
 </summary>
 <span><em>
 Attendees: 75<br>
@@ -2089,7 +2349,7 @@ Venez découvrir HTTP2, le futur protocole du Web !
 - _2015 Apr_ GDG Nantes - Soirée Google X et ATAP - 🇫🇷 Nantes, France
 <span class="detail-tag">Meetup Speaker</span>
 <span class="detail-tag">Meetup Organizer</span>
-<br><details><summary>Projets Google [X] avec [Jean-François Garreau](https://twitter.com/jefbinomed) / [Slides](https://speakerdeck.com/jlandure/gdg-at-devoxx-paris-2015)
+<br><details><summary>Projets Google [X] avec [Jean-François Garreau](https://twitter.com/jefbinomed) / [Slides](/slides/2015-04-14-gdg-at-devoxx-paris-2015/ ':ignore')
 </summary>
 <span><em>
 Attendees: 25<br>
@@ -2102,7 +2362,7 @@ Présentation des projets R&D Google [X]
 <br>[Blog "Retour sur le Google I/O 2015"](https://blog.zenika.com/2015/06/10/retour-sur-le-google-io-2015/)
 - _2015 Apr_ Web2Day 2015 - 🇫🇷 Nantes, France (3d) 
 <span class="detail-tag">Speaker</span>
-<br><details><summary>Tour d’horizon des outils pour être un développeur web productif avec [Jean-François Garreau](https://twitter.com/jefbinomed) / [Slides](https://speakerdeck.com/jlandure/tour-dhorizon-des-outils-pour-etre-un-developpeur-web-productif)
+<br><details><summary>Tour d’horizon des outils pour être un développeur web productif avec [Jean-François Garreau](https://twitter.com/jefbinomed) / [Slides](/slides/2015-06-02-tour-dhorizon-des-outils-pour-etre-un-developpeur-web-productif/ ':ignore')
 </summary>
 <span><em>
 Attendees: 55<br>
@@ -2126,7 +2386,7 @@ On sait tous aujourd’hui quelles sont les préconisations pour faire des beaux
 </details>
 - _2015 Apr_ Devoxx France 2015 - 🇫🇷 Paris, France (3d)
 <span class="detail-tag">Speaker</span>
-<br><details><summary>Projets Google [X] avec [Jean-François Garreau](https://twitter.com/jefbinomed) / [Slides](https://speakerdeck.com/jlandure/gdg-at-devoxx-paris-2015)
+<br><details><summary>Projets Google [X] avec [Jean-François Garreau](https://twitter.com/jefbinomed) / [Slides](/slides/2015-04-14-gdg-at-devoxx-paris-2015/ ':ignore')
 </summary>
 <span><em>
 Attendees: 10<br>
@@ -2153,18 +2413,18 @@ Session communautaire pour les GDG de France à Devoxx
 - _2013 Nov_ [DevFest Nantes 2013](https://devfest2013.gdgnantes.com/) - 🇫🇷 Nantes, France (1d)
 <span class="detail-tag">DevFest Organizer</span>
 <span class="detail-tag">Speaker</span>
-<br>[Go & AppEngine](./conference/2013-11-08%20Devfest.md) / [Slides](https://speakerdeck.com/jlandure/go-and-appengine) / [Video](https://www.youtube.com/watch?v=DXMYZLMHfqI&list=PLuZ_sYdawLiWFwTzvodAr6VU0zBs7Hz2z&index=11)
+<br>[Go & AppEngine](./conference/2013-11-08%20Devfest.md) / [Slides](/slides/2013-11-07-go-and-appengine/ ':ignore') / [Video](https://www.youtube.com/watch?v=DXMYZLMHfqI&list=PLuZ_sYdawLiWFwTzvodAr6VU0zBs7Hz2z&index=11)
 - _2013 Oct_ [SEO Camp Day Nantes 2013](https://www.miss-seo-girl.com/le-seo-camp-day-de-nantes-26-octobre-2013/) - 🇫🇷 Nantes, France (1d)
 <span class="detail-tag">Speaker</span>
-<br>[Optimiser son site web avec PageSpeed](./conference/2013-10-26%20SEOCamp.md) / [Slides](https://speakerdeck.com/jlandure/optimiser-son-site-web-avec-pagespeed)
+<br>[Optimiser son site web avec PageSpeed](./conference/2013-10-26%20SEOCamp.md) / [Slides](/slides/2013-10-25-optimiser-son-site-web-avec-pagespeed/ ':ignore')
 - _2013 Oct_ [Agile Tour Rennes] - 🇫🇷 Rennes, France (1d)
 <span class="detail-tag">Attendee</span>
-- _2013 Sep_ Zenika - Matinale AngularJS / [Slides](https://speakerdeck.com/jlandure/industrialiser-ses-developpements-html5-avec-angularjs) - 🇫🇷 Nantes, France
+- _2013 Sep_ Zenika - Matinale AngularJS / [Slides](/slides/2013-09-26-industrialiser-ses-developpements-html5-avec-angularjs/ ':ignore') - 🇫🇷 Nantes, France
 <span class="detail-tag">Enterprise</span>
 <span class="detail-tag">Speaker</span>
 - _2013 Jun_ [BreizhCamp 2013](http://2013.breizhcamp.org/) - 🇫🇷 Rennes, France (1d)
 <span class="detail-tag">Speaker</span>
-<br>[Tour de la plateforme Cloud de Google](./conference/2013-06-13%20Breizhcamp.md) / [Slides](https://speakerdeck.com/jlandure/tour-de-la-plateforme-cloud-de-google) / [Video](https://www.infoq.com/fr/presentations/plateforme-cloud-google/)
+<br>[Tour de la plateforme Cloud de Google](./conference/2013-06-13%20Breizhcamp.md) / [Slides](/slides/2013-06-12-tour-de-la-plateforme-cloud-de-google/ ':ignore') / [Video](https://www.infoq.com/fr/presentations/plateforme-cloud-google/)
 - _2013 Jun_ DevParty - 🇫🇷 Nantes, France
 <span class="detail-tag">Meetup Organizer</span>
 - _2013 May_ Google I/O 2013 - 🇺🇸 San Francisco, CA, USA (3d) 
