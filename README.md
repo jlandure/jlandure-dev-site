@@ -17,7 +17,7 @@
 <a href="jlandure-450x450.jpg" target="_blank" rel="noopener noreferrer">450x450</a>,
 <a href="jlandure-450x450-grayscale.jpg" target="_blank" rel="noopener noreferrer">450x450-grayscale</a>
 - Talks on Youtube: https://www.youtube.com/playlist?list=PLdVDu8iO6zrMurVwGrFR23uw5OtGh4vFx
-- Slides on Speakerdeck: https://speakerdeck.com/jlandure
+- Slides: <a href="/slides/">jlandure.dev/slides</a> (Speaker Deck mirror: https://speakerdeck.com/jlandure)
 - [Speaker Experience](#📣-conferences) / [Trainer Experience](#🎓-workshops-amp-training)
 
 ### 📝 Experience & Resume
@@ -41,7 +41,7 @@
 - 🧵 [Bluesky](https://bsky.app/profile/jlandure.dev)
 - 🧵 [X/Twitter](https://x.com/jlandure)
 - 💻 [GitHub](https://github.com/jlandure)
-- 📣 [Speakerdeck](https://speakerdeck.com/jlandure)
+- 📣 [Slides](/slides/ ':ignore') · [Speakerdeck](https://speakerdeck.com/jlandure)
 - 📺 [Youtube](https://www.youtube.com/playlist?list=PLdVDu8iO6zrMurVwGrFR23uw5OtGh4vFx)
 - 📣 [Sessionize](https://sessionize.com/jlandure/)
 - 📝 [DEV.to](https://dev.to/jlandure)

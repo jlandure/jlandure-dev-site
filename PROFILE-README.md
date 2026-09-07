@@ -36,6 +36,7 @@ Welcome to my GitHub! Passionate about Cloud technologies and AI, I explore and 
 - 🎓 **Google Authorized Trainer** — Official Google Cloud training
 - 🎤 **Speaker & Trainer** — 15+ years of talks and workshops
   - [My talks on Youtube](https://www.youtube.com/playlist?list=PLdVDu8iO6zrMurVwGrFR23uw5OtGh4vFx)
+  - [Slides](https://jlandure.dev/slides/)
   - [Slides on Speakerdeck](https://speakerdeck.com/jlandure)
 - 🌱 **Green Software** — LFC131 Green Software for Practitioners certified
 
