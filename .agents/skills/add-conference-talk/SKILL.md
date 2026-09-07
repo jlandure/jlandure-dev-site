@@ -80,11 +80,20 @@ Keep the HTML exactly: `details` / `summary` / `<span><em>` / optional `<img>` /
 
 Co-speaker goes in the summary: `Talk title with [Name](https://linkedin.com/in/...) / [Slides](...)`.
 
-## Slides (Speaker Deck)
+## Slides
+
+Prefer the local viewer when the deck exists under `slides/YYYY-MM-DD-<slug>/`:
+
+`/ [Slides](/slides/YYYY-MM-DD-{talk-slug}-at-{event-slug}/ ':ignore')`
+
+The `':ignore'` flag is required so Docsify does not turn it into `#/slides/...`.
+
+If the PDF is not on the site yet, use Speaker Deck:
 
 - URL shape: `https://speakerdeck.com/jlandure/{talk-slug}-at-{event-slug}`
 - Put the link in the summary as `/ [Slides](url)`, never only in the description body.
-- Each event has its own deck. A talk given at GDG Cloud Nantes and at DevFest Afrique Francophone uses two different Speaker Deck URLs.
+
+Each event has its own deck. A talk given at GDG Cloud Nantes and at DevFest Afrique Francophone uses two different slugs. To add the PDF itself, use the `add-slide-deck` skill.
 
 ## Video (YouTube)
 
