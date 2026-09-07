@@ -3,6 +3,8 @@
 > Google Developer Group Nantes & DevFest Nantes Organizer _President from 2011 to 2020_ | _Organizer since 2011_<br>
 > Google Cloud Official Trainer _since Feb 2021_<br>
 > Google Developer Expert Cloud _since Apr 2018_<br>
+> Google Cloud Ambassador _since Apr 2026_<br>
+> Anthropic Claude Certified Architect - Professional _since Aug 2026_<br>
 > GitHub Copilot Certified _since Dec 2025_<br>
 > AWS Community Builder _since Feb 2025_<br>
 > AWS Nantes Organizer _since Jan 2025_<br>
