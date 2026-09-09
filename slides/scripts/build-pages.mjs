@@ -17,6 +17,7 @@ import {
   loadDeck,
   moreDecksHtml,
   pdfHref,
+  speakersHtml,
 } from "./decks.mjs";
 
 const here = path.dirname(fileURLToPath(import.meta.url));
@@ -35,9 +36,8 @@ export function renderDeckPage(deck, decks = listDecks()) {
   const coverFile = coverHref(deck).replace(/^\.\//, "");
   const pdfFile = pdfHref(deck);
   const pdfLocal = /^https?:\/\//.test(pdfFile) ? pdfFile : `./${pdfFile.replace(/^\.\//, "")}`;
-  const categoryHtml = deck.category
-    ? `<span>${escapeHtml(deck.category)}</span>`
-    : "";
+  const dateIso = deck.date;
+  const dateLabel = formatDateLabel(deck.date);
   return fill(template, {
     language: deck.language || "en",
     title: escapeHtml(deck.title),
@@ -46,9 +46,10 @@ export function renderDeckPage(deck, decks = listDecks()) {
     canonical: absoluteUrl(`/slides/${deck.slug}/`),
     og_image: absoluteUrl(`/slides/${deck.slug}/${coverFile}`),
     pdf_href: escapeHtml(pdfLocal),
-    date_iso: escapeHtml(deck.date),
-    date_label: escapeHtml(formatDateLabel(deck.date)),
-    category_html: categoryHtml,
+    date_iso: escapeHtml(dateIso),
+    date_label: escapeHtml(dateLabel),
+    speakers_html: speakersHtml(deck.speakers, { size: 48, dateIso, dateLabel }),
+    meta_speakers_html: speakersHtml(deck.speakers, { size: 28, dateIso, dateLabel }),
     linkedin_html: linkedinHtml(deck.linkedin),
     description_html: descriptionHtml(deck.body),
     more_decks_html: moreDecksHtml(deck.slug, decks),

@@ -56,10 +56,20 @@ Manual equivalent: `node slides/scripts/make-cover.mjs …` then `node slides/sc
 node slides/scripts/build-pages.mjs
 ```
 
-9. If this deck belongs to a conference talk, change only the Slides link in `conference/README.md`:
+9. If this deck belongs to a conference talk, change only the Slides link in `conference/README.md`. If there is a co-speaker, put `with [Name](url)` on the **same** `<summary>` line as `[Slides]`:
 
 ```markdown
 / [Slides](/slides/YYYY-MM-DD-talk-at-event/ ':ignore')
+```
+
+Speakers are **not** stored in `deck.md`. `build-pages.mjs` reads them from `conference/README.md`: Julien first, then each `with [Name](url)` for that slug. Julien uses `/jlandure-450x450.jpg`; co-speakers get initials. Never use a LinkedIn CDN photo.
+
+`category` may stay in frontmatter (compat with `add-deck.mjs`) but is not shown on the page.
+
+After the conference entry (including co-speakers) is in place, rebuild:
+
+```bash
+node slides/scripts/build-pages.mjs
 ```
 
 Keep the Speaker Deck URL in `speakerdeck:` frontmatter as a mirror. Do not rewrite event-name links that happen to point at Speaker Deck.
@@ -95,3 +105,5 @@ Description in the talk language, as provided.
 - [ ] `deck.md` has title + date; no invented fields
 - [ ] `node slides/scripts/build-pages.mjs` regenerated the deck page and gallery
 - [ ] Conference `[Slides]` link uses `/slides/<slug>/ ':ignore'` so Docsify does not hash-route it
+- [ ] Co-speakers are in the conference `summary` as `with [Name](url)` on the same line as `[Slides]`
+- [ ] No `speakers:` field in `deck.md`

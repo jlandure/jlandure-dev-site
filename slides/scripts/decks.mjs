@@ -4,6 +4,8 @@ import { fileURLToPath } from "node:url";
 
 export const SITE_ORIGIN = "https://jlandure.dev";
 export const AUTHOR_NAME = "Julien Landuré";
+export const AUTHOR_URL = "https://www.linkedin.com/in/jlandure/";
+export const AUTHOR_PHOTO = "/jlandure-450x450.jpg";
 
 const here = path.dirname(fileURLToPath(import.meta.url));
 export const SLIDES_ROOT = path.resolve(here, "..");
@@ -97,6 +99,90 @@ export function linkedinHtml(links) {
   return `<section class="deck-links"><h2>Linkedin</h2>\n<p>${anchors}</p></section>`;
 }
 
+export function speakerInitials(name) {
+  const parts = String(name)
+    .replace(/\s+/g, " ")
+    .trim()
+    .split(" ")
+    .filter(Boolean);
+  if (!parts.length) return "?";
+  if (parts.length === 1) return parts[0].slice(0, 2).toUpperCase();
+  return `${parts[0][0]}${parts[parts.length - 1][0]}`.toUpperCase();
+}
+
+function parseMarkdownLinks(text) {
+  const links = [];
+  const re = /\[([^\]]+)\]\(([^)]+)\)/g;
+  for (const match of text.matchAll(re)) {
+    const name = match[1].replace(/\s+/g, " ").trim();
+    const url = match[2].trim();
+    if (!name || !/^https?:\/\//.test(url)) continue;
+    links.push({ name, url });
+  }
+  return links;
+}
+
+let conferenceSpeakersBySlug;
+
+export function loadConferenceSpeakers() {
+  if (conferenceSpeakersBySlug) return conferenceSpeakersBySlug;
+  conferenceSpeakersBySlug = new Map();
+  const readme = path.join(REPO_ROOT, "conference", "README.md");
+  if (!fs.existsSync(readme)) return conferenceSpeakersBySlug;
+  const raw = fs.readFileSync(readme, "utf8");
+  for (const block of raw.matchAll(/<summary>([\s\S]*?)<\/summary>/g)) {
+    const summary = block[1];
+    const slugMatch = summary.match(/\/slides\/([^/\s"'<>]+)\//);
+    if (!slugMatch) continue;
+    const withMatch = summary.match(/\swith\s([\s\S]*)$/i);
+    if (!withMatch) continue;
+    const afterWith = withMatch[1].split(/\s\/\s\[(?:Slides|Video)\]/i)[0];
+    const speakers = parseMarkdownLinks(afterWith);
+    if (!speakers.length) continue;
+    const slug = slugMatch[1];
+    const list = conferenceSpeakersBySlug.get(slug) || [];
+    for (const speaker of speakers) {
+      if (!list.some((item) => item.name === speaker.name)) list.push(speaker);
+    }
+    conferenceSpeakersBySlug.set(slug, list);
+  }
+  return conferenceSpeakersBySlug;
+}
+
+export function speakersForSlug(slug) {
+  const extras = loadConferenceSpeakers().get(slug) || [];
+  return [
+    { name: AUTHOR_NAME, url: AUTHOR_URL, photo: AUTHOR_PHOTO },
+    ...extras,
+  ];
+}
+
+function speakerAvatarHtml(speaker, size) {
+  if (speaker.photo) {
+    return `<img class="avatar" src="${escapeHtml(speaker.photo)}" alt="" width="${size}" height="${size}">`;
+  }
+  return `<span class="speaker-initials" aria-hidden="true">${escapeHtml(speakerInitials(speaker.name))}</span>`;
+}
+
+export function speakersHtml(speakers, options = {}) {
+  const size = options.size || 48;
+  const dateIso = options.dateIso || "";
+  const dateLabel = options.dateLabel || "";
+  const items = speakers
+    .map((speaker) => {
+      const inner = `${speakerAvatarHtml(speaker, size)}<span class="speaker-name">${escapeHtml(speaker.name)}</span>`;
+      const person = speaker.url
+        ? `<a class="speaker" href="${escapeHtml(speaker.url)}" rel="noopener noreferrer">${inner}</a>`
+        : `<span class="speaker">${inner}</span>`;
+      return `<li>${person}</li>`;
+    })
+    .join("");
+  const time = dateLabel
+    ? `<time datetime="${escapeHtml(dateIso)}">${escapeHtml(dateLabel)}</time>`
+    : "";
+  return `<div class="deck-speakers"><ul class="speaker-list">${items}</ul>${time}</div>`;
+}
+
 function isDeckDir(dirent) {
   if (!dirent.isDirectory()) return false;
   if (dirent.name.startsWith(".") || dirent.name === "assets" || dirent.name === "scripts") {
@@ -133,6 +219,7 @@ export function loadDeck(slug) {
     external: data.external || "",
     speakerdeck: data.speakerdeck || "",
     linkedin: Array.isArray(data.linkedin) ? data.linkedin : [],
+    speakers: speakersForSlug(slug),
     body,
     description: descriptionPlain(body),
   };

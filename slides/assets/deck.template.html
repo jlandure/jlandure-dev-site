@@ -52,27 +52,17 @@
     </section>
     <div class="meta-bar">
       <div class="meta-author">
-        <img class="avatar" src="/jlandure-450x450.jpg" alt="" width="28" height="28">
-        <span>Julien Landuré</span>
-        <time datetime="{{date_iso}}">{{date_label}}</time>
+        {{meta_speakers_html}}
       </div>
       <div class="meta-actions">
-        {{category_html}}
         <a href="{{pdf_href}}" download>Download PDF</a>
-        <a href="{{canonical}}?present=1">Slides only</a>
       </div>
     </div>
     <div class="deck-body">
       <h1>{{title}}</h1>
+      {{speakers_html}}
       {{linkedin_html}}
       <div class="deck-description">{{description_html}}</div>
-      <div class="deck-author">
-        <img src="/jlandure-450x450.jpg" alt="" width="48" height="48">
-        <div>
-          <strong>Julien Landuré</strong>
-          <div>{{date_label}}</div>
-        </div>
-      </div>
     </div>
   </article>
   {{more_decks_html}}

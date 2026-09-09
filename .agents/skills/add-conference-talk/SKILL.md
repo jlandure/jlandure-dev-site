@@ -45,23 +45,23 @@ Duration is `(1d)` `(2d)` `(3d)` only for on-site multi-day or full-day events, 
 
 If the event is remote / online:
 
-- No location suffix. Do **not** write `- 🇧🇫 Ouagadougou, Burkina Faso` or any host-city location.
+- Put `- 💻 Remote` on the event line, in place of the city (same pattern as `workshop/README.md`).
+- Do **not** write `- 🇧🇫 Ouagadougou, Burkina Faso` or any host-city location.
 - No duration suffix unless the user asks for it.
-- Add `<span class="detail-tag">Remote</span>`.
+- Do **not** add a `Remote` detail-tag.
 
 ## Tags
 
 One tag per line, immediately after the event line. Known values:
 
-`Speaker` `Attendee` `Meetup` `Meetup Speaker` `Podcast` `Enterprise` `Remote` `DevFest Organizer` `TechReady Organizer`
+`Speaker` `Attendee` `Meetup` `Meetup Speaker` `Podcast` `Enterprise` `DevFest Organizer` `TechReady Organizer`
 
 "Public speaking" → `Speaker`. Meetup + talk → `Meetup` + `Speaker` (or `Meetup Speaker` if that is what nearby entries use).
 
 ## Speaker talk block
 
 ```markdown
-- _2025 Oct_ [DevFest Afrique Francophone](https://gdg.community.dev/events/details/google-gdg-ouaga-presents-devfest-afrique-francophone-2025/)
-<span class="detail-tag">Remote</span>
+- _2025 Oct_ [DevFest Afrique Francophone](https://gdg.community.dev/events/details/google-gdg-ouaga-presents-devfest-afrique-francophone-2025/) - 💻 Remote
 <span class="detail-tag">Speaker</span>
 <br><details><summary>Talk title / [Slides](https://speakerdeck.com/jlandure/slug-at-event) / [Video](https://www.youtube.com/watch?v=VIDEO_ID&list=PLdVDu8iO6zrMurVwGrFR23uw5OtGh4vFx)
 </summary>
@@ -78,7 +78,15 @@ Talk description in the talk language, as provided.
 
 Keep the HTML exactly: `details` / `summary` / `<span><em>` / optional `<img>` / closing tags. Description lines sit inside `<em>` with no extra blank lines.
 
-Co-speaker goes in the summary: `Talk title with [Name](https://linkedin.com/in/...) / [Slides](...)`.
+Co-speaker is **required in the summary** when there is one, with a real profile URL (LinkedIn preferred, otherwise Twitter). Do **not** put the co-speaker only in the description body. Keep the `with [Name](url)` wording (not `et Name` without a link) so `slides/scripts/build-pages.mjs` can list them on the deck page:
+
+`Talk title with [Name](https://linkedin.com/in/...) / [Slides](/slides/YYYY-MM-DD-talk-at-event/ ':ignore')`
+
+The `[Slides]` link must sit on the same `<summary>` line as `with [Name](url)`. After adding or changing a co-speaker on a talk that already has a local deck, run:
+
+```bash
+node slides/scripts/build-pages.mjs
+```
 
 ## Slides
 
@@ -142,8 +150,10 @@ No `details` block unless there is a blog, photo, or extra note:
 ## Checklist
 
 - [ ] Entry is in `conference/README.md`, newest-first under the right year
-- [ ] Remote entries have no location string
+- [ ] Remote entries use `- 💻 Remote` on the event line and have no city or Remote tag
 - [ ] Speaker Deck URL is event-specific
 - [ ] YouTube URL includes the talks playlist
 - [ ] Tags match an existing `detail-tag` value
 - [ ] HTML `details` / `summary` / `em` / `img` structure matches neighbors
+- [ ] Co-speakers use `with [Name](url)` in the summary next to `[Slides]`
+- [ ] `build-pages.mjs` was rerun if a local slides folder is linked
