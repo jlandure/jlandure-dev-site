@@ -25,6 +25,18 @@ Que vous soyez curieux ou utilisateur aguerri, venez découvrir comment transfor
 - _2026 Jun_ [French Tech Night](https://www.lacantine.co/french-tech-night/) - 🇫🇷 Nantes, France
 <span class="detail-tag">Attendee</span>
 <br>Linkedin: https://www.linkedin.com/posts/jlandure_tech-frenchtechnight-activity-7470485601105125376-wa-U
+- _2026 May_ [Nuit des Communautés 2026](https://www.externatic.fr/blog/nuit-des-communautes-2026/) + [GDG Nantes](https://gdg.community.dev/events/details/google-gdg-nantes-android-presents-nuit-des-communautes-2026/) - 🇫🇷 Nantes, France
+<span class="detail-tag">Speaker</span>
+<span class="detail-tag">Meetup</span>
+<br><details><summary>Antigravity et l'agent manager, ou comment mixer Code & IA pour être vraiment productif with [Benjamin Bourgeois](https://www.linkedin.com/in/bengeois/) / [Slides](/slides/2026-05-28-antigravity-et-l-agent-manager-ou-comment-mixer-code-and-ia-pour-etre-vraiment-productif-at-nuit-des-communautes-2026/ ':ignore')
+</summary>
+<span><em>
+Attendees: 40<br>
+Linkedin: https://www.linkedin.com/feed/update/urn:li:ugcPost:7468565279774777344
+</em>
+<img src="/slides/2026-05-28-antigravity-et-l-agent-manager-ou-comment-mixer-code-and-ia-pour-etre-vraiment-productif-at-nuit-des-communautes-2026/conference.webp">
+</span>
+</details>
 - _2026 May_ [GDG Cloud Nantes](https://gdg.community.dev/events/details/google-gdg-cloud-nantes-presents-workshop-google-antigravity-de-lidee-a-lapp-de-lassistance-a-lorchestration/) - 🇫🇷 Nantes, France
 <span class="detail-tag">Organizer</span>
 <span class="detail-tag">Meetup</span>
@@ -73,8 +85,7 @@ Co-organisé avec le meetup GDG Nantes 🙌
 <img src="https://media.licdn.com/dms/image/v2/D4D22AQEWFIlpTgmAyA/feedshare-shrink_800/B4DZ3zpJznHwAg-/0/1777909145361?e=1790208000&v=beta&t=XkeJd7AmEZMZL2hRHOgTT4pHEytxg8iEkYgIPyTO2Zg">
 </span>
 </details>
-- _2026 Apr_ [Cursor Meetup Nantes LIVE](https://www.youtube.com/watch?v=qco6EARpuU8&list=PLdVDu8iO6zrMurVwGrFR23uw5OtGh4vFx)
-<span class="detail-tag">Remote</span>
+- _2026 Apr_ [Cursor Meetup Nantes LIVE](https://www.youtube.com/watch?v=qco6EARpuU8&list=PLdVDu8iO6zrMurVwGrFR23uw5OtGh4vFx) - 💻 Remote
 <span class="detail-tag">Organizer</span>
 <span class="detail-tag">Meetup</span>
 <span class="detail-tag tech">Cursor</span>
@@ -90,8 +101,7 @@ Ready to take your Cursor game to the next level? Join us for Cursor Meetup Nant
 <span class="detail-tag tech">Google</span>
 <br>Linkedin: https://www.linkedin.com/posts/jlandure_gde-nantes-rennes-activity-7452745681036943360-q_Wb
 Linkedin: https://www.linkedin.com/posts/jlandure_vegas-award-gde-activity-7455536885109620736-i9sk
-- _2026 Apr_ [GDG Mons](https://gdg.community.dev/events/details/google-gdg-mons-presents-le-kit-du-parfait-organizer-partie-1-devenez-le-couteau-suisse-de-la-communaute/)
-<span class="detail-tag">Remote</span>
+- _2026 Apr_ [GDG Mons](https://gdg.community.dev/events/details/google-gdg-mons-presents-le-kit-du-parfait-organizer-partie-1-devenez-le-couteau-suisse-de-la-communaute/) - 💻 Remote
 <span class="detail-tag">Speaker</span>
 <span class="detail-tag">Meetup</span>
 <span class="detail-tag tech">Google</span>
@@ -195,8 +205,7 @@ Venez assister à cette présentation pour apprendre comment bien générer du c
 <span class="detail-tag">Organizer</span>
 <span class="detail-tag">Meetup</span>
 <span class="detail-tag tech">AWS</span>
-- _2026 Jan_ [Cursor Meetup Nantes LIVE](https://www.youtube.com/watch?v=-04QC1nHFX4&list=PLdVDu8iO6zrMurVwGrFR23uw5OtGh4vFx)
-<span class="detail-tag">Remote</span>
+- _2026 Jan_ [Cursor Meetup Nantes LIVE](https://www.youtube.com/watch?v=-04QC1nHFX4&list=PLdVDu8iO6zrMurVwGrFR23uw5OtGh4vFx) - 💻 Remote
 <span class="detail-tag">Organizer</span>
 <span class="detail-tag">Meetup</span>
 <span class="detail-tag tech">Cursor</span>
@@ -227,8 +236,7 @@ Venez assister à ce talk pour apprendre comment bien générer du code en utili
 </em>
 </span>
 </details>
-- _2025 Dec_ [Magazine Programmez](https://www.programmez.com/actualites/cursor-20-et-mode-plan-prise-en-main-et-live-demo-38679)
-<span class="detail-tag">Remote</span>
+- _2025 Dec_ [Magazine Programmez](https://www.programmez.com/actualites/cursor-20-et-mode-plan-prise-en-main-et-live-demo-38679) - 💻 Remote
 <span class="detail-tag">Speaker</span>
 <span class="detail-tag tech">Cursor</span>
 <br><details><summary>Présentation de Cursor 2.0 et de son mode plan / [Video](https://www.youtube.com/watch?v=5V7sHjUbPog&list=PLdVDu8iO6zrMurVwGrFR23uw5OtGh4vFx&index=3&t=1s)
@@ -260,8 +268,7 @@ Whether you're passionate about AI, serverless technology, or sci-fi-inspired pr
 <img src="https://storage.googleapis.com/advocu-app/images/6597d5c3b52eaef4e46a602e/activity-images/eb4c608c-bc5e-4c15-871d-7a4120e245c8">
 </span>
 </details>
-- _2025 Oct_ [DevFest Afrique Francophone](https://gdg.community.dev/events/details/google-gdg-ouaga-presents-devfest-afrique-francophone-2025/)
-<span class="detail-tag">Remote</span>
+- _2025 Oct_ [DevFest Afrique Francophone](https://gdg.community.dev/events/details/google-gdg-ouaga-presents-devfest-afrique-francophone-2025/) - 💻 Remote
 <span class="detail-tag">Speaker</span>
 <span class="detail-tag tech">Google</span>
 <br><details><summary>Serverless GPU ou comment déployer facilement son LLM / [Slides](/slides/2025-10-03-serverless-gpu-ou-comment-deployer-facilement-son-llm-at-devfest-afrique-francophone/ ':ignore') / [Video](https://www.youtube.com/watch?v=nDRAqnAFOUI&list=PLdVDu8iO6zrMurVwGrFR23uw5OtGh4vFx&t=6s)
@@ -279,8 +286,7 @@ Durant ce talk, nous regarderons comment utiliser Cloud Run GPU de la plateforme
 <img src="https://media.licdn.com/dms/image/v2/D5622AQHTJBcLFEMlnQ/feedshare-shrink_800/B56ZlOPg2PI4Ag-/0/1757954314495?e=2147483647&v=beta&t=BqnVzUckiHgRiHYiheYdHhx4OVO_pl0y0FjCDVF7liM">
 </span>
 </details>
-- _2025 Sep_ [Cursor Meetup Nantes LIVE](https://luma.com/xb7q1dh4)
-<span class="detail-tag">Remote</span>
+- _2025 Sep_ [Cursor Meetup Nantes LIVE](https://luma.com/xb7q1dh4) - 💻 Remote
 <span class="detail-tag">Organizer</span>
 <span class="detail-tag">Meetup</span>
 <span class="detail-tag tech">Cursor</span>
@@ -479,7 +485,7 @@ Attendess to Code In The Dark: 39<br>
 <img src="https://lh3.googleusercontent.com/pw/AP1GczPRVnepuHUP4f1y0kKdInSBBt7WirHDkIzZo1ZbhSoCIwcFPo1ZV18OYq_odo9Dl_et3O0fYJadLKHQg2Vfglhxph_PTEPP9KHS-EoQ6mVgx_-_x16tmjlnM0KGbc3F940KT7P3pYZmF730iRWOmO37=w2078-h1386-s-no-gm">
 </span>
 </details>
-- _2024 Jul_ [ChatGDG](https://www.linkedin.com/events/7219262271502372865/comments/)
+- _2024 Jul_ [ChatGDG](https://www.linkedin.com/events/7219262271502372865/comments/) - 💻 Remote
 <span class="detail-tag">Podcast</span>
 <span class="detail-tag">Speaker</span>
 <br>ChatGDG #32 / [Video](https://www.youtube.com/watch?v=ZF1SVaW8f-Y&list=PLdVDu8iO6zrMurVwGrFR23uw5OtGh4vFx&index=3&pp=gAQBiAQB)
@@ -628,8 +634,7 @@ En retraçant le chemin du Cloud et en étudiant la FinOps Foundation, fondation
 
 ## 2023
 
-- _2023 Dec_ [Zenika](https://speakerdeck.com/jlandure/tendances-it-2023)
-<span class="detail-tag">Remote</span>
+- _2023 Dec_ [Zenika](https://speakerdeck.com/jlandure/tendances-it-2023) - 💻 Remote
 <span class="detail-tag">Enterprise</span>
 <span class="detail-tag">Speaker</span>
 <br><details><summary>Tendances IT with [Jimmy Kasprzack](https://www.linkedin.com/in/jimmy-kasprzak/) / [Slides](/slides/2023-12-13-tendances-it-2023/ ':ignore')
@@ -730,8 +735,7 @@ Co-organisé avec le meetup GDG Nantes 🙌
 <img src="https://sfo2.digitaloceanspaces.com/advocu/gde/activity-photos/2023/12/26/3b1d4836-e00e-4d25-a3c3-6121f57ae476.jpeg">
 </span>
 </details>
-- _2023 Sep_ [Cloud Sud](https://cloudsud.fr/) 
-<span class="detail-tag">Remote</span>
+- _2023 Sep_ [Cloud Sud](https://cloudsud.fr/) - 💻 Remote
 <span class="detail-tag">Speaker</span>
 <br><details><summary>Cloud, OpenSource and Community / [Slides](/slides/2023-09-13-cloud-opensource-and-community-at-cloud-sud/ ':ignore')
 </summary>
@@ -789,8 +793,7 @@ Nous avons monté le meetup et le DevFest from scratch avec une association loi 
 <img src="https://sfo2.digitaloceanspaces.com/advocu/gde/activity-photos/2023/11/30/5801d4c5-90b1-43d3-8d49-0414394634a4.png">
 </span>
 </details>
-- _2023 May_ [Zenika](https://speakerdeck.com/jlandure/tendances-it)
-<span class="detail-tag">Remote</span>
+- _2023 May_ [Zenika](https://speakerdeck.com/jlandure/tendances-it) - 💻 Remote
 <span class="detail-tag">Enterprise</span>
 <span class="detail-tag">Speaker</span>
 <br><details><summary>Tendances IT with [Antoine Bonneau](https://twitter.com/CallMeGoodWater) / [Slides](/slides/2022-10-05-tendances-it/ ':ignore')
@@ -802,8 +805,7 @@ Parcourrons les sujets du moment autour de 6 thématiques : le recrutement, le n
 </em>
 </span>
 </details>
-- _2023 May_ [Zenika - Best Of TZ](https://www.eventbrite.fr/e/billets-best-of-technozaure-4-par-et-pour-des-passionnes-de-tech-592457485287)
-<span class="detail-tag">Remote</span>
+- _2023 May_ [Zenika - Best Of TZ](https://www.eventbrite.fr/e/billets-best-of-technozaure-4-par-et-pour-des-passionnes-de-tech-592457485287) - 💻 Remote
 <span class="detail-tag">Speaker</span>
 <br><details><summary>Introduction to FinOps with Google Cloud / [Slides](/slides/2023-05-10-introduction-au-finops-avec-google-cloud/ ':ignore') / [Video](https://www.youtube.com/watch?v=CKJ2JbhSqQs&list=PLdVDu8iO6zrMurVwGrFR23uw5OtGh4vFx&index=1)
 </summary>
@@ -817,8 +819,7 @@ En retraçant le chemin du Cloud et en étudiant la FinOps Foundation, fondation
 <img src="https://sfo2.digitaloceanspaces.com/advocu/gde/activity-photos/2023/11/30/5801d4c5-90b1-43d3-8d49-0414394634a4.png">
 </span>
 </details>
-- _2023 Apr_ [GDG Cloud Nantes - 6 weeks Certification Study Group](https://gdg.community.dev/events/details/google-gdg-cloud-nantes-presents-certification-study-group-road-to-certification-pca-2023-04-18/)
-<span class="detail-tag">Remote</span>
+- _2023 Apr_ [GDG Cloud Nantes - 6 weeks Certification Study Group](https://gdg.community.dev/events/details/google-gdg-cloud-nantes-presents-certification-study-group-road-to-certification-pca-2023-04-18/) - 💻 Remote
 <span class="detail-tag">Meetup Speaker</span>
 <br><details><summary>Certification Study Group - Road to certification PCA Week 1 to Week 6 / [Slides](/slides/2023-04-17-certification-study-group-road-to-certification-pca-week1/ ':ignore') / [Video](https://www.youtube.com/watch?v=Hz6ftEqxIXY)
 </summary>
@@ -829,8 +830,7 @@ Attendees: 85<br>
 <img src="https://sfo2.digitaloceanspaces.com/advocu/gde/activity-photos/2023/11/30/609b7f7b-77d0-4d9f-b23c-651fd7f5b65b.png">
 </span>
 </details>
-- _2023 Apr_ [Zenika](https://speakerdeck.com/jlandure/tendances-it)
-<span class="detail-tag">Remote</span>
+- _2023 Apr_ [Zenika](https://speakerdeck.com/jlandure/tendances-it) - 💻 Remote
 <span class="detail-tag">Enterprise</span>
 <span class="detail-tag">Speaker</span>
 <br><details><summary>Tendances IT with [Antoine Bonneau](https://twitter.com/CallMeGoodWater) / [Slides](/slides/2022-10-05-tendances-it/ ':ignore')
@@ -843,8 +843,7 @@ Parcourrons les sujets du moment autour de 6 thématiques : le recrutement, le n
 <img src="https://sfo2.digitaloceanspaces.com/advocu/gde/activity-photos/2023/12/26/d66b0b0e-b9ce-4f62-ac27-ba2fa45e0070.png">
 </span>
 </details>
-- _2023 Mar_ [GDG Cloud Nantes](https://gdg.community.dev/events/details/google-gdg-cloud-nantes-presents-certification-study-group-info-session-session-dinformation/)
-<span class="detail-tag">Remote</span>
+- _2023 Mar_ [GDG Cloud Nantes](https://gdg.community.dev/events/details/google-gdg-cloud-nantes-presents-certification-study-group-info-session-session-dinformation/) - 💻 Remote
 <span class="detail-tag">Meetup Speaker</span>
 <br><details><summary>Certification Study Group - Info Session // Session d’information / [Slides](/slides/2023-03-29-certification-study-group-session-dinformation-sur-les-certifications-google-cloud/ ':ignore') / [Video](https://www.youtube.com/watch?v=lSE_iT2bO4g)
 </summary>
@@ -908,8 +907,7 @@ Revenons sur l'histoire d'une communauté technique qui a su trouver sa place da
 <img src="https://sfo2.digitaloceanspaces.com/advocu/gde/activity-photos/2022/12/27/7a925964-2c96-4455-82f6-2c3638048f18.jpeg">
 </span>
 </details>
-- _2022 Oct_ [NigthClazz Zenika - Hacktoberfest 2022 Live](https://youtu.be/xsD-xjvjkcY?t=6785)
-<span class="detail-tag">Remote</span>
+- _2022 Oct_ [NigthClazz Zenika - Hacktoberfest 2022 Live](https://youtu.be/xsD-xjvjkcY?t=6785) - 💻 Remote
 <span class="detail-tag">Speaker</span>
 - _2022 Sep_ [Agile Tour Nantes](https://agilenantes.org/evenements/agile-tour-nantes/agile-tour-nantais-2022/) - 🇫🇷 Nantes, France (1d)
 <span class="detail-tag">Speaker</span>
@@ -926,8 +924,7 @@ D’une idée open source à l’adoption par une communauté, découvrons comme
 <img src="https://sfo2.digitaloceanspaces.com/advocu/gde/activity-photos/2022/12/27/0823f971-6b6a-4d17-bc1f-ec81e30784e4.png">
 </span>
 </details>
-- _2022 Oct_ [Zenika Women Empowerment](https://speakerdeck.com/jlandure/women-empowerment-personal-branding)
-<span class="detail-tag">Remote</span>
+- _2022 Oct_ [Zenika Women Empowerment](https://speakerdeck.com/jlandure/women-empowerment-personal-branding) - 💻 Remote
 <span class="detail-tag">Speaker</span>
 <br><details><summary>Women Empowerment: Personal Branding & Self-Marketing with [Lise Quesnel](https://twitter.com/QuesnelLise) / [Slides](/slides/2022-03-08-women-empowerment-personal-branding/ ':ignore')
 </summary>
@@ -954,8 +951,7 @@ Video: https://twitter.com/devfestnantes/status/1583412109861613569
 </details>
 - _2022 Oct_ [Google Cloud Next 22](https://cloud.withgoogle.com/next/developer-zone#innovators-hive) - 🇫🇷 Munich, Germany (2d)
 <span class="detail-tag">Attendee</span>
-- _2022 Oct_ [Zenika](https://speakerdeck.com/jlandure/tendances-it)
-<span class="detail-tag">Remote</span>
+- _2022 Oct_ [Zenika](https://speakerdeck.com/jlandure/tendances-it) - 💻 Remote
 <span class="detail-tag">Enterprise</span>
 <span class="detail-tag">Speaker</span>
 <br><details><summary>Tendances IT with [Antoine Bonneau](https://twitter.com/CallMeGoodWater) / [Slides](/slides/2022-10-05-tendances-it/ ':ignore')
@@ -1006,7 +1002,7 @@ De l'open source à l'animation de communauté, découvrons les stratégies des 
 </details>
 - _2022 Jun_ [Region Launch Google Cloud](https://cloudonair.withgoogle.com/events/region-france) - 🇫🇷 Paris, France (1d)
 <span class="detail-tag">Attendee</span>
-- _2022 Jun_ Accelerate Workshop with [William Bartlett](https://twitter.com/bartlettstarman)
+- _2022 Jun_ Accelerate Workshop with [William Bartlett](https://twitter.com/bartlettstarman) - 🇫🇷 Nantes, France
 <span class="detail-tag">Enterprise</span>
 <span class="detail-tag">Speaker</span>
 <br><details><summary>Atelier Accelerate
@@ -1048,8 +1044,7 @@ Zenika s'associe depuis des années à des éditeurs pour créer des partenariat
 <img src="https://pbs.twimg.com/media/FRcOFgAWYAAK1Jn?format=jpg&name=large">
 </span>
 </details>
-- _2022 Mar_ [Zenika Women Empowerment](https://speakerdeck.com/jlandure/women-empowerment-personal-branding)
-<span class="detail-tag">Remote</span>
+- _2022 Mar_ [Zenika Women Empowerment](https://speakerdeck.com/jlandure/women-empowerment-personal-branding) - 💻 Remote
 <span class="detail-tag">Speaker</span>
 <br><details><summary>Women Empowerment: Personal Branding & Self-Marketing with [Lise Quesnel](https://twitter.com/QuesnelLise) / [Slides](/slides/2022-03-08-women-empowerment-personal-branding/ ':ignore')
 </summary>
@@ -1058,8 +1053,7 @@ Attendees: 12<br>
 </em>
 </span>
 </details>
-- _2022 May_ [DevOps France](https://www.francedevops.fr/webinars/cloud-run-tout-ce-quil-faut-sans-k8s)
-<span class="detail-tag">Remote</span>
+- _2022 May_ [DevOps France](https://www.francedevops.fr/webinars/cloud-run-tout-ce-quil-faut-sans-k8s) - 💻 Remote
 <span class="detail-tag">Meetup Speaker</span>
 <br><details><summary>Cloud Run... everything you need without K8S / [Slides](/slides/2022-05-02-cloud-run-dot-dot-dot-everything-you-need-without-k8s-france-devops/ ':ignore') / [Video](https://www.youtube.com/watch?v=kszDwRlU3ho)
 </summary>
@@ -1075,8 +1069,7 @@ Faisons un tour des petits plus de cette solution : nous y trouvons la majorité
 <img src="https://sfo2.digitaloceanspaces.com/advocu/gde/activity-photos/2022/08/03/059b2843-3fd3-4f2a-97da-d61b32a67f26.jpeg">
 </span>
 </details>
-- _2022 Mar_ [Zenika - Best Of TZ](https://www.eventbrite.fr/e/billets-best-of-technozaure-2-par-et-pour-des-passionnes-de-tech-269021369157)
-<span class="detail-tag">Remote</span>
+- _2022 Mar_ [Zenika - Best Of TZ](https://www.eventbrite.fr/e/billets-best-of-technozaure-2-par-et-pour-des-passionnes-de-tech-269021369157) - 💻 Remote
 <span class="detail-tag">Speaker</span>
 <br><details><summary>Serverless with Google Cloud with [Éric Briand](https://twitter.com/eric_briand) / [Slides](/slides/2022-03-23-serverless-with-google-cloud-at-best-of-tz/ ':ignore')
 </summary>
@@ -1090,8 +1083,7 @@ Venez découvrir ces différentes solutions !
 <img src="https://sfo2.digitaloceanspaces.com/advocu/gde/activity-photos/2022/03/27/555a207d-b598-4a5d-8e30-213d5177d02c.png">
 </span>
 </details>
-- _2022 Mar_ [Cloud Sud](https://www.linkedin.com/feed/update/urn:li:activity:6911949784463360002/)
-<span class="detail-tag">Remote</span>
+- _2022 Mar_ [Cloud Sud](https://www.linkedin.com/feed/update/urn:li:activity:6911949784463360002/) - 💻 Remote
 <span class="detail-tag">Speaker</span>
 <br><details><summary>Cloud Run... everything you need without K8S / [Slides](/slides/2022-03-23-cloud-run-dot-dot-dot-everything-you-need-without-k8s-cloud-sud/ ':ignore')
 </summary>
@@ -1125,8 +1117,7 @@ https://twitter.com/jlandure/status/1504817019426082819
 <img src="https://pbs.twimg.com/media/FOMsHpAWYAAQIVf?format=jpg&name=large">
 </span>
 </details>
-- _2022 Mar_ [Zenika Women Empowerment](https://speakerdeck.com/jlandure/women-empowerment-personal-branding)
-<span class="detail-tag">Remote</span>
+- _2022 Mar_ [Zenika Women Empowerment](https://speakerdeck.com/jlandure/women-empowerment-personal-branding) - 💻 Remote
 <span class="detail-tag">Speaker</span>
 <br><details><summary>Women Empowerment: Personal Branding & Self-Marketing with [Lise Quesnel](https://twitter.com/QuesnelLise) / [Slides](/slides/2022-03-08-women-empowerment-personal-branding/ ':ignore')
 </summary>
@@ -1136,8 +1127,7 @@ Attendees: 16<br>
 <img src="https://sfo2.digitaloceanspaces.com/advocu/gde/activity-photos/2022/03/14/4bfcc489-0937-4d8d-a4ea-cb8096f4de20.png">
 </span>
 </details>
-- _2022 Feb_ [Zenika x Google Cloud](https://webikeo.fr/webinar/et-si-google-cloud-etait-au-coeur-de-la-montee-en-competence-de-vos-equipes-2)
-<span class="detail-tag">Remote</span>
+- _2022 Feb_ [Zenika x Google Cloud](https://webikeo.fr/webinar/et-si-google-cloud-etait-au-coeur-de-la-montee-en-competence-de-vos-equipes-2) - 💻 Remote
 <span class="detail-tag">Speaker</span>
 <br><details><summary>Et si Google Cloud était au cœur de la montée en compétence de vos équipes ? with [Antoine Oili](https://www.linkedin.com/in/antoine-oili/) & [Stéphanie Fresson](https://www.linkedin.com/in/stephaniefresson/)
 </summary>
@@ -1150,10 +1140,9 @@ Attendees: 56<br>
 
 ## 2021
 
-- _2021 Dec_ [Tech.Rocks Summit 2021](https://events.tech.rocks/summit-2021/)
+- _2021 Dec_ [Tech.Rocks Summit 2021](https://events.tech.rocks/summit-2021/) - 💻 Remote
 <span class="detail-tag">Attendee</span>
-- _2021 Dec_ [DevFest Cloud Abidjan](https://gdg.community.dev/events/details/google-gdg-cloud-abidjan-presents-devfest-cloud-abidjan-2021/)
-<span class="detail-tag">Remote</span>
+- _2021 Dec_ [DevFest Cloud Abidjan](https://gdg.community.dev/events/details/google-gdg-cloud-abidjan-presents-devfest-cloud-abidjan-2021/) - 💻 Remote
 <span class="detail-tag">Speaker</span>
 <br><details><summary>Cloud Run... everything you need without K8S / [Slides](/slides/2021-12-03-cloud-run-dot-dot-dot-everything-you-need-without-k8s-593400c9-156f-4021-8bd4-7a79dcd51aac/ ':ignore')
 </summary>
@@ -1168,7 +1157,7 @@ Faisons un tour des petits plus de cette solution : nous y trouvons la majorité
 <img src="https://sfo2.digitaloceanspaces.com/advocu/gde/activity-photos/2021/12/08/bad8bdb4-b217-477e-a28e-1ea95e65fc64.jpeg">
 </span>
 </details>
-- _2021 Dec_ Accelerate Workshop with [William Bartlett](https://twitter.com/bartlettstarman)
+- _2021 Dec_ Accelerate Workshop with [William Bartlett](https://twitter.com/bartlettstarman) - 🇫🇷 Nantes, France
 <span class="detail-tag">Enterprise</span>
 <span class="detail-tag">Speaker</span>
 <br><details><summary>Atelier Accelerate
@@ -1183,8 +1172,7 @@ https://www.linkedin.com/feed/update/urn:li:activity:6873655934682591232/
 <img src="https://sfo2.digitaloceanspaces.com/advocu/gde/activity-photos/2021/12/02/9feed775-94a6-419d-8e75-c44883c2ede9.jpeg">
 </span>
 </details>
-- _2021 Sep_ [Zenika](https://www.meetup.com/fr-FR/NightClazz-by-Zenika-Nantes/events/281671121/)
-<span class="detail-tag">Remote</span>
+- _2021 Sep_ [Zenika](https://www.meetup.com/fr-FR/NightClazz-by-Zenika-Nantes/events/281671121/) - 💻 Remote
 <span class="detail-tag">Meetup Speaker</span>
 <br><details><summary>How to create an open source project? with [Julia Lehoux](https://twitter.com/julia_lehoux) / [Slides](/slides/2021-09-23-creer-un-projet-open-source-ou-adopter-un-chaton-meme-combat/ ':ignore') / [Video](https://www.youtube.com/watch?v=FzVBqSZR9As&list=PLdVDu8iO6zrMurVwGrFR23uw5OtGh4vFx&index=2)
 </summary>
@@ -1208,8 +1196,7 @@ Si vous ne venez pas nous écouter, vous pouvez toujours faire un don à la SPA.
 <img src="https://sfo2.digitaloceanspaces.com/advocu/gde/activity-photos/2021/12/02/3870102a-20fd-493c-85ec-860523a1bf9e.jpeg">
 </span>
 </details>
-- _2021 Nov_ [Zenika](https://webikeo.fr/webinar/serverless-avec-google-cloud-comment-mettre-rapidement-en-production-vos-applications-2)
-<span class="detail-tag">Remote</span>
+- _2021 Nov_ [Zenika](https://webikeo.fr/webinar/serverless-avec-google-cloud-comment-mettre-rapidement-en-production-vos-applications-2) - 💻 Remote
 <span class="detail-tag">Meetup Speaker</span>
 <br><details><summary>Serverless avec Google Cloud with [Thibault Ruaro
 ](https://twitter.com/ThibaultRuaro) / [Slides](/slides/2021-11-29-serverless-avec-google-cloud-comment-mettre-rapidement-en-production-vos-applications/ ':ignore') / [Video](https://webikeo.fr/webinar/serverless-avec-google-cloud-comment-mettre-rapidement-en-production-vos-applications-2)
@@ -1228,8 +1215,7 @@ Grâce à notre partenariat avec Google Cloud, Zenika est fier de proposer ce we
 <img src="https://sfo2.digitaloceanspaces.com/advocu/gde/activity-photos/2021/12/02/1b91753e-3b73-4049-9ed4-5121b31228f5.jpeg">
 </span>
 </details>
-- _2021 Nov_ [DevFest Mons](https://gdg.community.dev/events/details/google-gdg-mons-presents-devfest-mons/)
-<span class="detail-tag">Remote</span>
+- _2021 Nov_ [DevFest Mons](https://gdg.community.dev/events/details/google-gdg-mons-presents-devfest-mons/) - 💻 Remote
 <span class="detail-tag">Speaker</span>
 <br><details><summary>Cloud Run... everything you need without K8S / [Slides](/slides/2021-11-26-cloud-run-dot-dot-dot-everything-you-need-without-k8s-9a958057-4e2d-4690-951b-3c90050a5bfc/ ':ignore') / [Video](https://www.youtube.com/watch?v=c-ORpm9Z7Fc&list=PLdVDu8iO6zrMurVwGrFR23uw5OtGh4vFx&index=1)
 </summary>
@@ -1245,8 +1231,7 @@ Faisons un tour des petits plus de cette solution : nous y trouvons la majorité
 <img src="https://sfo2.digitaloceanspaces.com/advocu/gde/activity-photos/2021/11/27/65bcc4a9-e6c3-4122-96d9-1a0571040202.png">
 </span>
 </details>
-- _2021 Nov_ [Codeurs en Seine](https://www.codeursenseine.com/2021/programme)
-<span class="detail-tag">Remote</span>
+- _2021 Nov_ [Codeurs en Seine](https://www.codeursenseine.com/2021/programme) - 💻 Remote
 <span class="detail-tag">Speaker</span>
 <br><details><summary>New Big Players with [Antoine Bonneau](https://twitter.com/CallMeGoodWater) / [Slides](/slides/2021-11-17-les-nouveaux-geants-du-web-c5fdecbd-cb5c-46f5-96de-070029f31dfd/ ':ignore')
 </summary>
@@ -1277,8 +1262,7 @@ Linkedin: https://www.linkedin.com/posts/annabelle-koster_quelles-retrouvailles-
 <img src="https://lh3.googleusercontent.com/pw/AM-JKLU35EINTQQF4CA7yydblzs4uSNgkYQLucA1qKfBs4-qe-y3bZqtSaQfyHnLuDJbKkyxS8r1Dq21m32QYDl3d7AEBAvVrRNamr2E5y5p9AbqlXA93bkI25xtvxtMgrC1bfXsXY8kpvr_9P4db3rwRKw0=w2302-h1528-no">
 </span>
 </details>
-- _2021 Oct_ [Cloud Nord](https://www.cloudnord.fr/programme2021)
-<span class="detail-tag">Remote</span>
+- _2021 Oct_ [Cloud Nord](https://www.cloudnord.fr/programme2021) - 💻 Remote
 <span class="detail-tag">Speaker</span>
 <br><details><summary>Cloud Run... everything you need without K8S / [Slides](/slides/2021-10-06-cloud-run-dot-dot-dot-everything-you-need-without-k8s-cloud-nord/ ':ignore')
 </summary>
@@ -1294,8 +1278,7 @@ Faisons un tour des petits plus de cette solution : nous y trouvons la majorité
 <img src="https://sfo2.digitaloceanspaces.com/advocu/gde/activity-photos/2021/11/27/172107f2-1684-41cc-a6e7-2e27bd57fc58.jpeg">
 </span>
 </details>
-- _2021 Oct_ Round table "RDV des Speakers"
-<span class="detail-tag">Remote</span>
+- _2021 Oct_ Round table "RDV des Speakers" - 💻 Remote
 <span class="detail-tag">Speaker</span>
 <br><details><summary>Chit chat about Cloud technologies / [Twitch](https://www.twitch.tv/rdvspeakers)
 </summary>
@@ -1307,7 +1290,7 @@ Twitter: https://twitter.com/jlandure/status/1446027097605033986
 <img src="https://sfo2.digitaloceanspaces.com/advocu/gde/activity-photos/2021/10/07/0d164a7c-4fd1-4803-b6ea-2ee4aa5785fe.png">
 </span>
 </details>
-- _2021 Oct_ Accelerate Workshop with [William Bartlett](https://twitter.com/bartlettstarman)
+- _2021 Oct_ Accelerate Workshop with [William Bartlett](https://twitter.com/bartlettstarman) - 🇫🇷 Nantes, France
 <span class="detail-tag">Enterprise</span>
 <span class="detail-tag">Speaker</span>
 <br><details><summary>Atelier Accelerate
@@ -1337,7 +1320,7 @@ Faisons un tour des petits plus de cette solution : nous y trouvons la majorité
 <img src="https://sfo2.digitaloceanspaces.com/advocu/gde/activity-photos/2021/09/30/967e4737-bfc1-418e-b782-9d978395cc15.jpeg">
 </span>
 </details>
-- _2021 Sep_ [Zenika](https://tz-nantes.zenika.com/)
+- _2021 Sep_ [Zenika](https://tz-nantes.zenika.com/) - 🇫🇷 Nantes, France
 <span class="detail-tag">Speaker</span>
 <br><details><summary>How to create an open source project? with [Julia Lehoux](https://twitter.com/julia_lehoux) / [Slides](/slides/2021-09-23-creer-un-projet-open-source-ou-adopter-un-chaton-meme-combat/ ':ignore')
 </summary>
@@ -1357,8 +1340,7 @@ Si vous ne venez pas nous écouter, vous pouvez toujours faire un don à la SPA.
 <img src="https://sfo2.digitaloceanspaces.com/advocu/gde/activity-photos/2021/09/30/76c3b919-7f3a-42d0-9160-e1b2e4166f28.jpg">
 </span>
 </details>
-- _2021 Sep_ [RRLL - Les Rencontres Régionales du Logiciel Libre 2021](https://eventyay.com/e/bcf0a8e9/schedule?date=2021-09-21)
-<span class="detail-tag">Remote</span>
+- _2021 Sep_ [RRLL - Les Rencontres Régionales du Logiciel Libre 2021](https://eventyay.com/e/bcf0a8e9/schedule?date=2021-09-21) - 💻 Remote
 <span class="detail-tag">Speaker</span>
 <br><details><summary>Cloud, OpenSource and Community / [Slides](/slides/2021-09-20-cloud-opensource-and-community-8d1aa149-90cb-49d6-be46-497094b7196b/ ':ignore') / [Video](https://youtu.be/wUFDIf8kJa0?t=5595)
 </summary>
@@ -1374,8 +1356,7 @@ https://twitter.com/AllianceLibre/status/1440286270492532742
 <img src="https://sfo2.digitaloceanspaces.com/advocu/gde/activity-photos/2021/09/30/55b9cc20-8f9e-4259-b894-eb07bb2a6f3e.png">
 </span>
 </details>
-- _2021 Jul_ [Zenika - Best Of TZ](https://www.eventbrite.fr/e/billets-best-of-technozaure-par-et-pour-des-passionnes-de-tech-158403927411)
-<span class="detail-tag">Remote</span>
+- _2021 Jul_ [Zenika - Best Of TZ](https://www.eventbrite.fr/e/billets-best-of-technozaure-par-et-pour-des-passionnes-de-tech-158403927411) - 💻 Remote
 <span class="detail-tag">Speaker</span>
 <br><details><summary>Self-Marketing for Developers / [Slides](/slides/2021-04-22-self-marketing-for-developers-df79f8ba-4631-4d37-b00c-3fb73f7cc332/ ':ignore') / [Video](https://www.youtube.com/watch?v=Eumotc5_v44&list=PLdVDu8iO6zrMurVwGrFR23uw5OtGh4vFx&index=3)
 </summary>
@@ -1386,8 +1367,7 @@ https://twitter.com/ZenikaIT/status/1410565849631576065
 <img src="https://sfo2.digitaloceanspaces.com/advocu/gde/activity-photos/2021/07/16/de5c3081-2a6d-4e97-91b1-9261ea47f3e3.jpeg">
 </span>
 </details>
-- _2021 Jul_ [Zenika](https://www.eventbrite.fr/e/billets-serverless-avec-google-cloud-remote-clazz-lab-142892283667)
-<span class="detail-tag">Remote</span>
+- _2021 Jul_ [Zenika](https://www.eventbrite.fr/e/billets-serverless-avec-google-cloud-remote-clazz-lab-142892283667) - 💻 Remote
 <span class="detail-tag">Meetup Speaker</span>
 <br><details><summary>Training GCP Cloud Fundamentals: Core Infrastructure with [Thibault Ruaro
 ](https://twitter.com/ThibaultRuaro) [Yoan Rousseau](https://twitter.com/yoan_rousseau)
@@ -1399,18 +1379,15 @@ Training GCP Cloud Fundamentals: Core Infrastructure @Zenika as official ATP tra
 <img src="https://sfo2.digitaloceanspaces.com/advocu/gde/activity-photos/2021/07/12/9140dbcd-0650-42ab-beff-f3a82dcad9f9.png">
 </span>
 </details>
-- _2021 Jul_ Google Cloud Introduction
-<span class="detail-tag">Remote</span>
+- _2021 Jul_ Google Cloud Introduction - 💻 Remote
 <span class="detail-tag">Enterprise</span>
 <span class="detail-tag">Speaker</span>
 <br>_Attendees: 25_
-- _2021 Jun_ Things you can learn from big players with [Antoine Bonneau](https://twitter.com/CallMeGoodWater)
-<span class="detail-tag">Remote</span>
+- _2021 Jun_ Things you can learn from big players with [Antoine Bonneau](https://twitter.com/CallMeGoodWater) - 💻 Remote
 <span class="detail-tag">Enterprise</span>
 <span class="detail-tag">Speaker</span>
 <br>_Attendees: 30_
-- _2021 Jun_ [Skillsmatter CloudNative eXchange Forum](https://skillsmatter.com/conferences/13490-cloudnative-exchange-forum-21#program)
-<span class="detail-tag">Remote</span>
+- _2021 Jun_ [Skillsmatter CloudNative eXchange Forum](https://skillsmatter.com/conferences/13490-cloudnative-exchange-forum-21#program) - 💻 Remote
 <span class="detail-tag">Speaker</span>
 <br><details><summary>Cloud, OpenSource and Community / [Slides](/slides/2021-06-21-cloud-opensource-and-community/ ':ignore') / [Video](https://skillsmatter.com/skillscasts/17016-cloud-opensource-and-community)
 </summary>
@@ -1425,13 +1402,11 @@ https://twitter.com/skillsmatter/status/1407318621366460418
 <img src="https://sfo2.digitaloceanspaces.com/advocu/gde/activity-photos/2021/06/22/6b2121b1-4e3a-4cc2-a23b-55fb571e6dbc.png">
 </span>
 </details>
-- _2021 Jun_ Serverless with Google Cloud with [Éric Briand](https://twitter.com/eric_briand)
-<span class="detail-tag">Remote</span>
+- _2021 Jun_ Serverless with Google Cloud with [Éric Briand](https://twitter.com/eric_briand) - 💻 Remote
 <span class="detail-tag">Enterprise</span>
 <span class="detail-tag">Speaker</span>
 <br>_Attendees: 52_
-- _2021 Jun_ [Agile Lyon](https://www.agilelyon.fr/programme)
-<span class="detail-tag">Remote</span>
+- _2021 Jun_ [Agile Lyon](https://www.agilelyon.fr/programme) - 💻 Remote
 <span class="detail-tag">Speaker</span>
 <br><details><summary>Discovering Accelerate
 </summary>
@@ -1451,8 +1426,7 @@ Avec cet atelier, vous comprendrez l'idée générale, ces mécanismes et les r�
 <img src="https://sfo2.digitaloceanspaces.com/advocu/gde/activity-photos/2021/06/04/69198605-69cf-4b6d-abb4-7ba400008929.jpg">
 </span>
 </details>
-- _2021 May_ [DockerCon 2021](https://docker.events.cube365.net/dockercon-live/2021/community)
-<span class="detail-tag">Remote</span>
+- _2021 May_ [DockerCon 2021](https://docker.events.cube365.net/dockercon-live/2021/community) - 💻 Remote
 <span class="detail-tag">Speaker</span>
 <br><details><summary>Automatically tag your images with Docker Hub hooks! / [Slides](/slides/2021-05-27-automatically-tag-your-images-with-docker-hub-hooks/ ':ignore')
 </summary>
@@ -1465,8 +1439,7 @@ https://twitter.com/jlandure/status/1397925766357151774
 <img src="https://sfo2.digitaloceanspaces.com/advocu/gde/activity-photos/2021/06/22/6b2121b1-4e3a-4cc2-a23b-55fb571e6dbc.png">
 </span>
 </details>
-- _2021 May_ [GDG Cloud Nantes & GDG Le Mans & GDG Cloud Lyon & GDG Bordeaux](https://gdg.community.dev/events/details/google-gdg-cloud-nantes-presents-study-group-road-to-google-cloud-certification-2021-04-19/)
-<span class="detail-tag">Remote</span>
+- _2021 May_ [GDG Cloud Nantes & GDG Le Mans & GDG Cloud Lyon & GDG Bordeaux](https://gdg.community.dev/events/details/google-gdg-cloud-nantes-presents-study-group-road-to-google-cloud-certification-2021-04-19/) - 💻 Remote
 <span class="detail-tag">Speaker</span>
 <span class="detail-tag">Meetup Organizer</span>
 <br><details><summary>Road to Google Cloud Certification
@@ -1481,8 +1454,7 @@ Support with GDG devrel.
 <img src="https://sfo2.digitaloceanspaces.com/advocu/gde/activity-photos/2021/05/25/c8b88f8e-cbd0-4402-8303-c5dd13540253.png">
 </span>
 </details>
-- _2021 May_ [Google I/O 2021](https://gdg.community.dev/events/details/google-io-community-lounge-meetups-presents-learn-more-about-google-cloud-certifications/)
-<span class="detail-tag">Remote</span>
+- _2021 May_ [Google I/O 2021](https://gdg.community.dev/events/details/google-io-community-lounge-meetups-presents-learn-more-about-google-cloud-certifications/) - 💻 Remote
 <span class="detail-tag">Speaker</span>
 <span class="detail-tag">Attendee</span>
 <br><details><summary>Learn more about Google Cloud Certifications
@@ -1495,8 +1467,7 @@ https://twitter.com/jlandure/status/1394636444908638213
 <img src="https://sfo2.digitaloceanspaces.com/advocu/gde/activity-photos/2021/05/25/18cec9b9-410e-41b2-8ed6-c94bc033c44f.png">
 </span>
 </details>
-- _2021 May_ [Zenika](https://www.eventbrite.fr/e/billets-serverless-avec-google-cloud-remote-clazz-lab-142892283667)
-<span class="detail-tag">Remote</span>
+- _2021 May_ [Zenika](https://www.eventbrite.fr/e/billets-serverless-avec-google-cloud-remote-clazz-lab-142892283667) - 💻 Remote
 <span class="detail-tag">Meetup Speaker</span>
 <br><details><summary>Training GCP Cloud Fundamentals: Core Infrastructure with [Éric Briand](https://twitter.com/eric_briand) [Pierre-Yves Aillet](https://twitter.com/pyaillet)
 </summary>
@@ -1508,8 +1479,7 @@ https://twitter.com/ZenikaNantes/status/1395286008200040448
 <img src="https://sfo2.digitaloceanspaces.com/advocu/gde/activity-photos/2021/05/25/8ba31867-0ec6-4d9f-a718-c45bf8350c2f.png">
 </span>
 </details>
-- _2021 Apr_ [Zenika](https://tz.zenika.com/)
-<span class="detail-tag">Remote</span>
+- _2021 Apr_ [Zenika](https://tz.zenika.com/) - 💻 Remote
 <span class="detail-tag">Speaker</span>
 <br><details><summary>Self-Marketing for Developers / [Slides](/slides/2021-04-22-self-marketing-for-developers-df79f8ba-4631-4d37-b00c-3fb73f7cc332/ ':ignore') / [Video](https://youtu.be/9k7i2d3BZ1k)
 </summary>
@@ -1520,8 +1490,7 @@ https://twitter.com/ZenikaNantes/status/1385492333995741186
 <img src="https://sfo2.digitaloceanspaces.com/advocu/gde/activity-photos/2021/05/25/4ca8c834-d155-4bcb-85c0-c66642890926.jpeg">
 </span>
 </details>
-- _2021 Apr_ [GDG Cloud Nantes](https://gdg.community.dev/events/details/google-gdg-cloud-nantes-presents-google-cloud-certifications-tout-savoir-pour-passer-la-cloud-architect/)
-<span class="detail-tag">Remote</span>
+- _2021 Apr_ [GDG Cloud Nantes](https://gdg.community.dev/events/details/google-gdg-cloud-nantes-presents-google-cloud-certifications-tout-savoir-pour-passer-la-cloud-architect/) - 💻 Remote
 <span class="detail-tag">Meetup Speaker</span>
 <br><details><summary>Google Cloud Certifications : tout savoir pour passer la Cloud Architect !
 </summary>
@@ -1532,8 +1501,7 @@ Attendees: 46<br>
 <img src="https://sfo2.digitaloceanspaces.com/advocu/gde/activity-photos/2021/05/25/bdf7af65-ca56-44df-98f9-d624937829fb.png">
 </span>
 </details>
-- _2021 Apr_ [Zenika](https://www.eventbrite.fr/e/billets-serverless-avec-google-cloud-remote-clazz-lab-142892283667)
-<span class="detail-tag">Remote</span>
+- _2021 Apr_ [Zenika](https://www.eventbrite.fr/e/billets-serverless-avec-google-cloud-remote-clazz-lab-142892283667) - 💻 Remote
 <span class="detail-tag">Meetup Speaker</span>
 <br><details><summary>Serverless avec Google Cloud by Zenika x Google Cloud with [Guillaume Laforge](https://twitter.com/glaforge) [Thibault Ruaro
 ](https://twitter.com/ThibaultRuaro) [Mael Galite](https://twitter.com/eremjay) / [Video](https://www.youtube.com/watch?v=2oioF7Jo2o0&list=PLdVDu8iO6zrMurVwGrFR23uw5OtGh4vFx&index=4)
@@ -1555,8 +1523,7 @@ N'hésite plus, inscris-toi dès maintenant pour être sûr d’obtenir ta place
 <img src="https://sfo2.digitaloceanspaces.com/advocu/gde/activity-photos/2021/05/20/c9445376-34bc-4810-94a9-ebb2830f0ed3.jpg">
 </span>
 </details>
-- _2021 Mar_ [GDG Cloud Abidjan & GDG Cloud Nantes](https://gdg.community.dev/events/details/google-gdg-cloud-nantes-presents-decouvrir-les-cloud-events-avec-cloud-run-cloud-run-week/)
-<span class="detail-tag">Remote</span>
+- _2021 Mar_ [GDG Cloud Abidjan & GDG Cloud Nantes](https://gdg.community.dev/events/details/google-gdg-cloud-nantes-presents-decouvrir-les-cloud-events-avec-cloud-run-cloud-run-week/) - 💻 Remote
 <span class="detail-tag">Meetup Speaker</span>
 <span class="detail-tag">Meetup Organizer</span>
 <br><details><summary>Découvrir les Cloud Events avec Cloud Run - Cloud Run Week with [Éric Briand](https://twitter.com/eric_briand) / [Slides](/slides/2021-03-10-discovering-cloud-events-with-cloud-run/ ':ignore') / [Video](https://www.youtube.com/watch?v=ginM03MEbJY&list=PLdVDu8iO6zrMurVwGrFR23uw5OtGh4vFx&index=5)
@@ -1572,8 +1539,7 @@ Collaboration GDG Cloud Nantes et GDG Cloud Abidjan
 <img src="https://sfo2.digitaloceanspaces.com/advocu/gde/activity-photos/2021/05/20/88b57354-8192-4896-9c33-d887ba734e24.png">
 </span>
 </details>
-- _2021 Feb_ [GDG Cloud Nantes](https://www.meetup.com/fr-FR/GDG-Cloud-Nantes/events/276148914/)
-<span class="detail-tag">Remote</span>
+- _2021 Feb_ [GDG Cloud Nantes](https://www.meetup.com/fr-FR/GDG-Cloud-Nantes/events/276148914/) - 💻 Remote
 <span class="detail-tag">Meetup Speaker</span>
 <br><details><summary>Cloud Study Jam - Passer la certification GCP Architect
 </summary>
@@ -1586,33 +1552,28 @@ Que ce soit pour découvrir GCP ou bien préparer la certification, vous pourrez
 <img src="https://sfo2.digitaloceanspaces.com/advocu/gde/activity-photos/2021/02/18/9b9a3a77-459f-41f3-be89-3809d03f8677.png">
 </span>
 </details>
-- _2021 Jan_ DevSecOps with [Guillaume Membré](https://twitter.com/GuillaumeMembre)
-<span class="detail-tag">Remote</span>
+- _2021 Jan_ DevSecOps with [Guillaume Membré](https://twitter.com/GuillaumeMembre) - 💻 Remote
 <span class="detail-tag">Enterprise</span>
 <span class="detail-tag">Speaker</span>
 <br>_Attendees: 65_
 
 ## 2020
 
-- _2020 Dec_ Firebase Analytics
-<span class="detail-tag">Remote</span>
+- _2020 Dec_ Firebase Analytics - 💻 Remote
 <span class="detail-tag">Enterprise</span>
 <span class="detail-tag">Speaker</span>
 <br>_Attendees: 5_
-- _2020 Dec_ API Rest & Microservices with [William Bartlett](https://twitter.com/bartlettstarman)
-<span class="detail-tag">Remote</span>
+- _2020 Dec_ API Rest & Microservices with [William Bartlett](https://twitter.com/bartlettstarman) - 💻 Remote
 <span class="detail-tag">Enterprise</span>
 <span class="detail-tag">Speaker</span>
 <br>_Attendees: 54_
-- _2020 Dec_ 2020 IT Trends with [Antoine Bonneau](https://twitter.com/CallMeGoodWater)
-<span class="detail-tag">Remote</span>
+- _2020 Dec_ 2020 IT Trends with [Antoine Bonneau](https://twitter.com/CallMeGoodWater) - 💻 Remote
 <span class="detail-tag">Enterprise</span>
 <span class="detail-tag">Speaker</span>
 <br>_Attendees: 210_
 _ _2020 Dec_ [Tech.Rocks Summit 2020](https://events.tech.rocks/summit-2020/)
 <span class="detail-tag">Attendee</span>
-- _2020 Dec_ [Zenika](https://twitter.com/ZenikaNantes/status/1334808425079959553)
-<span class="detail-tag">Remote</span>
+- _2020 Dec_ [Zenika](https://twitter.com/ZenikaNantes/status/1334808425079959553) - 💻 Remote
 <span class="detail-tag">Speaker</span>
 <br><details><summary>Dark, a language built for deployless backends / [Slides](/slides/2020-12-03-dark-a-language-built-for-deployless-backends/ ':ignore')
 </summary>
@@ -1633,8 +1594,7 @@ Voyons ensemble ce que cela donne ! 🚀
 <img src="https://sfo2.digitaloceanspaces.com/advocu/gde/activity-photos/2020/12/19/fc4d3f17d6fadf40675e.png">
 </span>
 </details>
-- _2020 Sep_ [GDG Cloud Abidjan & GDG Cloud Nantes](https://www.meetup.com/fr-FR/GDG-Cloud-Nantes/events/273404410/)
-<span class="detail-tag">Remote</span>
+- _2020 Sep_ [GDG Cloud Abidjan & GDG Cloud Nantes](https://www.meetup.com/fr-FR/GDG-Cloud-Nantes/events/273404410/) - 💻 Remote
 <span class="detail-tag">Speaker</span>
 <br><details><summary>AppEngine : le Serverless au service des développeurs ! / [Slides](/slides/2020-09-23-appengine-le-serverless-au-service-des-developpeurs/ ':ignore') / [Video](https://www.youtube.com/watch?v=pdWdbPFmj7Y&list=PLdVDu8iO6zrMurVwGrFR23uw5OtGh4vFx&index=8)
 </summary>
@@ -1647,8 +1607,7 @@ Collaboration GDG Cloud Nantes et GDG Cloud Abidjan
 <img src="https://sfo2.digitaloceanspaces.com/advocu/gde/activity-photos/2020/09/28/8152240c683764c6fb35.png">
 </span>
 </details>
-- _2020 Sep_ [Zenika](https://www.eventbrite.fr/e/billets-developper-et-publier-une-application-ios-android-en-2-mois-115064180060?aff=ebdsoporgprofile)
-<span class="detail-tag">Remote</span>
+- _2020 Sep_ [Zenika](https://www.eventbrite.fr/e/billets-developper-et-publier-une-application-ios-android-en-2-mois-115064180060?aff=ebdsoporgprofile) - 💻 Remote
 <span class="detail-tag">Speaker</span>
 <br><details><summary>ReactNative & Firebase with [Benjamin Petetot](https://twitter.com/bpetetot) / [Video](https://www.youtube.com/watch?v=pdWdbPFmj7Y&list=PLdVDu8iO6zrMurVwGrFR23uw5OtGh4vFx&index=8)
 </summary>
@@ -1663,8 +1622,7 @@ https://twitter.com/ZenikaIT/status/1298224925040357379
 <img src="https://sfo2.digitaloceanspaces.com/advocu/gde/activity-photos/2020/09/18/f3b8234cd160f84d76e2.png">
 </span>
 </details>
-- _2020 Sep_ [Nantes JS](https://nantesjs.org/meetup-52)
-<span class="detail-tag">Remote</span>
+- _2020 Sep_ [Nantes JS](https://nantesjs.org/meetup-52) - 💻 Remote
 <span class="detail-tag">Speaker</span>
 <br><details><summary>Self-Marketing for Developers / [Slides](/slides/2020-09-16-self-marketing-for-developers-880da038-0322-4233-aeb3-f2baa9497fd1/ ':ignore') / [Video](https://www.youtube.com/watch?v=diJAyifTaSc&list=PLdVDu8iO6zrMurVwGrFR23uw5OtGh4vFx&index=7)
 </summary>
@@ -1680,8 +1638,7 @@ https://twitter.com/NantesJS/status/1306641289811832843
 <img src="https://sfo2.digitaloceanspaces.com/advocu/gde/activity-photos/2020/09/18/c335651147c51b1765dd.jpeg">
 </span>
 </details>
-- _2020 Jun_ [Skillsmatter](https://skillsmatter.com/meetups/13111-let-s-play-with-cloud-code-to-run-cloud-native-applications)
-<span class="detail-tag">Remote</span>
+- _2020 Jun_ [Skillsmatter](https://skillsmatter.com/meetups/13111-let-s-play-with-cloud-code-to-run-cloud-native-applications) - 💻 Remote
 <span class="detail-tag">Meetup Speaker</span>
 <br><details><summary>Let’s Play with Cloud Code to Run Cloud Native Applications / [Slides](/slides/2020-06-17-lets-play-with-cloud-code-to-run-cloud-native-applications/ ':ignore') / [Video](https://www.youtube.com/watch?v=31xlUN4CQVE&list=PLdVDu8iO6zrMurVwGrFR23uw5OtGh4vFx&index=9)
 </summary>
@@ -1701,8 +1658,7 @@ https://twitter.com/skillsmatter/status/1273919749479706625
 <img src="https://sfo2.digitaloceanspaces.com/advocu/gde/activity-photos/2020/06/22/858ed8d8627bde3e4034.jpeg">
 </span>
 </details>
-- _2020 May_ [GDG Cloud Nantes](https://www.meetup.com/fr-FR/GDG-Cloud-Nantes/events/270481028/)
-<span class="detail-tag">Remote</span>
+- _2020 May_ [GDG Cloud Nantes](https://www.meetup.com/fr-FR/GDG-Cloud-Nantes/events/270481028/) - 💻 Remote
 <span class="detail-tag">Meetup Speaker</span>
 <span class="detail-tag">Meetup Organizer</span>
 <br><details><summary>Firebase Study Jam with Alex Astrum
@@ -1714,8 +1670,7 @@ Alex Astrum @Google Firebase Team joined me to organize a Firebase Study Jam Onl
 <img src="https://sfo2.digitaloceanspaces.com/advocu/gde/activity-photos/2020/06/11/043f5473f919c791febe.png">
 </span>
 </details>
-- _2020 Apr_ [Zenika](https://www.meetup.com/fr-FR/NightClazz-by-Zenika-Singapore/events/266776253/)
-<span class="detail-tag">Remote</span>
+- _2020 Apr_ [Zenika](https://www.meetup.com/fr-FR/NightClazz-by-Zenika-Singapore/events/266776253/) - 💻 Remote
 <span class="detail-tag">Meetup Speaker</span>
 <br><details><summary>Cloud Patterns ou comment développer une application Cloud-Native / [Slides](/slides/2020-04-20-cloud-patterns-ou-comment-developper-une-application-cloud-native/ ':ignore') / [Video](https://www.youtube.com/watch?v=qlF378oDqW8&list=PLdVDu8iO6zrMurVwGrFR23uw5OtGh4vFx&index=9)
 </summary>
