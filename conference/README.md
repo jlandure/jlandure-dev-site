@@ -25,6 +25,16 @@ Que vous soyez curieux ou utilisateur aguerri, venez découvrir comment transfor
 - _2026 Jun_ [French Tech Night](https://www.lacantine.co/french-tech-night/) - 🇫🇷 Nantes, France
 <span class="detail-tag">Attendee</span>
 <br>Linkedin: https://www.linkedin.com/posts/jlandure_tech-frenchtechnight-activity-7470485601105125376-wa-U
+- _2026 Jun_ [TechReady](https://2026.techready.live/) - 🇫🇷 Nantes, France (1d)
+<span class="detail-tag">TechReady Organizer</span>
+<br><details><summary>Organizer
+</summary>
+<span><em>
+Attendees: 500
+</em>
+<img src="/conference/images/2026-06-05-techready.webp">
+</span>
+</details>
 - _2026 May_ [Nuit des Communautés 2026](https://www.externatic.fr/blog/nuit-des-communautes-2026/) + [GDG Nantes](https://gdg.community.dev/events/details/google-gdg-nantes-android-presents-nuit-des-communautes-2026/) - 🇫🇷 Nantes, France
 <span class="detail-tag">Speaker</span>
 <span class="detail-tag">Meetup</span>
@@ -389,14 +399,14 @@ Je vous partagerai mon expérience et essaierai de montrer pourquoi les solution
 <img src="https://storage.googleapis.com/advocu-app/images/6597d5c3b52eaef4e46a602e/activity-images/a1f14242-fff0-4515-adba-42003f956ce4">
 </span>
 </details>
-- _2025 Jun_ [TechReady](https://techready.live/) - 🇫🇷 Nantes, France (1d)
+- _2025 Jun_ [TechReady](https://2025.techready.live/) - 🇫🇷 Nantes, France (1d)
 <span class="detail-tag">TechReady Organizer</span>
 <br><details><summary>Organizer
 </summary>
 <span><em>
 Attendees: 300
 </em>
-<img src="https://media.licdn.com/dms/image/v2/D4E22AQE_o06Ay4WRWg/feedshare-shrink_800/B4EZc7PCIhHQAg-/0/1749045486572?e=1758153600&v=beta&t=yHhK6GtdPCGxseuoNxWF8ZScjHsMk4ygZtLj5eSrMRQ">
+<img src="/conference/images/2025-06-03-techready.webp">
 </span>
 </details>
 - _2025 May_ [Soirée GDG Nantes au Melting potes](https://www.meetup.com/gdg-nantes/events/307602110/) - 🇫🇷 Nantes, France
