@@ -1,5 +1,7 @@
 - _2026 Jul_ Formation Claude Code 🇫🇷 - RCA, Nantes (2d)
+<br>Attendees: 8
 - _2026 Jun_ Formation Cursor 🇫🇷 - Sigma, Nantes (0.5d)
+<br>Attendees: 11
 - _2026 Jun_ Cloud Workshops on Google Cloud at EPSI School 🇫🇷 - Nantes (8d)
 <br>Attendees: 24
 - _2026 Apr_ Coder avec l'IA 🇫🇷 - Sirehna, Nantes (0.5d)
