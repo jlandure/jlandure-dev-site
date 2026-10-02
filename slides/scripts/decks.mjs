@@ -122,6 +122,14 @@ function parseMarkdownLinks(text) {
   return links;
 }
 
+function parseSpeakers(text) {
+  const links = parseMarkdownLinks(text);
+  if (links.length) return links;
+  const name = text.replace(/\s+/g, " ").trim();
+  if (!name) return [];
+  return [{ name }];
+}
+
 let conferenceSpeakersBySlug;
 
 export function loadConferenceSpeakers() {
@@ -137,7 +145,7 @@ export function loadConferenceSpeakers() {
     const withMatch = summary.match(/\swith\s([\s\S]*)$/i);
     if (!withMatch) continue;
     const afterWith = withMatch[1].split(/\s\/\s\[(?:Slides|Video)\]/i)[0];
-    const speakers = parseMarkdownLinks(afterWith);
+    const speakers = parseSpeakers(afterWith);
     if (!speakers.length) continue;
     const slug = slugMatch[1];
     const list = conferenceSpeakersBySlug.get(slug) || [];

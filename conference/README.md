@@ -2,6 +2,20 @@
 
 ## 2026
 
+- _2026 Oct_ [WAX](https://www.waxconf.fr/) - 🇫🇷 Marseille, France (1d)
+<span class="detail-tag">Speaker</span>
+<br><details><summary>Prise en main de GitHub Copilot & Adoption en entreprise with Sébastien Bourgine / [Slides](/slides/2026-10-01-prise-en-main-de-github-copilot-and-adoption-en-entreprise-at-wax/ ':ignore')
+</summary>
+<span><em>
+Attendees: 150<br>
+800 participants sur la journée.
+Les agents IA pour les développeurs se sont imposés comme compagnons de code au sein des entreprises pour obtenir un workflow de développement simple et intégré.
+Disponible avec différents modèles, cette session partage les pratiques industrialisées autour de GitHub Copilot : Context Engineering, AGENTS.md, registry MCP, marketplace de skills et Spec Driven Development.
+De la veille au déploiement à l'échelle, retour d'expérience sur la démarche d'adoption chez U Tech, les métriques collectées et la gouvernance FinOps des crédits IA.
+</em>
+<img src="/slides/2026-10-01-prise-en-main-de-github-copilot-and-adoption-en-entreprise-at-wax/cover.webp">
+</span>
+</details>
 - _2026 Jun_ [Google I/O Connect 2026 + Google for Developers Community Leads Summit + Community Happy Hour 🌭 + GDE Europe Summit 2026](https://rsvp.withgoogle.com/events/ioconnect-berlin-2026) - 🇩🇪 Berlin, Germany (3d)
 <span class="detail-tag">Attendee</span>
 <span class="detail-tag tech">Google</span>
