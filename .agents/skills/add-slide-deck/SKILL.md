@@ -22,6 +22,9 @@ Source of truth: `slides/<slug>/deck.md` plus a local `deck.pdf` used only to ge
 - Public IAM: `allUsers` → `roles/storage.legacyObjectReader` only (GET object, no list, no write)
 - CORS: `GET`/`HEAD` from any origin
 - Auth for upload: `gcloud auth login` (already done). Use `--project=jlandure-dev-slides`.
+- Uploads use the `gcloud storage` CLI, not a language SDK. There is no `@google-cloud/storage` (or other Cloud Storage client library) in this repo, so the SDK checksum minimums (Node 7.19.0, Python 3.7.0, Java 2.62.0, and the rest) do not apply.
+- Integrity: the CLI must send a CRC32C checksum. Install `gcloud-crc32c` (`gcloud components install gcloud-crc32c`) and leave `storage/check_hashes` at `if_fast_else_fail`. Do not set it to `never`.
+- Last checked 2026-10-08: Google Cloud CLI 588.0.0, `gcloud-crc32c` installed. If the CLI is older, run `gcloud components update` before uploading.
 
 ```bash
 gcloud storage cp slides/<YYYY-MM-DD-slug>/deck.pdf \
