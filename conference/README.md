@@ -4,7 +4,7 @@
 
 - _2026 Oct_ [WAX](https://www.waxconf.fr/) - 🇫🇷 Marseille, France (1d)
 <span class="detail-tag">Speaker</span>
-<br><details><summary>Prise en main de GitHub Copilot & Adoption en entreprise with Sébastien Bourgine / [Slides](/slides/2026-10-01-prise-en-main-de-github-copilot-and-adoption-en-entreprise-at-wax/ ':ignore')
+<br><details><summary>Prise en main de GitHub Copilot & Adoption en entreprise with Sébastien Bourgine / [Slides](/slides/2026-10-01-prise-en-main-de-github-copilot-and-adoption-en-entreprise-at-wax/ ':ignore') / [Video](https://www.youtube.com/watch?v=5qFJb5J3lnE&list=PLdVDu8iO6zrMurVwGrFR23uw5OtGh4vFx)
 </summary>
 <span><em>
 Attendees: 150<br>
