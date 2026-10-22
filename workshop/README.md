@@ -1,3 +1,6 @@
+- _2026 Oct_ Training GCP Architecting with Google Compute Engine 🇫🇷 - Carrefour (3d)
+<span class="detail-tag">Official Trainer</span>
+<br>Attendees: 3
 - _2026 Jul_ Formation Claude Code 🇫🇷 - RCA, Nantes (2d)
 <br>Attendees: 8
 - _2026 Jun_ Formation Cursor 🇫🇷 - Sigma, Nantes (0.5d)
