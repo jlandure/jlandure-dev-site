@@ -1,5 +1,9 @@
 Stories with/about me
 
+- 2026-10-16 [IFTTD #356.exe - La force de la conférence](/external/2026-10-16-ifttd-la-force-de-la-conference-exe.md) -- [Direct Link](https://www.ifttd.io/episodes/la-force-de-la-conference-exe)
+<span class="detail-tag">Podcast</span>
+- 2026-05-13 [IFTTD #356 - La force de la conférence](/external/2026-05-13-ifttd-la-force-de-la-conference.md) -- [Direct Link](https://www.ifttd.io/episodes/la-force-de-la-conference)
+<span class="detail-tag">Podcast</span>
 - 2022-04-05 [Interview WeLoveDevs](/external/2022-04-05-welovedevs.md)  -- [Direct Link](https://welovedevs.com/fr/articles/31-julien-landure-zenika/)
 <span class="detail-tag">Podcast</span>
 - 2021-06-11 [TV France 3](/external/2021-06-11-france3.md)

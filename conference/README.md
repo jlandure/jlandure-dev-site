@@ -2,6 +2,9 @@
 
 ## 2026
 
+- _2026 Oct_ [IFTTD #356.exe](https://www.ifttd.io/episodes/la-force-de-la-conference-exe) - 💻 Remote
+<span class="detail-tag">Podcast</span>
+<br>La force de la conférence : Pourquoi les devs ont besoin de se retrouver IRL, débrief par Pierre Burgy
 - _2026 Oct_ [WAX](https://www.waxconf.fr/) - 🇫🇷 Marseille, France (1d)
 <span class="detail-tag">Speaker</span>
 <br><details><summary>Prise en main de GitHub Copilot & Adoption en entreprise with Sébastien Bourgine / [Slides](/slides/2026-10-01-prise-en-main-de-github-copilot-and-adoption-en-entreprise-at-wax/ ':ignore') / [Video](https://www.youtube.com/watch?v=5qFJb5J3lnE&list=PLdVDu8iO6zrMurVwGrFR23uw5OtGh4vFx)
@@ -73,6 +76,10 @@ Soirée spéciale AI pour les développeurs avec l'IDE agentique Google Antigrav
 </em>
 </span>
 </details>
+- _2026 May_ [IFTTD #356](https://www.ifttd.io/episodes/la-force-de-la-conference) - 💻 Remote
+<span class="detail-tag">Podcast</span>
+<span class="detail-tag">Speaker</span>
+<br>La force de la conférence : Pourquoi les devs ont besoin de se retrouver IRL / [Video](https://www.youtube.com/watch?v=R_EFQzCf7Bg&list=PLdVDu8iO6zrMurVwGrFR23uw5OtGh4vFx)
 - _2026 May_ [GDG Rennes](https://gdg.community.dev/events/details/google-gdg-rennes-presents-rex-dun-homelab-overkill-avec-lia-amp-recap-google-cloud-next26/) - 🇫🇷 Rennes, France
 <span class="detail-tag">Speaker</span>
 <span class="detail-tag">Meetup</span>

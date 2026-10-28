@@ -2,6 +2,7 @@
 
 ## 2025
 
+- _2025 Dec 19_ [Cursor : l’IDE augmenté qui transforme la relation entre développeurs et IA](https://www.programmez.com/magazine/article/cursor-lide-augmente-qui-transforme-la-relation-entre-developpeurs-et-ia) -- [Original](https://www.programmez.com/magazine/article/cursor-lide-augmente-qui-transforme-la-relation-entre-developpeurs-et-ia)
 - _2025 Sep 03_ [🚀 Boosting Your Dev Workflow with Cursor Docs](https://medium.com/@jlandure/boosting-your-dev-workflow-with-cursor-docs-e4bcfd1c9efe) -- [Original](https://medium.com/@jlandure/boosting-your-dev-workflow-with-cursor-docs-e4bcfd1c9efe)
 - _2025 Apr 11_ [Google Cloud Next : 3 projets OpenSource pour l’IA Agentique](https://medium.com/@jlandure/google-cloud-next-3-projets-opensource-pour-lia-agentique-e6cd1a59f3e2) -- [Original](https://medium.com/@jlandure/google-cloud-next-3-projets-opensource-pour-lia-agentique-e6cd1a59f3e2)
 
